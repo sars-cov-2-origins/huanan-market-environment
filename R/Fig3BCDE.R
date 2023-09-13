@@ -1,14 +1,8 @@
 # Plot animal detection maps
+source("load_data-sequencing.R")
 
+source("generic_plotting.R")
 # Load data if necessary
-if(!exists("samples")){
-  source("load_data-sequencing.R")
-}
-
-if(!exists("thepal")){
-  source("generic_plotting.R")
-}
-
 if(!exists("landmarks")){
   source("load_data-geographic.R")
 }

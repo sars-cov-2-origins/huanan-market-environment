@@ -86,9 +86,6 @@ plot629 <- function(sp, pdf = TRUE){
          legend = names(colsType)[1:2], #title = "Type of sample", 
          bty = "n")
   
-  #  x1 <- yy[dat629$Sampling.date == "2020-01-12"]
-  #  x2 <- yy[dat629$Sampling.date >= "2020-02-20"]
-  #  print(paste(sp, t.test(log(x1), log(x2))$p.value))
   if(pdf){
     dev.off()
   }

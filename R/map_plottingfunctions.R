@@ -136,7 +136,7 @@ plotBubbleMap <- function(stallNumerators, stallDenominators, stallPositions, pl
   }
   
   # Add the bubbles
-  plot(stallPositions[iorder], cex = cexs[iorder], pch = 21, bg = bgs[iorder], add = TRUE, col = borderBubble, lwd = 0.3)
+  plot(stallPositions[iorder], cex = cexs[iorder], pch = 21, bg = bgs[iorder], add = TRUE, col = borderBubble, lwd=0.5)
   
   if(plotLegend){
     
@@ -153,7 +153,7 @@ plotBubbleMap <- function(stallNumerators, stallDenominators, stallPositions, pl
     
     legend("bottomleft", pt.cex = getSampleCex(svals), pch = 21, col = 1, legend = svals, inset = c(-0.03, 0.015), xjust = 0, yjust = 0, 
            cex = 0.9, bty = "n", title = "Number of\nsamples", 
-           text.width = txtwd, title.adj = ttladj)
+           text.width = txtwd, title.adj = ttladj, pt.lwd=0.5)
     
     if(!logProp){ # Discrete scale
       #  Positivity legend
