@@ -1,0 +1,105 @@
+Host_general	Interesting	Host_probable	Host_guess	Mammalian_wildlife	Genome_type	Virus_full_name	genome
+Bird					DNA	AC_000013.1 Fowl adenovirus D, complete genome	AC_000013.1
+Bird					DNA	NC_001344.1 Duck hepatitis B virus, complete genome	NC_001344.1
+Bird					DNA	NC_001427.1 Chicken anemia virus, complete genome	NC_001427.1
+Bird					RNA	NC_001866.1 Avian myelocytomatosis virus, complete genome	NC_001866.1
+Bird					DNA	NC_002188.1 Fowlpox virus, complete genome	NC_002188.1
+Bird					DNA	NC_002229.3 Gallid herpesvirus 2, complete genome	NC_002229.3
+Bird					DNA	NC_002361.1 Columbid circovirus (CoCV), complete genome	NC_002361.1
+Bird					DNA	NC_002577.1 Gallid herpesvirus 3, complete genome	NC_002577.1
+Bird					DNA	NC_004800.1 Goose hemorrhagic polyomavirus, complete genome	NC_004800.1
+Bird					DNA	NC_014969.1 Fowl adenovirus E, complete genome	NC_014969.1
+Bird					DNA	NC_015396.1 Avian gyrovirus 2, complete genome	NC_015396.1
+Bird					DNA	NC_024446.1 Penguinpox virus isolate PSan92, complete genome	NC_024446.1
+Bird					DNA	NC_028238.1 Turkeypox virus strain TKPV-HU1124/2011, complete genome	NC_028238.1
+Bird					DNA	NC_030133.1 Duck faeces associated circular DNA virus 2 isolate 4_Fec60467_duck, complete sequence	NC_030133.1
+Bird					DNA	NC_031503.1 Pigeon adenovirus 2 isolate YPDS-Y-V1.A19.11-2013, complete genome	NC_031503.1
+Bird					DNA	NC_034266.1 Columbid alphaherpesvirus 1 strain HLJ, complete genome	NC_034266.1
+Bird					RNA	NC_039194.1 Avian paramyxovirus 6 strain APMV-6/Goose/FarEast/4440/2003, complete genome	NC_039194.1
+Bird					DNA	NC_043404.1 Avian myeloblastosis virus RNA-dependent DNA polymerase gene, partial cds; transforming protein gene, complete cds; and long terminal repeat, complete sequence	NC_043404.1
+Crustacean					DNA	NC_003225.3 White spot syndrome virus strain CN01, complete genome	NC_003225.3
+Crustacean					RNA	NC_014793.1 Mud crab dicistrovirus, complete genome	NC_014793.1
+Crustacean					RNA	NC_031275.1 Wenzhou Crab Virus 1 strain RBX2 nucleocapsid (N), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds	NC_031275.1
+Crustacean					RNA	NC_032129.1 Beihai mollusks virus 1 strain WZSLuoI86140 hypothetical protein 1 and hypothetical protein 2 genes, complete cds	NC_032129.1
+Crustacean					RNA	NC_032481.1 Beihai mollusks virus 2 strain WZSLuoI86113 hypothetical protein 1 and hypothetical protein 2 genes, complete cds	NC_032481.1
+Crustacean					RNA	NC_032811.1 Hubei unio douglasiae virus 2 strain WHBL72658 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds	NC_032811.1
+Crustacean					RNA	NC_032852.1 Wenzhou shrimp virus 8 strain shrimp14543 hypothetical protein gene, complete cds	NC_032852.1
+Crustacean					RNA	NC_032890.1 Wenzhou channeled applesnail virus 3 strain BHBei77067 hypothetical protein gene, complete cds	NC_032890.1
+Crustacean					RNA	NC_033156.1 Wenzhou gastropodes virus 1 strain WZSLuoI86017 hypothetical protein 1 and hypothetical protein 2 genes, complete cds	NC_033156.1
+Crustacean					RNA	NC_033172.1 Wenzhou gastropodes virus 2 strain WZSLuoI86086 hypothetical protein gene, complete cds	NC_033172.1
+Crustacean					RNA	NC_033291.1 Wenling crustacean virus 14 strain WLJQ104130 RNA-dependent RNA polymerase gene, complete cds	NC_033291.1
+Crustacean					DNA	NC_055165.1 Shrimp hemocyte iridescent virus isolate 20141215, complete genome	NC_055165.1
+Fecal					RNA	NC_003630.1 Pepper mild mottle virus, complete genome	NC_003630.1
+Fish					DNA	NC_003494.1 Infectious spleen and kidney necrosis virus, complete genome	NC_003494.1
+Fish					RNA	NC_008514.1 Siniperca chuatsi rhabdovirus, complete genome	NC_008514.1
+Fish					DNA	NC_017940.1 European sheatfish virus, complete genome	NC_017940.1
+Fish					RNA	NC_026812.1 Chinook salmon bafinivirus isolate NIDO, complete genome	NC_026812.1
+Human					DNA	AC_000017.1 Human adenovirus type 1, complete genome	AC_000017.1
+Human					DNA	NC_001356.1 Human papillomavirus - 1, complete genome	NC_001356.1
+Human					DNA	NC_001457.1 Human papillomavirus type 4, complete genome	NC_001457.1
+Human					RNA	NC_001781.1 Human orthopneumovirus Subgroup B, complete genome	NC_001781.1
+Human					DNA	NC_001806.2 Human herpesvirus 1 strain 17, complete genome	NC_001806.2
+Human					RNA	NC_001943.1 Human astrovirus, complete genome	NC_001943.1
+Human					RNA	NC_004905.2 Influenza A virus (A/Hong Kong/1073/99(H9N2)) segment 5, complete sequence	NC_004905.2
+Human					RNA	NC_004908.1 Influenza A virus ha gene for Hemagglutinin, genomic RNA, strain A/Hong Kong/1073/99(H9N2)	NC_004908.1
+Human					RNA	NC_007358.1 Influenza A virus (A/goose/Guangdong/1/1996(H5N1)) polymerase (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds	NC_007358.1
+Human					RNA	NC_007373.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 1, complete sequence	NC_007373.1
+Human					DNA	NC_009334.1 Human herpesvirus 4, complete genome	NC_009334.1
+Human					DNA	NC_022089.1 Parvovirus NIH-CQV putative 15-kDa protein, putative replication associated protein (rep), and putative capsid protein (cap) genes, complete cds	NC_022089.1
+Human					RNA	NC_026422.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 1 polymerase PB2 (PB2) gene, complete cds	NC_026422.1
+Human					RNA	NC_026423.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds	NC_026423.1
+Human					RNA	NC_026424.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 3 polymerase PA (PA) and PA-X protein (PA-X) genes, complete cds	NC_026424.1
+Human					RNA	NC_026426.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 5 nucleocapsid protein (NP) gene, complete cds	NC_026426.1
+Ignore					DNA	NC_038922.1 Avian sarcoma virus CT10 genomic sequence	NC_038922.1
+Ignore					Ignore	NC_001618.1 UR2 sarcoma virus, complete genome	NC_001618.1
+Ignore					Ignore	NC_002654.2 Helicoverpa armigera nucleopolyhedrovirus G4, complete genome	NC_002654.2
+Ignore					Ignore	NC_018401.1 Gyrovirus 4, complete genome	NC_018401.1
+Ignore					Ignore	NC_022789.1 Gyrovirus Tu789, complete genome	NC_022789.1
+Ignore					Ignore	NC_032965.1 Hubei tombus-like virus 2 strain WHSFII19265 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds	NC_032965.1
+Ignore					Ignore	NC_040594.1 Picalivirus A isolate PicaV-A, complete genome	NC_040594.1
+Mammal	Yes	Canine	Canine	Maybe	DNA	AC_000003.1 Canine adenovirus 1, complete genome	AC_000003.1
+Mammal	Yes	Canine	Canine	Maybe	DNA	NC_001539.1 Canine parvovirus, complete genome	NC_001539.1
+Mammal		Rabbit	Rabbit	Likely	RNA	NC_001543.1 Rabbit hemorrhagic disease virus-FRG, complete genome	NC_001543.1
+Mammal		Cat	Cat		RNA	NC_002306.3 Feline infectious peritonitis virus, complete genome	NC_002306.3
+Mammal					DNA	NC_003027.1 Lumpy skin disease virus NI-2490, complete genome	NC_003027.1
+Mammal		Canine	Canine	Maybe	DNA	NC_004442.1 Canine minute virus, complete genome	NC_004442.1
+Mammal		Cow	Cow		DNA	NC_005889.1 Bovine adeno-associated virus, complete genome	NC_005889.1
+Mammal					RNA	NC_006383.2 Peste des petits ruminants virus complete genome	NC_006383.2
+Mammal	Yes	Hedgehog	Hedgehog	Yes	DNA	NC_011765.1 European hedgehog papillomavirus, complete genome	NC_011765.1
+Mammal		Rabbit	Rabbit	Likely	RNA	NC_017083.1 Rabbit coronavirus HKU14, complete genome	NC_017083.1
+Mammal		Cat	Cat		DNA	NC_021472.1 Felis catus papillomavirus-3, complete genome	NC_021472.1
+Mammal		Pig	Pig		DNA	NC_022104.1 Porcine partetravirus strain FMV10-1437266, complete genome	NC_022104.1
+Mammal		Cat	Cat		RNA	NC_022249.1 Feline astrovirus 2 strain 1637F, complete genome	NC_022249.1
+Mammal		Cat	Cat		DNA	NC_022373.1 Felis catus papillomavirus 4 isolate MY-3, complete genome	NC_022373.1
+Mammal		Pig	Pig		RNA	NC_022787.1 Porcine torovirus strain SH1, complete genome	NC_022787.1
+Mammal		Pig	Pig		DNA	NC_023860.1 Porcine parvovirus 6 isolate TJ, complete genome	NC_023860.1
+Mammal	Yes	Raccoon dog	Raccoon dog	Yes	DNA	NC_025825.1 Raccoon dog amdovirus isolate HS-R NS1, NS2, NS3, VP1, and VP2 genes, complete cds	NC_025825.1
+Mammal	Yes	Rodent	Rat	Maybe	RNA	NC_026011.1 Betacoronavirus HKU24 strain HKU24-R05005I, complete genome	NC_026011.1
+Mammal	Yes	Wildlife	Wildlife	Maybe	DNA	NC_027708.1 Skunk adenovirus PB1, complete genome	NC_027708.1
+Mammal	Yes	Rodent	Rat		RNA	NC_032730.1 Lucheng Rn rat coronavirus isolate Lucheng-19, complete genome	NC_032730.1
+Mammal	Yes	Canine	Canine	Likely	RNA	NC_034971.1 Canine kobuvirus isolate SMCD-59, complete genome	NC_034971.1
+Mammal		Pig	Pig		DNA	NC_038538.1 Porcine bocavirus H18, partial genome	NC_038538.1
+Mammal		Pig	Pig		RNA	NC_038861.1 Transmissible gastroenteritis virus complete genome, genomic RNA	NC_038861.1
+Mammal		Pig	Pig		RNA	NC_039208.1 Porcine coronavirus HKU15 strain HKU15-155, complete genome	NC_039208.1
+Mammal	Yes	Canine	Canine	Maybe	DNA	NC_040533.1 Lupine bocavirus isolate South Douro, complete genome	NC_040533.1
+Mammal		Pig	Pig		DNA	NC_040562.1 Porcine parvovirus 7 isolate GX49, complete genome	NC_040562.1
+Mammal	Yes	Myocastor	Myocastor	Yes	DNA	NC_040573.1 Myocastor coypus polyomavirus 1, complete genome	NC_040573.1
+Mammal	Yes	Rodent	Rodent		DNA	NC_040604.1 Rodent papillomavirus isolate RtRn-PV/GD2014, complete genome	NC_040604.1
+Mammal	Yes	Rodent	Bamboo rat	Yes	DNA	NC_055121.1 Bamboo rat circovirus isolate FJ01, complete genome	NC_055121.1
+Mammal	Yes		Civet	Yes	RNA	OM451116.1 MAG: Civet astrovirus isolate SC-F1 nonstructural protein gene, partial cds; and capsid protein precursor, gene, complete cds	OM451116.1
+Mammal	Yes	Canine	Raccoon dog	Yes	RNA	OM451122.1 MAG: Canine coronavirus isolate SD-F3, complete genome	OM451122.1
+Mammal	Yes	Canine	Raccoon dog	Yes	RNA	OM451123.1 MAG: Canine coronavirus isolate HeB-G1, complete genome	OM451123.1
+Mammal	Yes	Hedgehog	Hedgehog	Yes	DNA	OM451141.1 MAG: Hedgehog bocavirus isolate HeN-F1 nonstructural protein 1, NP1, and structural protein 3 genes, complete cds	OM451141.1
+Mammal	Yes	Hedgehog	Hedgehog	Yes	DNA	OM451162.1 MAG: Hedgehog chapparvovirus 6 isolate HeN-F2 genomic sequence	OM451162.1
+Mammal	Yes	Canine	Raccoon dog	Yes	RNA	OM451182.1 MAG: Canine kobuvirus isolate JX-MO1 polyprotein gene, complete cds	OM451182.1
+Mammal	Yes		Civet	Yes	RNA	OM451183.1 MAG: Civet kobuvirus isolate SC-F3 polyprotein gene, complete cds	OM451183.1
+Mammal	Yes		Marmot	Yes	RNA	OM451185.1 MAG: Marmot kobuvirus isolate JS-TNA1 polyprotein gene, complete cds	OM451185.1
+Mammal	Yes			Yes	RNA	OM451194.1 MAG: Cadicivirus B isolate HeN-F3 polyprotein P1 and polyprotein P2/P3 genes, complete cds	OM451194.1
+Mammal	Yes	Hedgehog	Hedgehog	Yes	RNA	OM451195.1 MAG: Hedgehog dicipivirus 2 isolate HeN-F3 polyprotein P2/P3 gene, complete cds	OM451195.1
+Mammal				Yes	RNA	OM451208.1 MAG: Murine orthopneumovirus isolate ZJ-MO3 non-structural protein 1, non-structural protein 2, nucleocapsid protein, phosphoprotein, matrix protein, attachment glycoprotein, fusion protein, M2-1, M2-2, and polymerase subunit genes, complete cds	OM451208.1
+Mammal	Yes	Hedgehog	Hedgehog	Yes	RNA	OM451212.1 MAG: Erinaceus hedgehog coronavirus HKU31 isolate HeN-F3 ORF1ab, spike protein, and hypothetical protein genes, complete cds; envelop protein and membrane protein genes, partial cds; and nucleocapsid protein gene, complete cds	OM451212.1
+Mammal	Yes	Hedgehog	Hedgehog	Yes	RNA	OM451213.1 MAG: Erinaceus hedgehog coronavirus HKU31 isolate HeB-MO1 ORF1ab, spike protein, hypothetical protein, envelop protein, membrane protein, and nucleocapsid protein genes, complete cds	OM451213.1
+Mammal	Yes	Rodent	Bamboo rat	Yes	RNA	OQ297694.1 MAG: Bamboo rat coronavirus isolate GX/GX19-89/2019, complete genome	OQ297694.1
+Reptile				Yes	DNA	NC_006148.1 Snake parvovirus 1, complete genome	NC_006148.1
+Reptile				Yes	RNA	NC_046963.1 Guangdong red-banded snake torovirus strain LPSF30546 1ab protein, spike protein, hypothetical protein, and putative glycoprotein genes, complete cds	NC_046963.1
+SARS2					RNA	NC_045512.2 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome	NC_045512.2

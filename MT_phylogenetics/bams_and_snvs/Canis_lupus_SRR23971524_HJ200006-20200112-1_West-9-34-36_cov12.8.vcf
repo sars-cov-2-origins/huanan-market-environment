@@ -1,0 +1,31 @@
+##fileformat=VCFv4.0
+##fileDate=20230602
+##source=lofreq call --max-depth 50 -r NC_002008.4 -f mitochondria_dereplicated93_final.fasta -o Canis_lupus_SRR23971524_HJ200006-20200112-1_West-9-34-36_cov12.8.vcf Canis_lupus_SRR23971524_HJ200006-20200112-1_West-9-34-36_cov12.8.bam 
+##reference=mitochondria_dereplicated93_final.fasta
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Raw Depth">
+##INFO=<ID=AF,Number=1,Type=Float,Description="Allele Frequency">
+##INFO=<ID=SB,Number=1,Type=Integer,Description="Phred-scaled strand bias at this position">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Counts for ref-forward bases, ref-reverse, alt-forward and alt-reverse bases">
+##INFO=<ID=INDEL,Number=0,Type=Flag,Description="Indicates that the variant is an INDEL.">
+##INFO=<ID=CONSVAR,Number=0,Type=Flag,Description="Indicates that the variant is a consensus variant (as opposed to a low frequency variant).">
+##INFO=<ID=HRUN,Number=1,Type=Integer,Description="Homopolymer length to the right of report indel position">
+##FILTER=<ID=min_dp_10,Description="Minimum Coverage 10">
+##FILTER=<ID=sb_fdr,Description="Strand-Bias Multiple Testing Correction: fdr corr. pvalue > 0.001000">
+##FILTER=<ID=min_snvqual_51,Description="Minimum SNV Quality (Phred) 51">
+##FILTER=<ID=min_indelqual_20,Description="Minimum Indel Quality (Phred) 20">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NC_002008.4	2962	.	C	T	600	PASS	DP=18;AF=1.000000;SB=0;DP4=0,0,4,14
+NC_002008.4	4517	.	G	A	348	PASS	DP=14;AF=0.928571;SB=8;DP4=1,0,1,12
+NC_002008.4	6470	.	G	A	209	PASS	DP=10;AF=0.900000;SB=0;DP4=1,0,4,5
+NC_002008.4	6764	.	C	T	302	PASS	DP=14;AF=0.857143;SB=0;DP4=1,1,5,7
+NC_002008.4	8323	.	A	G	570	PASS	DP=19;AF=1.000000;SB=0;DP4=0,0,7,12
+NC_002008.4	8368	.	C	T	363	PASS	DP=12;AF=1.000000;SB=0;DP4=0,0,6,6
+NC_002008.4	8569	.	A	G	350	PASS	DP=16;AF=0.812500;SB=2;DP4=2,1,4,9
+NC_002008.4	8764	.	G	T	203	PASS	DP=10;AF=0.900000;SB=0;DP4=0,1,2,7
+NC_002008.4	8991	.	A	G	203	PASS	DP=12;AF=0.750000;SB=0;DP4=1,0,6,4
+NC_002008.4	10533	.	A	T	290	PASS	DP=13;AF=0.769231;SB=0;DP4=3,0,9,1
+NC_002008.4	11402	.	T	C	360	PASS	DP=26;AF=0.653846;SB=8;DP4=4,4,3,14
+NC_002008.4	12665	.	T	C	292	PASS	DP=13;AF=0.846154;SB=0;DP4=1,1,5,6
+NC_002008.4	13331	.	T	C	529	PASS	DP=19;AF=1.000000;SB=0;DP4=0,0,6,13
+NC_002008.4	13660	.	C	T	271	PASS	DP=12;AF=0.833333;SB=2;DP4=2,0,6,4
+NC_002008.4	15526	.	C	T	315	PASS	DP=12;AF=0.916667;SB=0;DP4=1,0,6,5

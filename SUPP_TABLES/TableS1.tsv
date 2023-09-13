@@ -1,0 +1,834 @@
+Lab code	Sample ID	Sampling date	Sample location	Street	Vendor	Edge case	Stall ID	Stall ID (merged)	Sample type	Sample information	SARS-CoV-2_qPCR_result	Latitude	Longitude	Sequencing run	SARS-CoV-2_NGS_result
+E77	Env_0291	01/01/2020	East	1	25-27		East|1|25-27	East|1|25-27	Environmental swab	Surface of chopping board	Negative	30.619438	114.258026	None	Negative
+E75	Env_0289	01/01/2020	East	1			East|1|NA	East|1|NA	Environmental swab	Surface of chopping board	Negative			None	Negative
+E76	Env_0290	01/01/2020	East	1			East|1|NA	East|1|NA	Environmental swab	Sewage on floor	Negative			None	Negative
+E83	Env_0297	01/01/2020	East	10	15-17		East|10|15-17	East|10|15-17	Environmental swab	Surface of cart	Negative	30.620187	114.257633	None	Negative
+E86	Env_0300	01/01/2020	East	10	5		East|10|5	East|10|5	Environmental swab	Inner surface of basin	Negative	30.620149	114.257473	None	Negative
+E44	Env_0258	01/01/2020	East	11	6		East|11|6	East|11|6	Environmental swab	Trash cans	Negative	30.620187	114.257462	None	Negative
+E45	Env_0259	01/01/2020	East	11	8		East|11|8	East|11|8	Environmental swab	Blood on the ground	Negative	30.620197	114.257494	None	Negative
+E47	Env_0261	01/01/2020	East	11	8		East|11|8	East|11|8	Environmental swab	Table top	Negative	30.620197	114.257494	None	Negative
+E46	Env_0260	01/01/2020	East	11	9		East|11|9	East|11|9	Environmental swab	Trash cans floor	Negative	30.620279	114.257494	None	Negative
+E71	Env_0285	01/01/2020	East	2			East|2|NA	East|2|NA	Environmental swab	Shelf for meat	Negative			None	Negative
+E72	Env_0286	01/01/2020	East	2			East|2|NA	East|2|NA	Environmental swab	Surface of cart	Negative			None	Negative
+E73	Env_0287	01/01/2020	East	2			East|2|NA	East|2|NA	Environmental swab	Table for meta selling	Negative			None	Negative
+E74	Env_0288	01/01/2020	East	2			East|2|NA	East|2|NA	Environmental swab	Surface of chopping board	Negative			None	Negative
+E67	Env_0281	01/01/2020	East	4		Can be assigned 4-24 because it is the only stall sampled in row 4 on East side.	East|4|24	East|4|24	Environmental swab	Table top	Negative	30.619718	114.257892	None	Negative
+E68	Env_0282	01/01/2020	East	4		Can be assigned 4-24 because it is the only stall sampled in row 4 on East side.	East|4|24	East|4|24	Environmental swab	Surface of shelf for meat selling	Negative	30.619718	114.257892	None	Negative
+E69	Env_0283	01/01/2020	East	4		Can be assigned 4-24 because it is the only stall sampled in row 4 on East side.	East|4|24	East|4|24	Environmental swab	Sewage on floor	Negative	30.619718	114.257892	None	Negative
+E70	Env_0284	01/01/2020	East	4		Can be assigned 4-24 because it is the only stall sampled in row 4 on East side.	East|4|24	East|4|24	Environmental swab	Surface of cart	Negative	30.619718	114.257892	None	Negative
+E78	Env_0292	01/01/2020	East	4	27		East|4|27	East|4|27	Environmental swab	Surface of the door	Negative	30.619678	114.257961	None	Negative
+E79	Env_0293	01/01/2020	East	4	27		East|4|27	East|4|27	Environmental swab	Surface of cart	Negative	30.619678	114.257961	None	Negative
+E63	Env_0277	01/01/2020	East	5	1-3-5-7-9		East|5|1-3-5-7-9	East|5|1-3-5-7-9	Environmental swab	Table top	Negative	30.619686	114.257623	None	Negative
+E64	Env_0278	01/01/2020	East	5	1-3-5-7-9		East|5|1-3-5-7-9	East|5|1-3-5-7-9	Environmental swab	Water in fishbowl	Negative	30.619686	114.257623	None	Negative
+E65	Env_0279	01/01/2020	East	5	1-3-5-7-9		East|5|1-3-5-7-9	East|5|1-3-5-7-9	Environmental swab	Basin for seafood	Negative	30.619686	114.257623	None	Negative
+E66	Env_0280	01/01/2020	East	5	1-3-5-7-9		East|5|1-3-5-7-9	East|5|1-3-5-7-9	Environmental swab	Scale	Negative	30.619686	114.257623	None	Negative
+E62	Env_0276	01/01/2020	East	5	8-10		East|5|8-10	East|5|8-10	Environmental swab	Surface of cart	Negative	30.619747	114.257649	None	Negative
+E59	Env_0273	01/01/2020	East	6	1-3		East|6|1-3	East|6|1-3	Environmental swab	Surface of foam box	Negative	30.619752	114.257556	None	Negative
+E60	Env_0274	01/01/2020	East	6	1-3		East|6|1-3	East|6|1-3	Environmental swab	Surface of food	Negative	30.619752	114.257556	None	Negative
+E61	Env_0275	01/01/2020	East	6	1-3		East|6|1-3	East|6|1-3	Environmental swab	Ground	Positive	30.619752	114.257556	SRR23971576	Positive
+E56	Env_0270	01/01/2020	East	6	17-19		East|6|17-19	East|6|17-19	Environmental swab	Surface of scale	Negative	30.619806	114.257783	None	Negative
+E57	Env_0271	01/01/2020	East	6	17-19		East|6|17-19	East|6|17-19	Environmental swab	Surface of fishing net	Negative	30.619806	114.257783	None	Negative
+E58	Env_0272	01/01/2020	East	6	17-19		East|6|17-19	East|6|17-19	Environmental swab	Water in fishbowl	Negative	30.619806	114.257783	None	Negative
+E55	Env_0269	01/01/2020	East	6	23-25		East|6|23-25	East|6|23-25	Environmental swab	Surface of apron	Negative	30.619827	114.257867	None	Negative
+E80	Env_0294	01/01/2020	East	6	24-26		East|6|24-26	East|6|24-26	Environmental swab	Gas tank	Negative	30.619875	114.257853	None	Negative
+E81	Env_0295	01/01/2020	East	7	26		East|7|26	East|7|26	Environmental swab	Sewage on floor	Negative	30.619957	114.257843	None	Negative
+E54	Env_0268	01/01/2020	East	7	5		East|7|5	East|7|5	Environmental swab	Container	Negative	30.61984	114.257572	None	Negative
+E29	Env_0243	01/01/2020	East	8	19		East|8|19	East|8|19	Environmental swab	Ground	Negative	30.619966	114.257749	None	Negative
+E30	Env_0244	01/01/2020	East	8	19		East|8|19	East|8|19	Environmental swab	Surface of scale	Negative	30.619966	114.257749	None	Negative
+E31	Env_0245	01/01/2020	East	8	19		East|8|19	East|8|19	Environmental swab	Surface of apron	Negative	30.619966	114.257749	None	Negative
+E32	Env_0246	01/01/2020	East	8	19		East|8|19	East|8|19	Environmental swab	Basin	Negative	30.619966	114.257749	None	Negative
+E33	Env_0247	01/01/2020	East	8	19		East|8|19	East|8|19	Environmental swab	Wall	Negative	30.619966	114.257749	None	Negative
+E34	Env_0248	01/01/2020	East	8	19		East|8|19	East|8|19	Environmental swab	Surface of cart	Negative	30.619966	114.257749	None	Negative
+E35	Env_0249	01/01/2020	East	8	19		East|8|19	East|8|19	Environmental swab	Table top	Negative	30.619966	114.257749	None	Negative
+E36	Env_0250	01/01/2020	East	8	19		East|8|19	East|8|19	Environmental swab	Surface of shoe	Negative	30.619966	114.257749	None	Negative
+E37	Env_0251	01/01/2020	East	8	19		East|8|19	East|8|19	Environmental swab	Fishing net	Negative	30.619966	114.257749	None	Negative
+E38	Env_0252	01/01/2020	East	8	19		East|8|19	East|8|19	Environmental swab	Water in fishbowl	Negative	30.619966	114.257749	None	Negative
+E43	Env_0257	01/01/2020	East	8	2		East|8|2	East|8|2	Environmental swab	Domestic water	Negative	30.619954	114.257477	None	Negative
+E51	Env_0265	01/01/2020	East	8	28		East|8|28	East|8|28	Environmental swab	Inner surface of foam box	Negative	30.620041	114.257846	None	Negative
+E52	Env_0266	01/01/2020	East	8	28		East|8|28	East|8|28	Environmental swab	Scale	Negative	30.620041	114.257846	None	Negative
+E53	Env_0267	01/01/2020	East	8	28		East|8|28	East|8|28	Environmental swab	Water in fishbowl	Negative	30.620041	114.257846	None	Negative
+E39	Env_0253	01/01/2020	East	8	6		East|8|6	East|8|6	Environmental swab	Water in fishbowl	Negative	30.619968	114.257533	None	Negative
+E40	Env_0254	01/01/2020	East	8	6		East|8|6	East|8|6	Environmental swab	Shrimp net	Negative	30.619968	114.257533	None	Negative
+E41	Env_0255	01/01/2020	East	8	6		East|8|6	East|8|6	Environmental swab	Wall	Negative	30.619968	114.257533	None	Negative
+E42	Env_0256	01/01/2020	East	8	6		East|8|6	East|8|6	Environmental swab	Surface of food	Negative	30.619968	114.257533	None	Negative
+E50	Env_0264	01/01/2020	East	9	12-14		East|9|12-14	East|9|12-14	Environmental swab	Blood on the ground in front of the door	Negative	30.620069	114.257609	None	Negative
+E49	Env_0263	01/01/2020	East	9	16		East|9|16	East|9|16	Environmental swab	Table top	Negative	30.62008	114.257651	None	Negative
+E84	Env_0298	01/01/2020	East	9	16		East|9|16	East|9|16	Environmental swab	Blood on the ground	Negative	30.62008	114.257651	None	Negative
+E85	Env_0299	01/01/2020	East	9	16		East|9|16	East|9|16	Environmental swab	Surface of chopping board	Negative	30.62008	114.257651	None	Negative
+E48	Env_0262	01/01/2020	East	9	22		East|9|22	East|9|22	Environmental swab	Blood on the ground in front of the door	Positive	30.620101	114.257737	SRR23971575	Positive
+E82	Env_0296	01/01/2020	East	9	24-26-28		East|9|24-26-28	East|9|24-26-28	Environmental swab	Sewage on floor	Negative	30.620114	114.257792	None	Negative
+B8	Env_0129	01/01/2020	West	11	11		West|11|11	West|11|11-13	Environmental swab	Cutting machine	Negative	30.619942	114.256698	None	Negative
+B10	Env_0131	01/01/2020	West	11	11-13		West|11|11-13	West|11|11-13	Environmental swab	Cart	Negative	30.619937	114.256683	None	Negative
+B11	Env_0132	01/01/2020	West	11	11-13		West|11|11-13	West|11|11-13	Environmental swab	Inner surface of refrigerator	Negative	30.619937	114.256683	None	Negative
+B12	Env_0133	01/01/2020	West	11	11-13		West|11|11-13	West|11|11-13	Environmental swab	Cashier	Negative	30.619937	114.256683	None	Negative
+B9	Env_0130	01/01/2020	West	11	11-13		West|11|11-13	West|11|11-13	Environmental swab	Surface of food	Negative	30.619937	114.256683	None	Negative
+F10	Env_0310	01/01/2020	West	11	15		West|11|15	West|11|15	Environmental swab	Ground	Negative	30.619929	114.256638	None	Negative
+F11	Env_0311	01/01/2020	West	11	15		West|11|15	West|11|15	Environmental swab	Inner surface of foam box	Negative	30.619929	114.256638	None	Negative
+F12	Env_0312	01/01/2020	West	11	15		West|11|15	West|11|15	Environmental swab	Scale	Negative	30.619929	114.256638	None	Negative
+F13	Env_0313	01/01/2020	West	11	15		West|11|15	West|11|15	Environmental swab	Surface of the wall 	Positive	30.619929	114.256638	SRR23971580	Positive
+F14	Env_0314	01/01/2020	West	11	15		West|11|15	West|11|15	Environmental swab	Water in basin	Negative	30.619929	114.256638	None	Negative
+F9	Env_0309	01/01/2020	West	11	15		West|11|15	West|11|15	Environmental swab	Surface of white basket	Negative	30.619929	114.256638	None	Negative
+F15	Env_0315	01/01/2020	West	11	17		West|11|17	West|11|17	Environmental swab	Ground	Negative	30.619922	114.256611	None	Negative
+F16	Env_0316	01/01/2020	West	11	17		West|11|17	West|11|17	Environmental swab	Surface of the door	Negative	30.619922	114.256611	None	Negative
+F17	Env_0317	01/01/2020	West	11	17		West|11|17	West|11|17	Environmental swab	Office table	Negative	30.619922	114.256611	None	Negative
+F18	Env_0318	01/01/2020	West	11	17		West|11|17	West|11|17	Environmental swab	Bottom of door	Negative	30.619922	114.256611	None	Negative
+F19	Env_0319	01/01/2020	West	11	17		West|11|17	West|11|17	Environmental swab	Sewage on floor	Negative	30.619922	114.256611	None	Negative
+C1	Env_0139	01/01/2020	West	13	X2		West|13|X2	West|13|X2	Environmental swab	Wall	Negative	30.620205	114.256862	None	Negative
+C2	Env_0140	01/01/2020	West	13	X2		West|13|X2	West|13|X2	Environmental swab	Food container	Negative	30.620205	114.256862	None	Negative
+C3	Env_0141	01/01/2020	West	13	X2		West|13|X2	West|13|X2	Environmental swab	Surface of food	Negative	30.620205	114.256862	None	Negative
+C4	Env_0142	01/01/2020	West	13	X2		West|13|X2	West|13|X2	Environmental swab	Sewage on floor	Negative	30.620205	114.256862	None	Negative
+C5	Env_0143	01/01/2020	West	13	X2		West|13|X2	West|13|X2	Environmental swab	Wall	Negative	30.620205	114.256862	None	Negative
+C6	Env_0144	01/01/2020	West	13	X2		West|13|X2	West|13|X2	Environmental swab	Table top	Negative	30.620205	114.256862	None	Negative
+C7	Env_0145	01/01/2020	West	13	X2		West|13|X2	West|13|X2	Environmental swab	Water	Negative	30.620205	114.256862	None	Negative
+D23	Env_0204	01/01/2020	West	15	15		West|15|15	West|15|15	Environmental swab	Outside surface of freezer	Negative	30.620185	114.256652	None	Negative
+D24	Env_0205	01/01/2020	West	15	15		West|15|15	West|15|15	Environmental swab	Cashier	Negative	30.620185	114.256652	None	Negative
+D25	Env_0206	01/01/2020	West	15	15		West|15|15	West|15|15	Environmental swab	Surface of packing bag	Negative	30.620185	114.256652	None	Negative
+D26	Env_0207	01/01/2020	West	15	15		West|15|15	West|15|15	Environmental swab	Surface of packing bag for seafood in freezer	Negative	30.620185	114.256652	None	Negative
+D27	Env_0208	01/01/2020	West	15	15		West|15|15	West|15|15	Environmental swab	Surface of packing bag for fish in freezer	Negative	30.620185	114.256652	None	Negative
+D28	Env_0209	01/01/2020	West	15	15		West|15|15	West|15|15	Environmental swab	Inner surface of freezer	Negative	30.620185	114.256652	None	Negative
+D29	Env_0210	01/01/2020	West	15	15		West|15|15	West|15|15	Environmental swab	Surface of packing bag for meat	Negative	30.620185	114.256652	None	Negative
+D30	Env_0211	01/01/2020	West	15	15		West|15|15	West|15|15	Environmental swab	Surface of water cup	Negative	30.620185	114.256652	None	Negative
+D31	Env_0212	01/01/2020	West	15	15		West|15|15	West|15|15	Environmental swab	Meat in refrigerator	Negative	30.620185	114.256652	None	Negative
+D32	Env_0213	01/01/2020	West	15	15		West|15|15	West|15|15	Environmental swab	Surface of a cart	Positive	30.620185	114.256652	SRR23971574	Positive
+B13	Env_0134	01/01/2020	West	15	44		West|15|44	West|15|44	Environmental swab	Bucket	Negative	30.620129	114.256173	None	Negative
+B14	Env_0135	01/01/2020	West	15	44		West|15|44	West|15|44	Environmental swab	Glove	Negative	30.620129	114.256173	None	Negative
+B15	Env_0136	01/01/2020	West	15	44		West|15|44	West|15|44	Environmental swab	Basket	Negative	30.620129	114.256173	None	Negative
+B16	Env_0137	01/01/2020	West	15	44	Reassigned to 44 because I can’t see a distinction between 44 and X44.	West|15|44	West|15|44	Environmental swab	Cashier	Negative	30.620129	114.256173	None	Negative
+B17	Env_0138	01/01/2020	West	15	44	Reassigned to 44 because I can’t see a distinction between 44 and X44.	West|15|44	West|15|44	Environmental swab	Scale	Positive	30.620128	114.256173	SRR23971572	Positive
+F67	Env_0367	01/01/2020	West	2	1-3		West|2|1-3	West|2|1-3	Environmental swab	Roller shutter	Negative	30.619267	114.257051	None	Negative
+F68	Env_0368	01/01/2020	West	2	1-3		West|2|1-3	West|2|1-3	Environmental swab	Ground	Negative	30.619267	114.257051	None	Negative
+F69	Env_0369	01/01/2020	West	2	1-3		West|2|1-3	West|2|1-3	Environmental swab	Roller shutter	Negative	30.619267	114.257051	None	Negative
+F70	Env_0370	01/01/2020	West	2	1-3		West|2|1-3	West|2|1-3	Environmental swab	Ground	Negative	30.619267	114.257051	None	Negative
+F55	Env_0355	01/01/2020	West	2	10-12		West|2|10-12	West|2|10-12	Environmental swab	Roller shutter	Negative	30.619291	114.256918	None	Negative
+F56	Env_0356	01/01/2020	West	2	10-12		West|2|10-12	West|2|10-12	Environmental swab	Ground	Negative	30.619291	114.256918	None	Negative
+F57	Env_0357	01/01/2020	West	2	10-12		West|2|10-12	West|2|10-12	Environmental swab	Roller shutter	Negative	30.619291	114.256918	None	Negative
+F58	Env_0358	01/01/2020	West	2	10-12		West|2|10-12	West|2|10-12	Environmental swab	Ground	Negative	30.619291	114.256918	None	Negative
+D1	Env_0182	01/01/2020	West	2	14		West|2|14	West|2|14	Environmental swab	Scale	Negative	30.619279	114.256871	None	Negative
+D2	Env_0183	01/01/2020	West	2	14		West|2|14	West|2|14	Environmental swab	Cashier	Negative	30.619279	114.256871	None	Negative
+D3	Env_0184	01/01/2020	West	2	14		West|2|14	West|2|14	Environmental swab	Pool	Negative	30.619279	114.256871	None	Negative
+D4	Env_0185	01/01/2020	West	2	14		West|2|14	West|2|14	Environmental swab	Towel	Negative	30.619279	114.256871	None	Negative
+D5	Env_0186	01/01/2020	West	2	14		West|2|14	West|2|14	Environmental swab	Hairy Crab cage	Negative	30.619279	114.256871	None	Negative
+D6	Env_0187	01/01/2020	West	2	14		West|2|14	West|2|14	Environmental swab	Pool	Negative	30.619279	114.256871	None	Negative
+D7	Env_0188	01/01/2020	West	2	14		West|2|14	West|2|14	Environmental swab	Pool	Negative	30.619279	114.256871	None	Negative
+F53	Env_0353	01/01/2020	West	2	14		West|2|14	West|2|14	Environmental swab	Roller shutter	Negative	30.619279	114.256871	None	Negative
+F54	Env_0354	01/01/2020	West	2	14		West|2|14	West|2|14	Environmental swab	Ground	Positive	30.619279	114.256871	SRR23971582	Positive
+E5	Env_0219	01/01/2020	West	2	15		West|2|15	West|2|15	Environmental swab	Surface of the door	Negative	30.619222	114.256864	None	Negative
+E6	Env_0220	01/01/2020	West	2	15		West|2|15	West|2|15	Environmental swab	Surface of gas cylinders	Negative	30.619222	114.256864	None	Negative
+F35	Env_0335	01/01/2020	West	2	15		West|2|15	West|2|15	Environmental swab	Roller shutter	Negative	30.619222	114.256864	None	Negative
+F36	Env_0336	01/01/2020	West	2	15		West|2|15	West|2|15	Environmental swab	Ground	Negative	30.619222	114.256864	None	Negative
+F39	Env_0339	01/01/2020	West	2	16		West|2|16	West|2|16-18	Environmental swab	Roller shutter	Negative	30.619274	114.256847	None	Negative
+F40	Env_0340	01/01/2020	West	2	16		West|2|16	West|2|16-18	Environmental swab	Ground	Negative	30.619274	114.256847	None	Negative
+F33	Env_0333	01/01/2020	West	2	17		West|2|17	West|2|17	Environmental swab	Roller shutter	Positive	30.619214	114.256834	None	Negative
+F34	Env_0334	01/01/2020	West	2	17		West|2|17	West|2|17	Environmental swab	Ground	Negative	30.619214	114.256834	None	Negative
+F37	Env_0337	01/01/2020	West	2	18		West|2|18	West|2|16-18	Environmental swab	Roller shutter	Negative	30.619267	114.256818	None	Negative
+F38	Env_0338	01/01/2020	West	2	18		West|2|18	West|2|16-18	Environmental swab	Ground	Negative	30.619267	114.256818	None	Negative
+F27	Env_0327	01/01/2020	West	2	19-21-23		West|2|19-21-23	West|2|19-21-23	Environmental swab	Roller shutter	Negative	30.619201	114.256776	None	Negative
+F28	Env_0328	01/01/2020	West	2	19-21-23		West|2|19-21-23	West|2|19-21-23	Environmental swab	Ground	Negative	30.619201	114.256776	None	Negative
+F29	Env_0329	01/01/2020	West	2	19-21-23		West|2|19-21-23	West|2|19-21-23	Environmental swab	Roller shutter	Negative	30.619201	114.256776	None	Negative
+F30	Env_0330	01/01/2020	West	2	19-21-23		West|2|19-21-23	West|2|19-21-23	Environmental swab	Ground	Negative	30.619201	114.256776	None	Negative
+F31	Env_0331	01/01/2020	West	2	19-21-23		West|2|19-21-23	West|2|19-21-23	Environmental swab	Roller shutter	Negative	30.619201	114.256776	None	Negative
+F32	Env_0332	01/01/2020	West	2	19-21-23		West|2|19-21-23	West|2|19-21-23	Environmental swab	Ground	Negative	30.619201	114.256776	None	Negative
+F73	Env_0373	01/01/2020	West	2	2		West|2|2	West|2|2	Environmental swab	Roller shutter	Negative	30.619323	114.257049	None	Negative
+F74	Env_0374	01/01/2020	West	2	2		West|2|2	West|2|2	Environmental swab	Ground	Negative	30.619323	114.257049	None	Negative
+F41	Env_0341	01/01/2020	West	2	20		West|2|20	West|2|20	Environmental swab	Roller shutter	Negative	30.619261	114.256789	None	Negative
+F42	Env_0342	01/01/2020	West	2	20		West|2|20	West|2|20	Environmental swab	Ground	Negative	30.619261	114.256789	None	Negative
+F43	Env_0343	01/01/2020	West	2	22		West|2|22	West|2|22	Environmental swab	Roller shutter	Negative	30.619253	114.256758	None	Negative
+F44	Env_0344	01/01/2020	West	2	22		West|2|22	West|2|22	Environmental swab	Ground	Negative	30.619253	114.256758	None	Negative
+F20	Env_0320	01/01/2020	West	2	24		West|2|24	West|2|24	Environmental swab	White basket	Negative	30.619246	114.256733	None	Negative
+F21	Env_0321	01/01/2020	West	2	24		West|2|24	West|2|24	Environmental swab	Fishing pool	Negative	30.619246	114.256733	None	Negative
+F22	Env_0322	01/01/2020	West	2	24		West|2|24	West|2|24	Environmental swab	Knief	Negative	30.619246	114.256733	None	Negative
+F23	Env_0323	01/01/2020	West	2	24		West|2|24	West|2|24	Environmental swab	Scale	Negative	30.619246	114.256733	None	Negative
+F24	Env_0324	01/01/2020	West	2	24		West|2|24	West|2|24	Environmental swab	Ground	Negative	30.619246	114.256733	None	Negative
+F25	Env_0325	01/01/2020	West	2	24		West|2|24	West|2|24	Environmental swab	Water in pool	Negative	30.619246	114.256733	None	Negative
+F26	Env_0326	01/01/2020	West	2	24		West|2|24	West|2|24	Environmental swab	Cart	Negative	30.619246	114.256733	None	Negative
+F45	Env_0345	01/01/2020	West	2	24		West|2|24	West|2|24	Environmental swab	Roller shutter	Negative	30.619246	114.256733	None	Negative
+F46	Env_0346	01/01/2020	West	2	24		West|2|24	West|2|24	Environmental swab	Ground	Positive	30.619246	114.256733	SRR23971581	Positive
+E12	Env_0226	01/01/2020	West	2	3		West|2|3	West|2|3	Environmental swab	Surface of the door	Negative	30.619264	114.257038	None	Negative
+E13	Env_0227	01/01/2020	West	2	3		West|2|3	West|2|3	Environmental swab	Sewage on floor	Negative	30.619264	114.257038	None	Negative
+E14	Env_0228	01/01/2020	West	2	4		West|2|4	West|2|4	Environmental swab	Surface of cart	Negative	30.619316	114.25702	None	Negative
+E15	Env_0229	01/01/2020	West	2	4		West|2|4	West|2|4	Environmental swab	Surface of the door	Negative	30.619316	114.25702	None	Negative
+F71	Env_0371	01/01/2020	West	2	4		West|2|4	West|2|4	Environmental swab	Roller shutter	Negative	30.619316	114.25702	None	Negative
+F72	Env_0372	01/01/2020	West	2	4		West|2|4	West|2|4	Environmental swab	Ground	Negative	30.619316	114.25702	None	Negative
+E7	Env_0221	01/01/2020	West	2	5		West|2|5	West|2|5-7	Environmental swab	Styrofoam desk in front of the door	Positive	30.619256	114.257008	SRR23971578	Positive
+E8	Env_0222	01/01/2020	West	2	5		West|2|5	West|2|5-7	Environmental swab	Surface of the door	Negative	30.619255	114.257008	None	Negative
+E9	Env_0223	01/01/2020	West	2	5		West|2|5	West|2|5-7	Environmental swab	Ground	Negative	30.619255	114.257008	None	Negative
+D18	Env_0199	01/01/2020	West	2	5-7		West|2|5-7	West|2|5-7	Environmental swab	Cashier	Negative	30.619252	114.256995	None	Negative
+D19	Env_0200	01/01/2020	West	2	5-7		West|2|5-7	West|2|5-7	Environmental swab	Surface of phone	Negative	30.619252	114.256995	None	Negative
+D20	Env_0201	01/01/2020	West	2	5-7		West|2|5-7	West|2|5-7	Environmental swab	Surface of ladder	Negative	30.619252	114.256995	None	Negative
+D21	Env_0202	01/01/2020	West	2	5-7		West|2|5-7	West|2|5-7	Environmental swab	Surface of monitor	Negative	30.619252	114.256995	None	Negative
+D22	Env_0203	01/01/2020	West	2	5-7		West|2|5-7	West|2|5-7	Environmental swab	Surface of food	Negative	30.619252	114.256995	None	Negative
+F63	Env_0363	01/01/2020	West	2	5-7		West|2|5-7	West|2|5-7	Environmental swab	Roller shutter	Negative	30.619252	114.256994	None	Negative
+F64	Env_0364	01/01/2020	West	2	5-7		West|2|5-7	West|2|5-7	Environmental swab	Ground	Negative	30.619252	114.256994	None	Negative
+F65	Env_0365	01/01/2020	West	2	5-7		West|2|5-7	West|2|5-7	Environmental swab	Roller shutter	Negative	30.619252	114.256994	None	Negative
+F66	Env_0366	01/01/2020	West	2	5-7		West|2|5-7	West|2|5-7	Environmental swab	Ground	Negative	30.619252	114.256994	None	Negative
+F59	Env_0359	01/01/2020	West	2	6-8		West|2|6-8	West|2|6-8	Environmental swab	Roller shutter	Negative	30.619305	114.256977	None	Negative
+F60	Env_0360	01/01/2020	West	2	6-8		West|2|6-8	West|2|6-8	Environmental swab	Ground	Negative	30.619305	114.256977	None	Negative
+F61	Env_0361	01/01/2020	West	2	6-8		West|2|6-8	West|2|6-8	Environmental swab	Roller shutter	Negative	30.619305	114.256977	None	Negative
+F62	Env_0362	01/01/2020	West	2	6-8		West|2|6-8	West|2|6-8	Environmental swab	Ground	Negative	30.619305	114.256977	None	Negative
+E10	Env_0224	01/01/2020	West	2	7		West|2|7	West|2|5-7	Environmental swab	Surface of the door	Negative	30.619249	114.256978	None	Negative
+E11	Env_0225	01/01/2020	West	2	7		West|2|7	West|2|5-7	Environmental swab	Ground	Negative	30.619249	114.256978	None	Negative
+D10	Env_0191	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Clothe	Negative	30.619237	114.256935	None	Negative
+D11	Env_0192	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Seafood cardboard box	Negative	30.619237	114.256935	None	Negative
+D12	Env_0193	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Surface of foam box	Negative	30.619237	114.256935	None	Negative
+D13	Env_0194	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Environmental swab	Negative	30.619237	114.256935	None	Negative
+D14	Env_0195	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Stair handrail	Negative	30.619237	114.256935	None	Negative
+D15	Env_0196	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Outside surface of refrigerator	Negative	30.619237	114.256935	None	Negative
+D16	Env_0197	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Surface of chair	Negative	30.619237	114.256935	None	Negative
+D17	Env_0198	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Basket	Negative	30.619237	114.256935	None	Negative
+D8	Env_0189	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Cashier	Negative	30.619237	114.256935	None	Negative
+D9	Env_0190	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Scale	Negative	30.619237	114.256935	None	Negative
+E2	Env_0216	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Surface of the door	Negative	30.619237	114.256935	None	Negative
+E3	Env_0217	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Ground	Negative	30.619237	114.256935	None	Negative
+E4	Env_0218	01/01/2020	West	2	9-11		West|2|9-11	West|2|9-11-13	Environmental swab	Trash cans	Negative	30.619237	114.256935	None	Negative
+F47	Env_0347	01/01/2020	West	2	9-11-13		West|2|9-11-13	West|2|9-11-13	Environmental swab	Roller shutter	Negative	30.619236	114.256921	None	Negative
+F48	Env_0348	01/01/2020	West	2	9-11-13		West|2|9-11-13	West|2|9-11-13	Environmental swab	Ground	Negative	30.619236	114.256921	None	Negative
+F49	Env_0349	01/01/2020	West	2	9-11-13		West|2|9-11-13	West|2|9-11-13	Environmental swab	Roller shutter	Negative	30.619236	114.256921	None	Negative
+F50	Env_0350	01/01/2020	West	2	9-11-13		West|2|9-11-13	West|2|9-11-13	Environmental swab	Ground	Negative	30.619236	114.256921	None	Negative
+F51	Env_0351	01/01/2020	West	2	9-11-13		West|2|9-11-13	West|2|9-11-13	Environmental swab	Roller shutter	Negative	30.619236	114.256921	None	Negative
+F52	Env_0352	01/01/2020	West	2	9-11-13		West|2|9-11-13	West|2|9-11-13	Environmental swab	Ground	Negative	30.619236	114.256921	None	Negative
+E1	Env_0215	01/01/2020	West	2			West|2|NA	West|2|NA	Environmental swab	Door surface	Negative			None	Negative
+F87	Env_0387	01/01/2020	West	2	X2-X4		West|2|X2-X4	West|2|X2-X4	Environmental swab	Roller shutter	Negative	30.61934	114.25712	None	Negative
+F88	Env_0388	01/01/2020	West	2	X2-X4		West|2|X2-X4	West|2|X2-X4	Environmental swab	Ground	Negative	30.61934	114.25712	None	Negative
+F89	Env_0389	01/01/2020	West	2	X2-X4		West|2|X2-X4	West|2|X2-X4	Environmental swab	Roller shutter	Negative	30.61934	114.25712	None	Negative
+F90	Env_0390	01/01/2020	West	2	X2-X4		West|2|X2-X4	West|2|X2-X4	Environmental swab	Ground	Negative	30.61934	114.25712	None	Negative
+F83	Env_0383	01/01/2020	West	2	X3-X1		West|2|X3-X1	West|2|X5-X3-X1	Environmental swab	Roller shutter	Negative	30.619286	114.257138	None	Negative
+F84	Env_0384	01/01/2020	West	2	X3-X1		West|2|X3-X1	West|2|X5-X3-X1	Environmental swab	Ground	Negative	30.619286	114.257138	None	Negative
+F85	Env_0385	01/01/2020	West	2	X3-X1		West|2|X3-X1	West|2|X5-X3-X1	Environmental swab	Roller shutter	Negative	30.619286	114.257138	None	Negative
+F86	Env_0386	01/01/2020	West	2	X3-X1		West|2|X3-X1	West|2|X5-X3-X1	Environmental swab	Ground	Negative	30.619286	114.257138	None	Negative
+F79	Env_0379	01/01/2020	West	2	X4-X6		West|2|X4-X6	West|2|X4-X6	Environmental swab	Roller shutter	Negative	30.619333	114.257092	None	Negative
+F80	Env_0380	01/01/2020	West	2	X4-X6		West|2|X4-X6	West|2|X4-X6	Environmental swab	Ground	Negative	30.619333	114.257092	None	Negative
+F81	Env_0381	01/01/2020	West	2	X4-X6		West|2|X4-X6	West|2|X4-X6	Environmental swab	Roller shutter	Negative	30.619333	114.257092	None	Negative
+F82	Env_0382	01/01/2020	West	2	X4-X6		West|2|X4-X6	West|2|X4-X6	Environmental swab	Ground	Negative	30.619333	114.257092	None	Negative
+F75	Env_0375	01/01/2020	West	2	X5-X3		West|2|X5-X3	West|2|X5-X3-X1	Environmental swab	Roller shutter	Negative	30.61928	114.257109	None	Negative
+F76	Env_0376	01/01/2020	West	2	X5-X3		West|2|X5-X3	West|2|X5-X3-X1	Environmental swab	Ground	Negative	30.61928	114.257109	None	Negative
+F77	Env_0377	01/01/2020	West	2	X5-X3		West|2|X5-X3	West|2|X5-X3-X1	Environmental swab	Roller shutter	Negative	30.61928	114.257109	None	Negative
+F78	Env_0378	01/01/2020	West	2	X5-X3		West|2|X5-X3	West|2|X5-X3-X1	Environmental swab	Ground	Negative	30.61928	114.257109	None	Negative
+F105	Env_0405	01/01/2020	West	4	1		West|4|1	West|4|1	Environmental swab	Roller shutter	Negative	30.619428	114.257013	None	Negative
+F106	Env_0406	01/01/2020	West	4	1		West|4|1	West|4|1	Environmental swab	Ground	Negative	30.619428	114.257013	None	Negative
+A114	Env_0114	01/01/2020	West	4	10		West|4|10	West|4|10	Environmental swab	Surface of the door	Negative	30.619451	114.256881	None	Negative
+A115	Env_0115	01/01/2020	West	4	10		West|4|10	West|4|10	Environmental swab	Ground	Negative	30.619451	114.256881	None	Negative
+A110	Env_0110	01/01/2020	West	4	11-13		West|4|11-13	West|4|11-13	Environmental swab	Surface of the door	Negative	30.619389	114.256854	None	Negative
+A111	Env_0111	01/01/2020	West	4	11-13		West|4|11-13	West|4|11-13	Environmental swab	Ground	Negative	30.619389	114.256854	None	Negative
+A112	Env_0112	01/01/2020	West	4	12-14		West|4|12-14	West|4|12-14	Environmental swab	Surface of the door	Negative	30.619439	114.256839	None	Negative
+A113	Env_0113	01/01/2020	West	4	12-14		West|4|12-14	West|4|12-14	Environmental swab	Ground	Negative	30.619439	114.256839	None	Negative
+A103	Env_0103	01/01/2020	West	4	15-17		West|4|15-17	West|4|15-17	Environmental swab	Water in fishbowl	Negative	30.619376	114.256796	None	Negative
+A104	Env_0104	01/01/2020	West	4	15-17		West|4|15-17	West|4|15-17	Environmental swab	Cashier	Negative	30.619376	114.256796	None	Negative
+A105	Env_0105	01/01/2020	West	4	15-17		West|4|15-17	West|4|15-17	Environmental swab	Basket	Negative	30.619376	114.256796	None	Negative
+A106	Env_0106	01/01/2020	West	4	15-17		West|4|15-17	West|4|15-17	Environmental swab	Ground	Negative	30.619376	114.256796	None	Negative
+A107	Env_0107	01/01/2020	West	4	15-17		West|4|15-17	West|4|15-17	Environmental swab	Surface of the door	Negative	30.619376	114.256796	None	Negative
+A108	Env_0108	01/01/2020	West	4	16-18		West|4|16-18	West|4|16-18	Environmental swab	Surface of the door	Negative	30.619427	114.256781	None	Negative
+A109	Env_0109	01/01/2020	West	4	16-18		West|4|16-18	West|4|16-18	Environmental swab	Ground	Negative	30.619427	114.256781	None	Negative
+C18	Env_0156	01/01/2020	West	4	16-18		West|4|16-18	West|4|16-18	Environmental swab	Food container	Negative	30.619427	114.256781	None	Negative
+C19	Env_0157	01/01/2020	West	4	16-18		West|4|16-18	West|4|16-18	Environmental swab	Food container	Negative	30.619427	114.256781	None	Negative
+C20	Env_0158	01/01/2020	West	4	16-18		West|4|16-18	West|4|16-18	Environmental swab	Scale	Negative	30.619427	114.256781	None	Negative
+C21	Env_0159	01/01/2020	West	4	16-18		West|4|16-18	West|4|16-18	Environmental swab	Table top	Negative	30.619427	114.256781	None	Negative
+C22	Env_0160	01/01/2020	West	4	16-18		West|4|16-18	West|4|16-18	Environmental swab	Sewage	Negative	30.619427	114.256781	None	Negative
+C23	Env_0161	01/01/2020	West	4	16-18		West|4|16-18	West|4|16-18	Environmental swab	Wall	Negative	30.619427	114.256781	None	Negative
+C24	Env_0162	01/01/2020	West	4	16-18		West|4|16-18	West|4|16-18	Environmental swab	Ground	Negative	30.619427	114.256781	None	Negative
+D33	Env_0214	01/01/2020	West	4	16-18		West|4|16-18	West|4|16-18	Environmental swab	Scale	Negative	30.619427	114.256781	None	Negative
+A101	Env_0101	01/01/2020	West	4	19		West|4|19	West|4|19	Environmental swab	Surface of the door	Positive	30.619365	114.256753	SRR23971502	Positive
+A102	Env_0102	01/01/2020	West	4	19		West|4|19	West|4|19	Environmental swab	Ground	Negative	30.619365	114.256753	None	Negative
+C10	Env_0148	01/01/2020	West	4	19		West|4|19	West|4|19	Environmental swab	Water in fishbowl	Negative	30.619365	114.256753	None	Negative
+C11	Env_0149	01/01/2020	West	4	19		West|4|19	West|4|19	Environmental swab	Food container	Negative	30.619365	114.256753	None	Negative
+C12	Env_0150	01/01/2020	West	4	19		West|4|19	West|4|19	Environmental swab	Food container	Negative	30.619365	114.256753	None	Negative
+C13	Env_0151	01/01/2020	West	4	19		West|4|19	West|4|19	Environmental swab	Ground	Negative	30.619365	114.256753	None	Negative
+C14	Env_0152	01/01/2020	West	4	19		West|4|19	West|4|19	Environmental swab	Scale	Negative	30.619365	114.256753	None	Negative
+C15	Env_0153	01/01/2020	West	4	19		West|4|19	West|4|19	Environmental swab	Ground	Negative	30.619365	114.256753	None	Negative
+C16	Env_0154	01/01/2020	West	4	19		West|4|19	West|4|19	Environmental swab	Water	Negative	30.619365	114.256753	None	Negative
+C17	Env_0155	01/01/2020	West	4	19		West|4|19	West|4|19	Environmental swab	Wall	Negative	30.619365	114.256753	None	Negative
+F107	Env_0407	01/01/2020	West	4	2-4		West|4|2-4	West|4|2-4	Environmental swab	Roller shutter	Negative	30.619476	114.256983	None	Negative
+F108	Env_0408	01/01/2020	West	4	2-4		West|4|2-4	West|4|2-4	Environmental swab	Ground	Negative	30.619476	114.256983	None	Negative
+F109	Env_0409	01/01/2020	West	4	2-4		West|4|2-4	West|4|2-4	Environmental swab	Roller shutter	Negative	30.619476	114.256983	None	Negative
+F110	Env_0410	01/01/2020	West	4	2-4		West|4|2-4	West|4|2-4	Environmental swab	Ground	Negative	30.619476	114.256983	None	Negative
+A10	Env_0010	01/01/2020	West	4	20		West|4|20	West|4|20	Environmental swab	Surface of the door	Negative	30.619419	114.256738	None	Negative
+A8	Env_0008	01/01/2020	West	4	20		West|4|20	West|4|20	Environmental swab	Cashier	Negative	30.619419	114.256738	None	Negative
+A9	Env_0009	01/01/2020	West	4	20		West|4|20	West|4|20	Environmental swab	Surface of packing bag	Negative	30.619419	114.256738	None	Negative
+C8	Env_0146	01/01/2020	West	4	20		West|4|20	West|4|20	Environmental swab	Surface of food	Negative	30.619416	114.256738	None	Negative
+A100	Env_0100	01/01/2020	West	4	21		West|4|21	West|4|21	Environmental swab	Ground	Negative	30.619357	114.256723	None	Negative
+A99	Env_0099	01/01/2020	West	4	21		West|4|21	West|4|21	Environmental swab	Surface of the door	Negative	30.619357	114.256723	None	Negative
+A97	Env_0097	01/01/2020	West	4	22		West|4|22	West|4|22	Environmental swab	Surface of the door	Negative	30.619411	114.256708	None	Negative
+A98	Env_0098	01/01/2020	West	4	22		West|4|22	West|4|22	Environmental swab	Ground	Negative	30.619411	114.256708	None	Negative
+A93	Env_0093	01/01/2020	West	4	23		West|4|23	West|4|23	Environmental swab	Surface of the door	Negative	30.619353	114.256695	None	Negative
+A94	Env_0094	01/01/2020	West	4	23		West|4|23	West|4|23	Environmental swab	Ground	Negative	30.619353	114.256695	None	Negative
+A95	Env_0095	01/01/2020	West	4	24		West|4|24	West|4|24	Environmental swab	Surface of the door	Negative	30.619404	114.256681	None	Negative
+A96	Env_0096	01/01/2020	West	4	24		West|4|24	West|4|24	Environmental swab	Ground	Positive	30.619404	114.256681	SRR23971571	Positive
+A11	Env_0011	01/01/2020	West	4	26		West|4|26	West|4|26	Environmental swab	Water in fishbowl	Negative	30.619371	114.256595	None	Negative
+A12	Env_0012	01/01/2020	West	4	26		West|4|26	West|4|26	Environmental swab	Surface of mushroom	Negative	30.619371	114.256595	None	Negative
+A13	Env_0013	01/01/2020	West	4	26		West|4|26	West|4|26	Environmental swab	Surface of food	Negative	30.619371	114.256595	None	Negative
+A14	Env_0014	01/01/2020	West	4	26		West|4|26	West|4|26	Environmental swab	Surface of packing bag for hairtail	Positive	30.619371	114.256595	SRR23971503	Positive
+A15	Env_0015	01/01/2020	West	4	26		West|4|26	West|4|26	Environmental swab	Surface of the door	Positive	30.619371	114.256595	SRR23971504	Positive
+A89	Env_0089	01/01/2020	West	4	26		West|4|26	West|4|26	Environmental swab	Surface of the door	Negative	30.619371	114.256595	None	Negative
+A90	Env_0090	01/01/2020	West	4	26		West|4|26	West|4|26	Environmental swab	Ground	Positive	30.619371	114.256595	SRR23971570	Positive
+A87	Env_0087	01/01/2020	West	4	28		West|4|28	West|4|28	Environmental swab	Surface of the door	Positive	30.619363	114.25656	SRR23971567	Positive
+A88	Env_0088	01/01/2020	West	4	28		West|4|28	West|4|28	Environmental swab	Ground	Positive	30.619363	114.25656	SRR23971569	Positive
+F111	Env_0411	01/01/2020	West	4	3		West|4|3	West|4|3	Environmental swab	Roller shutter	Negative	30.619422	114.256984	None	Negative
+F112	Env_0412	01/01/2020	West	4	3		West|4|3	West|4|3	Environmental swab	Ground	Negative	30.619422	114.256984	None	Negative
+A91	Env_0091	01/01/2020	West	4	30		West|4|30	West|4|30	Environmental swab	Surface of the door	Negative	30.619353	114.256522	None	Negative
+A92	Env_0092	01/01/2020	West	4	30		West|4|30	West|4|30	Environmental swab	Ground	Negative	30.619353	114.256522	None	Negative
+F115	Env_0415	01/01/2020	West	4	5		West|4|5	West|4|5	Environmental swab	Roller shutter	Negative	30.619413	114.256956	None	Negative
+F116	Env_0416	01/01/2020	West	4	5		West|4|5	West|4|5	Environmental swab	Ground	Negative	30.619413	114.256956	None	Negative
+F113	Env_0413	01/01/2020	West	4	6		West|4|6	West|4|6	Environmental swab	Roller shutter	Negative	30.619465	114.25694	None	Negative
+F114	Env_0414	01/01/2020	West	4	6		West|4|6	West|4|6	Environmental swab	Ground	Negative	30.619465	114.25694	None	Negative
+A118	Env_0118	01/01/2020	West	4	7		West|4|7	West|4|7	Environmental swab	Surface of the door	Negative	30.619407	114.256926	None	Negative
+A119	Env_0119	01/01/2020	West	4	7		West|4|7	West|4|7	Environmental swab	Ground	Negative	30.619407	114.256926	None	Negative
+A120	Env_0120	01/01/2020	West	4	8		West|4|8	West|4|8	Environmental swab	Surface of the door	Negative	30.619457	114.256911	None	Negative
+A121	Env_0121	01/01/2020	West	4	8		West|4|8	West|4|8	Environmental swab	Ground	Negative	30.619457	114.256911	None	Negative
+A116	Env_0116	01/01/2020	West	4	9		West|4|9	West|4|9	Environmental swab	Surface of the door	Negative	30.619401	114.256897	None	Negative
+A117	Env_0117	01/01/2020	West	4	9		West|4|9	West|4|9	Environmental swab	Ground	Negative	30.619401	114.256897	None	Negative
+C9	Env_0147	01/01/2020	West	4			West|4|NA	West|4|NA	Environmental swab	Surface of the door	Negative			None	Negative
+F91	Env_0391	01/01/2020	West	4	X1-X3		West|4|X1-X3	West|4|X1-X3-X5	Environmental swab	Roller shutter	Negative	30.619442	114.257086	None	Negative
+F92	Env_0392	01/01/2020	West	4	X1-X3		West|4|X1-X3	West|4|X1-X3-X5	Environmental swab	Ground	Negative	30.619442	114.257086	None	Negative
+F93	Env_0393	01/01/2020	West	4	X1-X3		West|4|X1-X3	West|4|X1-X3-X5	Environmental swab	Roller shutter	Negative	30.619442	114.257086	None	Negative
+F94	Env_0394	01/01/2020	West	4	X1-X3		West|4|X1-X3	West|4|X1-X3-X5	Environmental swab	Ground	Negative	30.619442	114.257086	None	Negative
+F95	Env_0395	01/01/2020	West	4	X2		West|4|X2	West|4|X2	Environmental swab	Roller shutter	Negative	30.6195	114.257083	None	Negative
+F96	Env_0396	01/01/2020	West	4	X2		West|4|X2	West|4|X2	Environmental swab	Ground	Negative	30.6195	114.257083	None	Negative
+F101	Env_0401	01/01/2020	West	4	X3-X5		West|4|X3-X5	West|4|X1-X3-X5	Environmental swab	Roller shutter	Negative	30.619436	114.257057	None	Negative
+F102	Env_0402	01/01/2020	West	4	X3-X5		West|4|X3-X5	West|4|X1-X3-X5	Environmental swab	Ground	Negative	30.619436	114.257057	None	Negative
+F103	Env_0403	01/01/2020	West	4	X3-X5		West|4|X3-X5	West|4|X1-X3-X5	Environmental swab	Roller shutter	Negative	30.619436	114.257057	None	Negative
+F104	Env_0404	01/01/2020	West	4	X3-X5		West|4|X3-X5	West|4|X1-X3-X5	Environmental swab	Ground	Negative	30.619436	114.257057	None	Negative
+C25	Env_0163	01/01/2020	West	4	X4-X6		West|4|X4-X6	West|4|X4-X6	Environmental swab	Surface of packing bag for food	Negative	30.619489	114.25704	None	Negative
+C26	Env_0164	01/01/2020	West	4	X4-X6		West|4|X4-X6	West|4|X4-X6	Environmental swab	Food package in refrigerator	Negative	30.619489	114.25704	None	Negative
+C27	Env_0165	01/01/2020	West	4	X4-X6		West|4|X4-X6	West|4|X4-X6	Environmental swab	Food package in refrigerator	Negative	30.619489	114.25704	None	Negative
+C28	Env_0166	01/01/2020	West	4	X4-X6		West|4|X4-X6	West|4|X4-X6	Environmental swab	Food container	Negative	30.619489	114.25704	None	Negative
+C29	Env_0167	01/01/2020	West	4	X4-X6		West|4|X4-X6	West|4|X4-X6	Environmental swab	Wall	Negative	30.619489	114.25704	None	Negative
+C30	Env_0168	01/01/2020	West	4	X4-X6		West|4|X4-X6	West|4|X4-X6	Environmental swab	Scale	Negative	30.619489	114.25704	None	Negative
+C31	Env_0169	01/01/2020	West	4	X4-X6		West|4|X4-X6	West|4|X4-X6	Environmental swab	Ground	Negative	30.619489	114.25704	None	Negative
+C32	Env_0170	01/01/2020	West	4	X4-X6		West|4|X4-X6	West|4|X4-X6	Environmental swab	Table top	Negative	30.619489	114.25704	None	Negative
+C33	Env_0171	01/01/2020	West	4	X4-X6		West|4|X4-X6	West|4|X4-X6	Environmental swab	Outside surface of refrigerator	Negative	30.619489	114.25704	None	Negative
+C34	Env_0172	01/01/2020	West	4	X4-X6		West|4|X4-X6	West|4|X4-X6	Environmental swab	Sewage on floor	Negative	30.619489	114.25704	None	Negative
+F100	Env_0400	01/01/2020	West	4	X6-X4	Was coded backwards	West|4|X4-X6	West|4|X4-X6	Environmental swab	Ground	Positive	30.619489	114.25704	SRR23971579	Positive
+F97	Env_0397	01/01/2020	West	4	X6-X4	Was coded backwards	West|4|X4-X6	West|4|X4-X6	Environmental swab	Roller shutter	Negative	30.619489	114.25704	None	Negative
+F98	Env_0398	01/01/2020	West	4	X6-X4	Was coded backwards	West|4|X4-X6	West|4|X4-X6	Environmental swab	Ground	Positive	30.619489	114.25704	SRR23971583	Positive
+F99	Env_0399	01/01/2020	West	4	X6-X4	Was coded backwards	West|4|X4-X6	West|4|X4-X6	Environmental swab	Roller shutter	Negative	30.619489	114.25704	None	Negative
+B1	Env_0122	01/01/2020	West	5	6-8		West|5|6-8	West|5|6-8	Environmental swab	Cart	Negative	30.619542	114.256901	None	Negative
+B2	Env_0123	01/01/2020	West	5	6-8		West|5|6-8	West|5|6-8	Environmental swab	Water in fishbowl	Negative	30.619542	114.256901	None	Negative
+B3	Env_0124	01/01/2020	West	5	6-8		West|5|6-8	West|5|6-8	Environmental swab	Cashier	Negative	30.619542	114.256901	None	Negative
+B4	Env_0125	01/01/2020	West	5	6-8		West|5|6-8	West|5|6-8	Environmental swab	Basket	Negative	30.619542	114.256901	None	Negative
+B5	Env_0126	01/01/2020	West	5	6-8		West|5|6-8	West|5|6-8	Environmental swab	Ground	Positive	30.619542	114.256901	SRR23971573	Positive
+B6	Env_0127	01/01/2020	West	5	6-8		West|5|6-8	West|5|6-8	Environmental swab	Knief	Negative	30.619542	114.256901	None	Negative
+B7	Env_0128	01/01/2020	West	5	6-8		West|5|6-8	West|5|6-8	Environmental swab	Fishbow	Negative	30.619542	114.256901	None	Negative
+A72	Env_0072	01/01/2020	West	6	8		West|6|8	West|6|8	Environmental swab	Surface of the door	Negative	30.619617	114.25686	None	Negative
+A73	Env_0073	01/01/2020	West	6	8		West|6|8	West|6|8	Environmental swab	Ground	Negative	30.619617	114.25686	None	Negative
+A74	Env_0074	01/01/2020	West	7	1-3		West|7|1-3	West|7|1-3	Environmental swab	Surface of the door	Negative	30.619659	114.256925	None	Negative
+A75	Env_0075	01/01/2020	West	7	1-3		West|7|1-3	West|7|1-3	Environmental swab	Ground	Negative	30.619659	114.256925	None	Negative
+A68	Env_0068	01/01/2020	West	7	10		West|7|10	West|7|10	Environmental swab	Surface of the door	Negative	30.619688	114.256808	None	Negative
+A69	Env_0069	01/01/2020	West	7	10		West|7|10	West|7|10	Environmental swab	Ground	Negative	30.619688	114.256808	None	Negative
+A3	Env_0003	01/01/2020	West	7	11-13		West|7|11-13	West|7|11-13	Environmental swab	Surface of the door	Negative	30.619627	114.256779	None	Negative
+A4	Env_0004	01/01/2020	West	7	11-13		West|7|11-13	West|7|11-13	Environmental swab	Surface of the door	Negative	30.619627	114.256779	None	Negative
+A64	Env_0064	01/01/2020	West	7	11-13		West|7|11-13	West|7|11-13	Environmental swab	Surface of the door	Negative	30.619627	114.256779	None	Negative
+A65	Env_0065	01/01/2020	West	7	11-13		West|7|11-13	West|7|11-13	Environmental swab	Ground	Negative	30.619627	114.256779	None	Negative
+A66	Env_0066	01/01/2020	West	7	12-14		West|7|12-14	West|7|12-14	Environmental swab	Surface of the door	Negative	30.619677	114.256765	None	Negative
+A67	Env_0067	01/01/2020	West	7	12-14		West|7|12-14	West|7|12-14	Environmental swab	Ground	Negative	30.619677	114.256765	None	Negative
+A1	Env_0001	01/01/2020	West	7	15-17		West|7|15-17	West|7|15-17	Environmental swab	Surface of the door	Negative	30.619613	114.256724	None	Negative
+A16	Env_0016	01/01/2020	West	7	15-17		West|7|15-17	West|7|15-17	Environmental swab	Surface of food	Negative	30.619613	114.256724	None	Negative
+A17	Env_0017	01/01/2020	West	7	15-17		West|7|15-17	West|7|15-17	Environmental swab	Package of aquatic product	Negative	30.619613	114.256724	None	Negative
+A18	Env_0018	01/01/2020	West	7	15-17		West|7|15-17	West|7|15-17	Environmental swab	Shoe covers and soles	Positive	30.619613	114.256724	SRR23971505	Positive
+A19	Env_0019	01/01/2020	West	7	15-17		West|7|15-17	West|7|15-17	Environmental swab	Basket	Negative	30.619613	114.256724	None	Negative
+A2	Env_0002	01/01/2020	West	7	15-17		West|7|15-17	West|7|15-17	Environmental swab	Ground	Positive	30.619613	114.256724	SRR23971506	Positive
+A20	Env_0020	01/01/2020	West	7	15-17		West|7|15-17	West|7|15-17	Environmental swab	Gloves	Positive	30.619613	114.256724	SRR23971507	Positive
+A21	Env_0021	01/01/2020	West	7	15-17		West|7|15-17	West|7|15-17	Environmental swab	Wall	Negative	30.619613	114.256724	None	Negative
+A22	Env_0022	01/01/2020	West	7	15-17		West|7|15-17	West|7|15-17	Environmental swab	Cart	Negative	30.619613	114.256724	None	Negative
+A62	Env_0062	01/01/2020	West	7	16-18		West|7|16-18	West|7|16-18	Environmental swab	Surface of the door	Negative	30.619664	114.256708	None	Negative
+A63	Env_0063	01/01/2020	West	7	16-18		West|7|16-18	West|7|16-18	Environmental swab	Ground	Positive	30.619664	114.256708	SRR23971512	Positive
+A5	Env_0005	01/01/2020	West	7	19-21		West|7|19-21	West|7|19-21	Environmental swab	Wall	Negative	30.619599	114.256664	None	Negative
+A6	Env_0006	01/01/2020	West	7	19-21		West|7|19-21	West|7|19-21	Environmental swab	Surface of packing bag	Negative	30.619599	114.256664	None	Negative
+A7	Env_0007	01/01/2020	West	7	19-21		West|7|19-21	West|7|19-21	Environmental swab	Surface of the door	Negative	30.619599	114.256664	None	Negative
+A76	Env_0076	01/01/2020	West	7	2-4		West|7|2-4	West|7|2-4	Environmental swab	Surface of the door	Negative	30.619711	114.25691	None	Negative
+A77	Env_0077	01/01/2020	West	7	2-4		West|7|2-4	West|7|2-4	Environmental swab	Ground	Negative	30.619711	114.25691	None	Negative
+A60	Env_0060	01/01/2020	West	7	20-22-24		West|7|20-22-24	West|7|20-22-24	Environmental swab	Surface of the door	Negative	30.619647	114.256635	None	Negative
+A61	Env_0061	01/01/2020	West	7	20-22-24		West|7|20-22-24	West|7|20-22-24	Environmental swab	Ground	Positive	30.619647	114.256635	SRR23971510	Positive
+A28	Env_0028	01/01/2020	West	7	23		West|7|23	West|7|23	Environmental swab	Fishbow	Negative	30.619588	114.256622	None	Negative
+A29	Env_0029	01/01/2020	West	7	23		West|7|23	West|7|23	Environmental swab	Glove	Negative	30.619588	114.256622	None	Negative
+A30	Env_0030	01/01/2020	West	7	23		West|7|23	West|7|23	Environmental swab	Knief	Negative	30.619588	114.256622	None	Negative
+A31	Env_0031	01/01/2020	West	7	23		West|7|23	West|7|23	Environmental swab	Basket	Negative	30.619588	114.256622	None	Negative
+A32	Env_0032	01/01/2020	West	7	23		West|7|23	West|7|23	Environmental swab	Surface of the door	Negative	30.619588	114.256622	None	Negative
+A56	Env_0056	01/01/2020	West	7	24		West|7|24	West|7|20-22-24	Environmental swab	Chopping block	Negative	30.619641	114.256608	None	Negative
+A57	Env_0057	01/01/2020	West	7	24		West|7|24	West|7|20-22-24	Environmental swab	Bone cutting machine	Negative	30.619641	114.256608	None	Negative
+A58	Env_0058	01/01/2020	West	7	24		West|7|24	West|7|20-22-24	Environmental swab	Surface of the door	Negative	30.619641	114.256608	None	Negative
+A59	Env_0059	01/01/2020	West	7	24		West|7|24	West|7|20-22-24	Environmental swab	Ground	Negative	30.619641	114.256608	None	Negative
+A54	Env_0054	01/01/2020	West	7	25		West|7|25	West|7|25	Environmental swab	Surface of the door	Negative	30.619567	114.25653	None	Negative
+A55	Env_0055	01/01/2020	West	7	25		West|7|25	West|7|25	Environmental swab	Ground	Positive	30.619567	114.25653	SRR23971509	Positive
+G39	Env_0455	01/01/2020	West	7	25		West|7|25	West|7|25	Environmental swab	Filter	Negative	30.619567	114.25653	None	Negative
+A52	Env_0052	01/01/2020	West	7	26-28		West|7|26-28	West|7|26-28	Environmental swab	Surface of the door	Negative	30.619615	114.256501	None	Negative
+A53	Env_0053	01/01/2020	West	7	26-28		West|7|26-28	West|7|26-28	Environmental swab	Ground	Negative	30.619615	114.256501	None	Negative
+F1	Env_0301	01/01/2020	West	7	26-28		West|7|26-28	West|7|26-28	Environmental swab	Surface of frozen food	Negative	30.619615	114.256501	None	Negative
+F2	Env_0302	01/01/2020	West	7	26-28		West|7|26-28	West|7|26-28	Environmental swab	Surface of frozen food	Negative	30.619615	114.256501	None	Negative
+F3	Env_0303	01/01/2020	West	7	26-28		West|7|26-28	West|7|26-28	Environmental swab	Surface of yellow basket	Negative	30.619615	114.256501	None	Negative
+F4	Env_0304	01/01/2020	West	7	26-28		West|7|26-28	West|7|26-28	Environmental swab	Surface of frozen food	Negative	30.619615	114.256501	None	Negative
+F5	Env_0305	01/01/2020	West	7	26-28		West|7|26-28	West|7|26-28	Environmental swab	White foam	Negative	30.619615	114.256501	None	Negative
+F6	Env_0306	01/01/2020	West	7	26-28		West|7|26-28	West|7|26-28	Environmental swab	Scale	Negative	30.619615	114.256501	None	Negative
+F7	Env_0307	01/01/2020	West	7	26-28		West|7|26-28	West|7|26-28	Environmental swab	Ground	Negative	30.619615	114.256501	None	Negative
+F8	Env_0308	01/01/2020	West	7	26-28		West|7|26-28	West|7|26-28	Environmental swab	Sewage on floor	Negative	30.619615	114.256501	None	Negative
+A50	Env_0050	01/01/2020	West	7	27		West|7|27	West|7|27	Environmental swab	Surface of the door	Negative	30.61956	114.2565	None	Negative
+A51	Env_0051	01/01/2020	West	7	27		West|7|27	West|7|27	Environmental swab	Ground	Negative	30.61956	114.2565	None	Negative
+G1	Env_0417	01/01/2020	West	7	27		West|7|27	West|7|27	Environmental swab	Surface of basket	Negative	30.61956	114.2565	None	Negative
+G2	Env_0418	01/01/2020	West	7	27		West|7|27	West|7|27	Environmental swab	Wall	Negative	30.61956	114.2565	None	Negative
+G3	Env_0419	01/01/2020	West	7	27		West|7|27	West|7|27	Environmental swab	Table top	Negative	30.61956	114.2565	None	Negative
+G4	Env_0420	01/01/2020	West	7	27		West|7|27	West|7|27	Environmental swab	Scale	Negative	30.61956	114.2565	None	Negative
+G5	Env_0421	01/01/2020	West	7	27		West|7|27	West|7|27	Environmental swab	Scissors	Negative	30.61956	114.2565	None	Negative
+A48	Env_0048	01/01/2020	West	7	29		West|7|29	West|7|29	Environmental swab	Surface of the door	Negative	30.619553	114.256472	None	Negative
+A49	Env_0049	01/01/2020	West	7	29		West|7|29	West|7|29	Environmental swab	Ground	Negative	30.619553	114.256472	None	Negative
+G10	Env_0426	01/01/2020	West	7	29		West|7|29	West|7|29	Environmental swab	Wall	Negative	30.619553	114.256472	None	Negative
+G11	Env_0427	01/01/2020	West	7	29		West|7|29	West|7|29	Environmental swab	Sewage in bucket	Negative	30.619553	114.256472	None	Negative
+G35	Env_0451	01/01/2020	West	7	29		West|7|29	West|7|29	Environmental swab	Filter	Negative	30.619553	114.256472	None	Negative
+G6	Env_0422	01/01/2020	West	7	29		West|7|29	West|7|29	Environmental swab	Surface of basket	Negative	30.619553	114.256472	None	Negative
+G7	Env_0423	01/01/2020	West	7	29		West|7|29	West|7|29	Environmental swab	Scale	Negative	30.619553	114.256472	None	Negative
+G8	Env_0424	01/01/2020	West	7	29		West|7|29	West|7|29	Environmental swab	Surface of frozen food	Negative	30.619553	114.256472	None	Negative
+G9	Env_0425	01/01/2020	West	7	29		West|7|29	West|7|29	Environmental swab	Ground	Negative	30.619553	114.256472	None	Negative
+A45	Env_0045	01/01/2020	West	7	30-32		West|7|30-32	West|7|30-32	Environmental swab	Surface of the door	Negative	30.619602	114.256444	None	Negative
+A46	Env_0046	01/01/2020	West	7	30-32		West|7|30-32	West|7|30-32	Environmental swab	Ground	Negative	30.619602	114.256444	None	Negative
+A47	Env_0047	01/01/2020	West	7	30-32		West|7|30-32	West|7|30-32	Environmental swab	Towel on floor	Negative	30.619602	114.256444	None	Negative
+G37	Env_0453	01/01/2020	West	7	30-32		West|7|30-32	West|7|30-32	Environmental swab	Filter	Negative	30.619602	114.256444	None	Negative
+A43	Env_0043	01/01/2020	West	7	31-33		West|7|31-33	West|7|31-33	Environmental swab	Surface of the door	Negative	30.619542	114.25643	None	Negative
+A44	Env_0044	01/01/2020	West	7	31-33		West|7|31-33	West|7|31-33	Environmental swab	Ground	Negative	30.619542	114.25643	None	Negative
+G12	Env_0428	01/01/2020	West	7	31-33		West|7|31-33	West|7|31-33	Environmental swab	Surface of basket	Negative	30.619542	114.25643	None	Negative
+G13	Env_0429	01/01/2020	West	7	31-33		West|7|31-33	West|7|31-33	Environmental swab	Surface of basket	Negative	30.619542	114.25643	None	Negative
+G14	Env_0430	01/01/2020	West	7	31-33		West|7|31-33	West|7|31-33	Environmental swab	Wall	Negative	30.619542	114.25643	None	Negative
+G15	Env_0431	01/01/2020	West	7	31-33		West|7|31-33	West|7|31-33	Environmental swab	Scale	Negative	30.619542	114.25643	None	Negative
+G16	Env_0432	01/01/2020	West	7	31-33		West|7|31-33	West|7|31-33	Environmental swab	Water in pool	Negative	30.619542	114.25643	None	Negative
+G17	Env_0433	01/01/2020	West	7	31-33		West|7|31-33	West|7|31-33	Environmental swab	Inner surface of trush cans	Negative	30.619542	114.25643	None	Negative
+G36	Env_0452	01/01/2020	West	7	31-33		West|7|31-33	West|7|31-33	Environmental swab	Filter	Negative	30.619542	114.25643	None	Negative
+A41	Env_0041	01/01/2020	West	7	34		West|7|34	West|7|34	Environmental swab	Surface of the door	Negative	30.619591	114.256401	None	Negative
+A42	Env_0042	01/01/2020	West	7	34		West|7|34	West|7|34	Environmental swab	Ground	Negative	30.619591	114.256401	None	Negative
+G18	Env_0434	01/01/2020	West	7	34		West|7|34	West|7|34	Environmental swab	Scale	Negative	30.619591	114.256401	None	Negative
+G19	Env_0435	01/01/2020	West	7	34		West|7|34	West|7|34	Environmental swab	Wall	Negative	30.619591	114.256401	None	Negative
+G20	Env_0436	01/01/2020	West	7	34		West|7|34	West|7|34	Environmental swab	Inner surface of foam box	Negative	30.619591	114.256401	None	Negative
+G21	Env_0437	01/01/2020	West	7	34		West|7|34	West|7|34	Environmental swab	Inner surface of white basket	Negative	30.619591	114.256401	None	Negative
+G22	Env_0438	01/01/2020	West	7	34		West|7|34	West|7|34	Environmental swab	Drainage outlet	Negative	30.619591	114.256401	None	Negative
+G23	Env_0439	01/01/2020	West	7	34		West|7|34	West|7|34	Environmental swab	Bucket	Negative	30.619591	114.256401	None	Negative
+G38	Env_0454	01/01/2020	West	7	34		West|7|34	West|7|34	Environmental swab	Filter	Negative	30.619591	114.256401	None	Negative
+A35	Env_0035	01/01/2020	West	7	35-37		West|7|35-37	West|7|35-37	Environmental swab	Surface of the door	Negative	30.619527	114.256373	None	Negative
+A36	Env_0036	01/01/2020	West	7	35-37		West|7|35-37	West|7|35-37	Environmental swab	Ground	Negative	30.619527	114.256373	None	Negative
+G24	Env_0440	01/01/2020	West	7	35-37		West|7|35-37	West|7|35-37	Environmental swab	Scale	Negative	30.619527	114.256373	None	Negative
+G25	Env_0441	01/01/2020	West	7	35-37		West|7|35-37	West|7|35-37	Environmental swab	Surface of cart	Negative	30.619527	114.256373	None	Negative
+G26	Env_0442	01/01/2020	West	7	35-37		West|7|35-37	West|7|35-37	Environmental swab	Surface of Vegetable	Negative	30.619527	114.256373	None	Negative
+G27	Env_0443	01/01/2020	West	7	35-37		West|7|35-37	West|7|35-37	Environmental swab	Surface of lift	Negative	30.619527	114.256373	None	Negative
+G28	Env_0444	01/01/2020	West	7	35-37		West|7|35-37	West|7|35-37	Environmental swab	Ground	Negative	30.619527	114.256373	None	Negative
+A39	Env_0039	01/01/2020	West	7	36		West|7|36	West|7|36	Environmental swab	Surface of the door	Negative	30.619585	114.256372	None	Negative
+A40	Env_0040	01/01/2020	West	7	36		West|7|36	West|7|36	Environmental swab	Ground	Negative	30.619585	114.256372	None	Negative
+A37	Env_0037	01/01/2020	West	7	38		West|7|38	West|7|38	Environmental swab	Surface of the door	Negative	30.619578	114.256344	None	Negative
+A38	Env_0038	01/01/2020	West	7	38		West|7|38	West|7|38	Environmental swab	Ground	Negative	30.619578	114.256344	None	Negative
+G29	Env_0445	01/01/2020	West	7	38		West|7|38	West|7|38	Environmental swab	Cart	Negative	30.619578	114.256344	None	Negative
+G30	Env_0446	01/01/2020	West	7	38		West|7|38	West|7|38	Environmental swab	Surface of lift	Negative	30.619578	114.256344	None	Negative
+G31	Env_0447	01/01/2020	West	7	38		West|7|38	West|7|38	Environmental swab	Ground	Negative	30.619578	114.256344	None	Negative
+G32	Env_0448	01/01/2020	West	7	38		West|7|38	West|7|38	Environmental swab	Drainage outlet	Negative	30.619578	114.256344	None	Negative
+G33	Env_0449	01/01/2020	West	7	38		West|7|38	West|7|38	Environmental swab	Water in pool	Negative	30.619578	114.256344	None	Negative
+G34	Env_0450	01/01/2020	West	7	38		West|7|38	West|7|38	Environmental swab	Water in pool	Negative	30.619578	114.256344	None	Negative
+A23	Env_0023	01/01/2020	West	7	5-7		West|7|5-7	West|7|5-7	Environmental swab	Surface of packing bag	Negative	30.619648	114.256867	None	Negative
+A24	Env_0024	01/01/2020	West	7	5-7		West|7|5-7	West|7|5-7	Environmental swab	Wall	Negative	30.619648	114.256867	None	Negative
+A25	Env_0025	01/01/2020	West	7	5-7		West|7|5-7	West|7|5-7	Environmental swab	Scale	Negative	30.619648	114.256867	None	Negative
+A26	Env_0026	01/01/2020	West	7	5-7		West|7|5-7	West|7|5-7	Environmental swab	Surface of the door	Negative	30.619648	114.256867	None	Negative
+A27	Env_0027	01/01/2020	West	7	5-7		West|7|5-7	West|7|5-7	Environmental swab	Basket (beer)	Negative	30.619648	114.256867	None	Negative
+A70	Env_0070	01/01/2020	West	7	9		West|7|9	West|7|9	Environmental swab	Surface of the door	Negative	30.619636	114.256823	None	Negative
+A71	Env_0071	01/01/2020	West	7	9		West|7|9	West|7|9	Environmental swab	Ground	Negative	30.619636	114.256823	None	Negative
+A33	Env_0033	01/01/2020	West	7			West|7|NA	West|7|NA	Environmental swab	Garbage cart	Positive	30.619612	114.256615	SRR23971508	Positive
+A34	Env_0034	01/01/2020	West	7			West|7|NA	West|7|NA	Environmental swab	Garbage vehicle	Negative	30.619613	114.256615	None	Negative
+A84	Env_0084	01/01/2020	West	7	X1-X3		West|7|X1-X3	West|7|X1-X3-X5	Environmental swab	Cashier desk	Negative	30.61968	114.257011	None	Negative
+A85	Env_0085	01/01/2020	West	7	X1-X3		West|7|X1-X3	West|7|X1-X3-X5	Environmental swab	Ground	Negative	30.61968	114.257011	None	Negative
+A86	Env_0086	01/01/2020	West	7	X1-X3		West|7|X1-X3	West|7|X1-X3-X5	Environmental swab	Surface of the door	Negative	30.61968	114.257011	None	Negative
+A82	Env_0082	01/01/2020	West	7	X2-X4		West|7|X2-X4	West|7|X2-X4	Environmental swab	Surface of the door	Negative	30.619732	114.256997	None	Negative
+A83	Env_0083	01/01/2020	West	7	X2-X4		West|7|X2-X4	West|7|X2-X4	Environmental swab	Ground	Negative	30.619732	114.256997	None	Negative
+A80	Env_0080	01/01/2020	West	7	X3-X5		West|7|X3-X5	West|7|X1-X3-X5	Environmental swab	Surface of the door	Negative	30.619673	114.256983	None	Negative
+A81	Env_0081	01/01/2020	West	7	X3-X5		West|7|X3-X5	West|7|X1-X3-X5	Environmental swab	Ground	Negative	30.619673	114.256983	None	Negative
+A78	Env_0078	01/01/2020	West	7	X4-X6		West|7|X4-X6	West|7|X4-X6	Environmental swab	Surface of the door	Negative	30.619726	114.256968	None	Negative
+A79	Env_0079	01/01/2020	West	7	X4-X6		West|7|X4-X6	West|7|X4-X6	Environmental swab	Ground	Negative	30.619726	114.256968	None	Negative
+G92	Env_0508	01/01/2020	West	8	19-21-23		West|8|19-21-23	West|8|19-21-23	Environmental swab	Chopping block and Knief	Negative	30.619674	114.256629	None	Negative
+G93	Env_0509	01/01/2020	West	8	19-21-23		West|8|19-21-23	West|8|19-21-23	Environmental swab	Sewage	Positive	30.619673	114.256629	None	Negative
+G94	Env_0510	01/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground	Negative	30.619643	114.256508	None	Negative
+G95	Env_0511	01/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Knier	Negative	30.619643	114.256508	None	Negative
+G96	Env_0512	01/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Scale	Negative	30.619643	114.256508	None	Negative
+G97	Env_0513	01/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Table top	Negative	30.619643	114.256508	None	Negative
+G98	Env_0514	01/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Container	Negative	30.619643	114.256508	None	Negative
+G99	Env_0515	01/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Drainage outlet	Negative	30.619643	114.256508	None	Negative
+G40	Env_0456	01/01/2020	West	8	26-28		West|8|26-28	West|8|26-28	Environmental swab	Inner surface of trush cans	Negative	30.619693	114.256478	None	Negative
+G41	Env_0457	01/01/2020	West	8	26-28		West|8|26-28	West|8|26-28	Environmental swab	Surface of frozen food	Negative	30.619693	114.256478	None	Negative
+G42	Env_0458	01/01/2020	West	8	26-28		West|8|26-28	West|8|26-28	Environmental swab	Inner surface of red basket	Negative	30.619693	114.256478	None	Negative
+G43	Env_0459	01/01/2020	West	8	26-28		West|8|26-28	West|8|26-28	Environmental swab	Scale	Negative	30.619693	114.256478	None	Negative
+G44	Env_0460	01/01/2020	West	8	26-28		West|8|26-28	West|8|26-28	Environmental swab	Surface of calculator	Negative	30.619693	114.256478	None	Negative
+G45	Env_0461	01/01/2020	West	8	26-28		West|8|26-28	West|8|26-28	Environmental swab	Ground	Negative	30.619693	114.256478	None	Negative
+G46	Env_0462	01/01/2020	West	8	26-28		West|8|26-28	West|8|26-28	Environmental swab	Wall	Negative	30.619693	114.256478	None	Negative
+G47	Env_0463	01/01/2020	West	8	26-28		West|8|26-28	West|8|26-28	Environmental swab	Water in Bucket	Negative	30.619693	114.256478	None	Negative
+G48	Env_0464	01/01/2020	West	8	26-28		West|8|26-28	West|8|26-28	Environmental swab	Scissors	Negative	30.619693	114.256478	None	Negative
+E27	Env_0241	01/01/2020	West	8	27		West|8|27	West|8|27	Environmental swab	Domestic water	Negative	30.619638	114.256477	None	Negative
+G49	Env_0465	01/01/2020	West	8	27		West|8|27	West|8|27	Environmental swab	Inner surface of blue basket	Negative	30.619638	114.256477	None	Negative
+G50	Env_0466	01/01/2020	West	8	27		West|8|27	West|8|27	Environmental swab	Water in basin	Negative	30.619638	114.256477	None	Negative
+G51	Env_0467	01/01/2020	West	8	27		West|8|27	West|8|27	Environmental swab	Ground	Negative	30.619638	114.256477	None	Negative
+G52	Env_0468	01/01/2020	West	8	27		West|8|27	West|8|27	Environmental swab	Scale	Negative	30.619638	114.256477	None	Negative
+G53	Env_0469	01/01/2020	West	8	27		West|8|27	West|8|27	Environmental swab	Water in Bucket	Negative	30.619638	114.256477	None	Negative
+G91	Env_0507	01/01/2020	West	8	27		West|8|27	West|8|27	Environmental swab	Sewage on floor	Negative	30.619638	114.256477	None	Negative
+G84	Env_0500	01/01/2020	West	8	29-31		West|8|29-31	West|8|29-31	Environmental swab	Inner surface of blue basket	Negative	30.619625	114.256435	None	Negative
+G85	Env_0501	01/01/2020	West	8	29-31		West|8|29-31	West|8|29-31	Environmental swab	Calculator	Negative	30.619625	114.256435	None	Negative
+G86	Env_0502	01/01/2020	West	8	29-31		West|8|29-31	West|8|29-31	Environmental swab	Ground	Negative	30.619625	114.256435	None	Negative
+G87	Env_0503	01/01/2020	West	8	29-31		West|8|29-31	West|8|29-31	Environmental swab	Scissors	Negative	30.619625	114.256435	None	Negative
+G88	Env_0504	01/01/2020	West	8	29-31		West|8|29-31	West|8|29-31	Environmental swab	Scale	Negative	30.619625	114.256435	None	Negative
+G89	Env_0505	01/01/2020	West	8	29-31		West|8|29-31	West|8|29-31	Environmental swab	Iron shelf	Negative	30.619625	114.256435	None	Negative
+G90	Env_0506	01/01/2020	West	8	29-31		West|8|29-31	West|8|29-31	Environmental swab	Knief	Negative	30.619625	114.256435	None	Negative
+E16	Env_0230	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Wall	Negative	30.619683	114.256436	None	Negative
+E17	Env_0231	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Ground	Negative	30.619683	114.256436	None	Negative
+E18	Env_0232	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Domestic water	Negative	30.619683	114.256436	None	Negative
+E19	Env_0233	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Table top	Negative	30.619683	114.256436	None	Negative
+E20	Env_0234	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Foam box	Negative	30.619683	114.256436	None	Negative
+E21	Env_0235	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Sewage on floor	Negative	30.619683	114.256436	None	Negative
+E22	Env_0236	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Scissors	Negative	30.619683	114.256436	None	Negative
+E23	Env_0237	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Surface of food	Negative	30.619683	114.256436	None	Negative
+E24	Env_0238	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Surface of basin	Negative	30.619683	114.256436	None	Negative
+E25	Env_0239	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Surface of food	Negative	30.619683	114.256436	None	Negative
+E26	Env_0240	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Surface of light	Negative	30.619683	114.256436	None	Negative
+E28	Env_0242	01/01/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Outside of trash cans	Negative	30.619683	114.256436	None	Negative
+G78	Env_0494	01/01/2020	West	8	32-34		West|8|32-34	West|8|32-34	Environmental swab	Inner surface of white basket	Negative	30.619672	114.256392	None	Negative
+G79	Env_0495	01/01/2020	West	8	32-34		West|8|32-34	West|8|32-34	Environmental swab	Ground	Negative	30.619672	114.256392	None	Negative
+G80	Env_0496	01/01/2020	West	8	32-34		West|8|32-34	West|8|32-34	Environmental swab	Inner surface of trush cans	Negative	30.619672	114.256392	None	Negative
+G81	Env_0497	01/01/2020	West	8	32-34		West|8|32-34	West|8|32-34	Environmental swab	Surface of calculator	Negative	30.619672	114.256392	None	Negative
+G82	Env_0498	01/01/2020	West	8	32-34		West|8|32-34	West|8|32-34	Environmental swab	Inner surface of yellow basket	Negative	30.619672	114.256392	None	Negative
+G83	Env_0499	01/01/2020	West	8	32-34		West|8|32-34	West|8|32-34	Environmental swab	Iron shelf	Negative	30.619672	114.256392	None	Negative
+G61	Env_0477	01/01/2020	West	8	33		West|8|33	West|8|33	Environmental swab	Inner surface of white basket	Negative	30.619617	114.256394	None	Negative
+G62	Env_0478	01/01/2020	West	8	33		West|8|33	West|8|33	Environmental swab	Cart	Negative	30.619617	114.256394	None	Negative
+G63	Env_0479	01/01/2020	West	8	33		West|8|33	West|8|33	Environmental swab	Inner surface of refrigerator	Negative	30.619617	114.256394	None	Negative
+G64	Env_0480	01/01/2020	West	8	33		West|8|33	West|8|33	Environmental swab	Chopping board	Negative	30.619617	114.256394	None	Negative
+G65	Env_0481	01/01/2020	West	8	33		West|8|33	West|8|33	Environmental swab	Water in Bucket	Negative	30.619617	114.256394	None	Negative
+G66	Env_0482	01/01/2020	West	8	33		West|8|33	West|8|33	Environmental swab	Drainage outlet	Negative	30.619617	114.256394	None	Negative
+G67	Env_0483	01/01/2020	West	8	35		West|8|35	West|8|35	Environmental swab	Inner surface of red basket	Negative	30.619611	114.256365	None	Negative
+G68	Env_0484	01/01/2020	West	8	35		West|8|35	West|8|35	Environmental swab	Ground	Negative	30.619611	114.256365	None	Negative
+G69	Env_0485	01/01/2020	West	8	35		West|8|35	West|8|35	Environmental swab	Drainage outlet	Negative	30.619611	114.256365	None	Negative
+G70	Env_0486	01/01/2020	West	8	35		West|8|35	West|8|35	Environmental swab	Scale	Negative	30.619611	114.256365	None	Negative
+G71	Env_0487	01/01/2020	West	8	35		West|8|35	West|8|35	Environmental swab	Outside surface of freezer	Negative	30.619611	114.256365	None	Negative
+G72	Env_0488	01/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Ground	Negative	30.619658	114.256335	None	Negative
+G73	Env_0489	01/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Cart	Negative	30.619658	114.256335	None	Negative
+G74	Env_0490	01/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Scale	Negative	30.619658	114.256335	None	Negative
+G75	Env_0491	01/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Drainage outlet	Negative	30.619658	114.256335	None	Negative
+G76	Env_0492	01/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Water in white box	Negative	30.619658	114.256335	None	Negative
+G77	Env_0493	01/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Feather removal machine	Negative	30.619658	114.256335	None	Negative
+G54	Env_0470	01/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Chopping block	Negative	30.619605	114.256336	None	Negative
+G55	Env_0471	01/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Inner surface of white box	Negative	30.619605	114.256336	None	Negative
+G56	Env_0472	01/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Scale	Negative	30.619605	114.256336	None	Negative
+G57	Env_0473	01/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Ground	Negative	30.619605	114.256336	None	Negative
+G58	Env_0474	01/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Scissors	Negative	30.619605	114.256336	None	Negative
+G59	Env_0475	01/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Outside surface of freezer	Negative	30.619605	114.256336	None	Negative
+G60	Env_0476	01/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Ground	Negative	30.619605	114.256336	None	Negative
+C37	Env_0175	01/01/2020	West	Back Street	17		West|Back Street|17	West|Back Street|17	Environmental swab	Motorcycle	Negative	30.62027	114.256262	None	Negative
+C35	Env_0173	01/01/2020	West	Back Street	3		West|Back Street|3	West|Back Street|3	Environmental swab	Motorcycle	Negative	30.620385	114.256739	None	Negative
+C36	Env_0174	01/01/2020	West	Back Street	3		West|Back Street|3	West|Back Street|3	Environmental swab	Motorcycle	Negative	30.620385	114.256739	None	Negative
+C38	Env_0176	01/01/2020	West				West|NA|NA	West|NA|NA	Environmental swab	Surface of cart	Negative			None	Negative
+C39	Env_0177	01/01/2020	West				West|NA|NA	West|NA|NA	Environmental swab	Surface of cart	Negative			None	Negative
+C40	Env_0178	01/01/2020	West				West|NA|NA	West|NA|NA	Environmental swab	Surface of cart	Negative			None	Negative
+C41	Env_0179	01/01/2020	West				West|NA|NA	West|NA|NA	Environmental swab	Surface of cart	Negative			None	Negative
+C42	Env_0180	01/01/2020	West				West|NA|NA	West|NA|NA	Environmental swab	Surface of cart	Negative			None	Negative
+C43	Env_0181	01/01/2020	West				West|NA|NA	West|NA|NA	Environmental swab	Surface of cart	Negative			None	Negative
+CCDC-742	Env_0891	02/03/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-743	Env_0892	02/03/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			None	Negative
+CCDC-744	Env_0893	02/03/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Ground	Negative			SRR23971511	Negative
+CCDC-745	Env_0894	02/03/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			None	Negative
+CCDC-746	Env_0895	02/03/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			SRR23971577	Negative
+CCDC-747	Env_0896	02/03/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			None	Negative
+CCDC-748	Env_0897	02/03/2020	West	6	36		West|6|36	West|6|36	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-749	Env_0898	02/03/2020	West	6	38		West|6|38	West|6|38	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-774	Env_0923	02/03/2020	West	6	9		West|6|9	West|6|9	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-773	Env_0922	02/03/2020	West	7	16		West|7|16	West|7|16-18	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-754	Env_0903	02/03/2020	West	7	26		West|7|26	West|7|26-28	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-755	Env_0904	02/03/2020	West	7	28		West|7|28	West|7|26-28	Environmental swab	Inner surface of refrigerator	Negative			None	Negative
+CCDC-752	Env_0901	02/03/2020	West	7	32		West|7|32	West|7|30-32	Environmental swab	Inner surface of refrigerator	Negative			None	Negative
+CCDC-753	Env_0902	02/03/2020	West	7	32		West|7|32	West|7|30-32	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-751	Env_0900	02/03/2020	West	7	34		West|7|34	West|7|34	Environmental swab	Inner surface of refrigerator	Negative			None	Negative
+CCDC-750	Env_0899	02/03/2020	West	7	38		West|7|38	West|7|38	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-756	Env_0905	02/03/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-757	Env_0906	02/03/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Bucket	Negative			None	Negative
+CCDC-758	Env_0907	02/03/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Container	Negative			SRR23971588	Negative
+CCDC-759	Env_0908	02/03/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Container	Negative			None	Negative
+CCDC-760	Env_0909	02/03/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground	Negative			SRR23971522	Negative
+CCDC-761	Env_0910	02/03/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Surface of packing bag	Negative			None	Negative
+CCDC-762	Env_0911	02/03/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Surface of packing bag	Negative			None	Negative
+CCDC-763	Env_0912	02/03/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Surface of packing bag	Negative			None	Negative
+CCDC-765	Env_0914	02/03/2020	West	8	29		West|8|29	West|8|29-31	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-764	Env_0913	02/03/2020	West	8	30		West|8|30	West|8|30	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-767	Env_0916	02/03/2020	West	8	33		West|8|33	West|8|33	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-766	Env_0915	02/03/2020	West	8	34		West|8|34	West|8|34	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-768	Env_0917	02/03/2020	West	8	38		West|8|38	West|8|36-38	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-772	Env_0921	02/03/2020	West	9	25		West|9|25	West|9|25	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-771	Env_0920	02/03/2020	West	9	36		West|9|36	West|9|34-36	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-769	Env_0918	02/03/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-770	Env_0919	02/03/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Container	Negative			None	Negative
+CCDC-690	Env_0890	02/03/2020	West				West|NA|NA	West|NA|NA	Environmental swab	Ground of garage	Negative			None	Negative
+7-26-BX	Env_0705	03/02/2020	West	7	26		West|7|26	West|7|26-28	Environmental swab	Inner surface of refrigerator	Negative			SRR23971544	Negative
+7-26-DB	Env_0711	03/02/2020	West	7	26		West|7|26	West|7|26-28	Environmental swab	Ground	Negative			None	Negative
+7-26-DH	Env_0712	03/02/2020	West	7	26		West|7|26	West|7|26-28	Environmental swab	Ground	Negative			SRR23971548	Negative
+7-26-JZ	Env_0710	03/02/2020	West	7	26		West|7|26	West|7|26-28	Environmental swab	Scissors	Negative			None	Negative
+7-26-K	Env_0706	03/02/2020	West	7	26		West|7|26	West|7|26-28	Environmental swab	Basket	Negative			None	Negative
+7-26-PSN	Env_0708	03/02/2020	West	7	26		West|7|26	West|7|26-28	Environmental swab	Drainage outlet	Negative			SRR23971547	Negative
+7-26-PSW	Env_0707	03/02/2020	West	7	26		West|7|26	West|7|26-28	Environmental swab	Drainage outlet	Negative			SRR23971546	Negative
+7-26-ST	Env_0709	03/02/2020	West	7	26		West|7|26	West|7|26-28	Environmental swab	Glove	Negative			None	Negative
+8-25-BX	Env_0714	03/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Inner surface of refrigerator	Negative			SRR23971549	Negative
+8-25-CK	Env_0716	03/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Sewage	Negative			SRR23971551	Negative
+8-25-D	Env_0717	03/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground inside the stalls	Positive			SRR23971587	Negative
+8-25-D_2	Env_0715	03/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Knief	Negative			SRR23971550	Negative
+8-25-DZ	Env_0718	03/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Surface of packing bag	Negative			None	Negative
+8-25-LJ	Env_0713	03/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Container	Negative			None	Negative
+8-25-M1	Env_0719	03/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground inside the stalls	Positive			SRR23971456	Negative
+8-25-M2	Env_0720	03/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground	Negative			SRR23971552	Negative
+8-25-Bing	Env_0757	09/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Inner surface of refrigerator	Negative			None	Negative
+8-25-D1	Env_0753	09/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground	Negative			SRR23971555	Negative
+8-25-D2	Env_0754	09/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground	Negative			SRR23971557	Negative
+8-25-D3	Env_0755	09/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground	Negative			None	Negative
+8-25-Long	Env_0756	09/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Container	Negative			SRR23971558	Negative
+HJ200062-20200112-1	Env_0577	12/01/2020	West	6	29-31-33		West|6|29-31-33	West|6|29-31-33	Environmental swab	Container	Negative	30.619471	114.256469	SRR23971422	Negative
+HJ200063-20200112-1	Env_0578	12/01/2020	West	6	29-31-33		West|6|29-31-33	West|6|29-31-33	Environmental swab	Basket	Negative	30.619471	114.256469	SRR23971423	Negative
+HJ200065-20200112-1	Env_0580	12/01/2020	West	6	29-31-33		West|6|29-31-33	West|6|29-31-33	Environmental swab	White box	Negative	30.619471	114.256469	SRR23971424	Negative
+HJ200066-20200112-1	Env_0581	12/01/2020	West	6	29-31-33		West|6|29-31-33	West|6|29-31-33	Environmental swab	Iron container	Negative	30.619471	114.256469	SRR23971425	Negative
+HJ200067-20200112-1	Env_0582	12/01/2020	West	6	29-31-33		West|6|29-31-33	West|6|29-31-33	Environmental swab	Bucket	Negative	30.619471	114.256469	SRR23971426	Negative
+Q61	Env_0576	12/01/2020	West	6	29-31-33		West|6|29-31-33	West|6|29-31-33	Environmental swab	Cart1	Negative	30.619471	114.256469	SRR23971449	Positive
+Q64	Env_0579	12/01/2020	West	6	29-31-33		West|6|29-31-33	West|6|29-31-33	Environmental swab	Cart2	Positive	30.619471	114.256469	SRR23971450	Positive
+Q68	Env_0583	12/01/2020	West	6	29-31-33		West|6|29-31-33	West|6|29-31-33	Environmental swab	Ground	Positive	30.619471	114.256469	SRR23971451	Positive
+Q69	Env_0584	12/01/2020	West	6	29-31-33		West|6|29-31-33	West|6|29-31-33	Environmental swab	Feather removal machine	Positive	30.619471	114.256469	SRR23971453	Positive
+Q70	Env_0585	12/01/2020	West	6	29-31-33		West|6|29-31-33	West|6|29-31-33	Environmental swab	Iron container in inner room	Negative	30.619471	114.256469	SRR23971454	Positive
+HJ200031-20200112-1	Env_0546	12/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Basket	Negative	30.619643	114.256508	SRR23971469	Negative
+HJ200032-20200112-1	Env_0547	12/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Foam box	Negative	30.619643	114.256508	SRR23971470	Negative
+HJ200033-20200112-1	Env_0548	12/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Wall	Negative	30.619643	114.256508	SRR23971471	Negative
+HJ200034-20200112-1	Env_0549	12/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Container	Negative	30.619643	114.256508	SRR23971472	Negative
+HJ200035-20200112-1	Env_0550	12/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Outside surface of freezer	Negative	30.619643	114.256508	SRR23971474	Negative
+HJ200036-20200112-1	Env_0551	12/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Iron container	Negative	30.619643	114.256508	SRR23971475	Negative
+HJ200038-20200112-1	Env_0553	12/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Knief	Negative	30.619643	114.256508	SRR23971476	Negative
+HJ200039-20200112-1	Env_0554	12/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Scale	Negative	30.619643	114.256508	SRR23971477	Negative
+HJ200040-20200112-1	Env_0555	12/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground	Negative	30.619643	114.256508	SRR23971478	Negative
+Q37	Env_0552	12/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Inner surface of the freezer	Negative	30.619643	114.256508	SRR23971448	Positive
+HJ200041-20200112-1	Env_0556	12/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Feather removal machine	Negative	30.619658	114.256335	SRR23971479	Negative
+HJ200042-20200112-1	Env_0557	12/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Basket	Negative	30.619658	114.256335	SRR23971480	Negative
+HJ200043-20200112-1	Env_0558	12/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Mop	Negative	30.619658	114.256335	SRR23971481	Negative
+HJ200044-20200112-1	Env_0559	12/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Sink	Negative	30.619658	114.256335	SRR23971482	Negative
+HJ200045-20200112-1	Env_0560	12/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Iron container	Negative	30.619658	114.256335	SRR23971483	Negative
+HJ200046-20200112-1	Env_0561	12/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Basket	Negative	30.619658	114.256335	SRR23971485	Negative
+HJ200047-20200112-1	Env_0562	12/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Bucket	Negative	30.619658	114.256335	SRR23971486	Negative
+HJ200048-20200112-1	Env_0563	12/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Inner surface of freezer	Negative	30.619658	114.256335	SRR23971487	Negative
+HJ200049-20200112-1	Env_0564	12/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Dustpan	Negative	30.619658	114.256335	SRR23971488	Negative
+HJ200050-20200112-1	Env_0565	12/01/2020	West	8	36-38		West|8|36-38	West|8|36-38	Environmental swab	Table top	Negative	30.619658	114.256335	SRR23971410	Negative
+HJ200051-20200112-1	Env_0566	12/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Ground	Negative	30.619605	114.256336	SRR23971411	Negative
+HJ200052-20200112-1	Env_0567	12/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Basket	Negative	30.619605	114.256336	SRR23971412	Negative
+HJ200053-20200112-1	Env_0568	12/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Outside surface of refrigerator	Negative	30.619605	114.256336	SRR23971413	Negative
+HJ200054-20200112-1	Env_0569	12/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Basket	Negative	30.619605	114.256336	SRR23971414	Negative
+HJ200055-20200112-1	Env_0570	12/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Bucket	Negative	30.619605	114.256336	SRR23971415	Negative
+HJ200056-20200112-1	Env_0571	12/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Inner surface of refrigerator	Negative	30.619605	114.256336	SRR23971417	Negative
+HJ200057-20200112-1	Env_0572	12/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Table top	Negative	30.619605	114.256336	SRR23971418	Negative
+HJ200058-20200112-1	Env_0573	12/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Inner surface of refrigerator	Negative	30.619605	114.256336	SRR23971419	Negative
+HJ200059-20200112-1	Env_0574	12/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Wall	Negative	30.619605	114.256336	SRR23971420	Negative
+HJ200060-20200112-1	Env_0575	12/01/2020	West	8	37		West|8|37	West|8|37	Environmental swab	Iron shelf	Negative	30.619605	114.256336	SRR23971421	Negative
+HJ200001-20200112-1	Env_0516	12/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Environmental swab	Table top	Negative	30.619743	114.256338	SRR23971518	Negative
+HJ200002-20200112-1	Env_0517	12/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Environmental swab	Scale	Negative	30.619743	114.256338	SRR23971519	Negative
+HJ200003-20200112-1	Env_0518	12/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Environmental swab	Container	Negative	30.619743	114.256338	SRR23971520	Negative
+HJ200004-20200112-1	Env_0519	12/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Environmental swab	Container	Negative	30.619743	114.256338	SRR23971521	Negative
+HJ200005-20200112-1	Env_0520	12/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Environmental swab	Basket	Negative	30.619743	114.256338	SRR23971523	Negative
+HJ200006-20200112-1	Env_0521	12/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Environmental swab	Feather removal machine	Negative	30.619743	114.256338	SRR23971524	Negative
+HJ200007-20200112-1	Env_0522	12/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Environmental swab	Table	Negative	30.619743	114.256338	SRR23971525	Negative
+HJ200008-20200112-1	Env_0523	12/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Environmental swab	Inner surface of refrigerator	Negative	30.619743	114.256338	SRR23971526	Negative
+HJ200009-20200112-1	Env_0524	12/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Environmental swab	Inside of feather removal machine	Negative	30.619743	114.256338	SRR23971527	Negative
+HJ200010-20200112-1	Env_0525	12/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Environmental swab	Outside surface of refrigerator	Negative	30.619743	114.256338	SRR23971528	Negative
+HJ200021-20200112-1	Env_0536	12/01/2020	West	9	35-37		West|9|35-37	West|9|35-37	Environmental swab	Ground	Negative	30.619685	114.256327	SRR23971540	Negative
+HJ200022-20200112-1	Env_0537	12/01/2020	West	9	35-37		West|9|35-37	West|9|35-37	Environmental swab	Outside surface of freezer	Negative	30.619685	114.256327	SRR23971541	Negative
+HJ200023-20200112-1	Env_0538	12/01/2020	West	9	35-37		West|9|35-37	West|9|35-37	Environmental swab	Wall	Negative	30.619685	114.256327	SRR23971542	Negative
+HJ200024-20200112-1	Env_0539	12/01/2020	West	9	35-37		West|9|35-37	West|9|35-37	Environmental swab	Blue mop	Negative	30.619685	114.256327	SRR23971589	Negative
+HJ200025-20200112-1	Env_0540	12/01/2020	West	9	35-37		West|9|35-37	West|9|35-37	Environmental swab	Tongs	Negative	30.619685	114.256327	SRR23971463	Negative
+HJ200026-20200112-1	Env_0541	12/01/2020	West	9	35-37		West|9|35-37	West|9|35-37	Environmental swab	Ground	Negative	30.619685	114.256327	SRR23971464	Negative
+HJ200027-20200112-1	Env_0542	12/01/2020	West	9	35-37		West|9|35-37	West|9|35-37	Environmental swab	Bucket	Negative	30.619685	114.256327	SRR23971465	Negative
+HJ200028-20200112-1	Env_0543	12/01/2020	West	9	35-37		West|9|35-37	West|9|35-37	Environmental swab	Basket	Negative	30.619685	114.256327	SRR23971466	Negative
+HJ200029-20200112-1	Env_0544	12/01/2020	West	9	35-37		West|9|35-37	West|9|35-37	Environmental swab	Surface of the door	Negative	30.619685	114.256327	SRR23971467	Negative
+HJ200030-20200112-1	Env_0545	12/01/2020	West	9	35-37		West|9|35-37	West|9|35-37	Environmental swab	Container in inner room	Negative	30.619685	114.256327	SRR23971468	Negative
+HJ200011-20200112-1	Env_0526	12/01/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Wall	Negative	30.619732	114.256295	SRR23971529	Negative
+HJ200012-20200112-1	Env_0527	12/01/2020	West	9	38		West|9|38	West|9|38	Environmental swab	White basket	Negative	30.619732	114.256295	SRR23971530	Negative
+HJ200013-20200112-1	Env_0528	12/01/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Chopping block	Negative	30.619732	114.256295	SRR23971531	Negative
+HJ200014-20200112-1	Env_0529	12/01/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Container	Negative	30.619732	114.256295	SRR23971532	Negative
+HJ200015-20200112-1	Env_0530	12/01/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Container	Negative	30.619732	114.256295	SRR23971534	Negative
+HJ200016-20200112-1	Env_0531	12/01/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Red basket	Negative	30.619732	114.256295	SRR23971535	Negative
+HJ200017-20200112-1	Env_0532	12/01/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Scale	Negative	30.619732	114.256295	SRR23971536	Negative
+HJ200018-20200112-1	Env_0533	12/01/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Bucket	Negative	30.619732	114.256295	SRR23971537	Negative
+HJ200019-20200112-1	Env_0534	12/01/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Bucket	Negative	30.619732	114.256295	SRR23971538	Negative
+HJ200020-20200112-1	Env_0535	12/01/2020	West	9	38		West|9|38	West|9|38	Environmental swab	Wall	Negative	30.619732	114.256295	SRR23971539	Negative
+W-8-25-D1	Env_0806	15/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground inside the stalls	Positive			SRR23971461	Negative
+W-8-25-D2	Env_0807	15/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Ground inside the stalls	Positive			SRR23971462	Negative
+W-8-25-L	Env_0808	15/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Container	Positive			SRR23971490	Negative
+W-8-25-L2	Env_0809	15/02/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Container	Positive			SRR23971491	Negative
+s-1	Env_0850	19/02/2020	Warehouse	6	29		Warehouse|6|29	Warehouse|6|29	Environmental swab	Storehouse ground	Negative			None	Negative
+s-2	Env_0851	19/02/2020	Warehouse	6	29		Warehouse|6|29	Warehouse|6|29	Environmental swab	Storehouse container	Negative			None	Negative
+E-A--7-3	Env_0854	20/02/2020	East	Accessory Street	7		East|Accessory Street|7	East|Accessory Street|7	Environmental swab	Chopping block	Negative			None	Negative
+E-A--7-3-floor	Env_0859	20/02/2020	East	Accessory Street	7		East|Accessory Street|7	East|Accessory Street|7	Environmental swab	Ground	Negative			None	Negative
+E-A-7-1	Env_0858	20/02/2020	East	Accessory Street	7		East|Accessory Street|7	East|Accessory Street|7	Environmental swab	Container	Negative			SRR23971441	Negative
+H-D-3.5-L1	Env_0853	20/02/2020	East	Accessory Street	7		East|Accessory Street|7	East|Accessory Street|7	Environmental swab	Container	Negative			None	Negative
+E-10-29-1	Env_0855	20/02/2020	West	10	29		West|10|29	West|10|29-31	Environmental swab	Container	Negative			None	Negative
+E-10-29-2	Env_0856	20/02/2020	West	10	29		West|10|29	West|10|29-31	Environmental swab	Container	Negative			SRR23971440	Negative
+C10_2	Env_0840	20/02/2020	West	5			West|5|NA	West|5|NA	Environmental swab	Inside of container	Negative			None	Negative
+C11_2	Env_0841	20/02/2020	West	5			West|5|NA	West|5|NA	Environmental swab	Ground	Negative			None	Negative
+C12_2	Env_0842	20/02/2020	West	5			West|5|NA	West|5|NA	Environmental swab	Wall	Negative			SRR23971438	Negative
+C13_2	Env_0843	20/02/2020	West	5			West|5|NA	West|5|NA	Environmental swab	Mahjong table	Negative			None	Negative
+C14_2	Env_0844	20/02/2020	West	5			West|5|NA	West|5|NA	Environmental swab	Mahjong table	Negative			None	Negative
+C15_2	Env_0845	20/02/2020	West	5			West|5|NA	West|5|NA	Environmental swab	Water cup	Negative			None	Negative
+C6_2	Env_0836	20/02/2020	West	5			West|5|NA	West|5|NA	Environmental swab	work clothes	Negative			None	Negative
+C7_2	Env_0837	20/02/2020	West	5			West|5|NA	West|5|NA	Environmental swab	Surface of feather removal machine	Negative			None	Negative
+C9_2	Env_0839	20/02/2020	West	5			West|5|NA	West|5|NA	Environmental swab	Ground	Negative			SRR23971437	Negative
+C8_2	Env_0838	20/02/2020	West	5	stair1-2		West|5|stair1-2	West|5|stair1-2	Environmental swab	Wall inside the stalls	Positive			None	Negative
+C1_2	Env_0831	20/02/2020	West	6	18		West|6|18	West|6|18	Environmental swab	Inner surface of refrigerator	Negative			None	Negative
+C2_2	Env_0832	20/02/2020	West	6	18		West|6|18	West|6|18	Environmental swab	Inner surface of refrigerator	Negative			None	Negative
+C3_2	Env_0833	20/02/2020	West	6	18		West|6|18	West|6|18	Environmental swab	Inner surface of refrigerator	Negative			None	Negative
+C4_2	Env_0834	20/02/2020	West	6	18		West|6|18	West|6|18	Environmental swab	Inner surface of refrigerator	Negative			None	Negative
+C5_2	Env_0835	20/02/2020	West	6	18		West|6|18	West|6|18	Environmental swab	Inner surface of refrigerator	Negative			None	Negative
+C16_2	Env_0846	20/02/2020	West	6	34		West|6|34	West|6|34	Environmental swab	Surface of container	Negative			None	Negative
+C17_2	Env_0847	20/02/2020	West	6	34		West|6|34	West|6|34	Environmental swab	Surface of container	Negative			SRR23971439	Negative
+C18_2	Env_0848	20/02/2020	West	6			West|6|NA	West|6|NA	Environmental swab	Environmental swab	Negative			None	Negative
+C19_2	Env_0849	20/02/2020	West	6			West|6|NA	West|6|NA	Environmental swab	Environmental swab	Negative			None	Negative
+9-35-3-freezer	Env_0852	20/02/2020	West	9	34		West|9|34	West|9|34-36	Environmental swab	Inner surface of refrigerator	Negative			None	Negative
+9-35-2-floor	Env_0857	20/02/2020	West	9	35		West|9|35	West|9|35-37	Environmental swab	Ground	Negative			None	Negative
+RLC-1	Env_0871	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Storehouse ground	Negative			None	Negative
+RLC-2	Env_0870	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Storehouse ground	Negative			None	Negative
+RLC-3	Env_0868	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Storehouse bag surfaces	Positive			SRR23971517	Positive
+RLC-4	Env_0867	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Storehouse bag surfaces	Positive			None	Negative
+RLC-5	Env_0869	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Storehouse bag surfaces	Negative			None	Negative
+SJ-BX-1	Env_0861	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Inner surface of refrigerator in storehouse	Negative			None	Negative
+SJ-BX-2	Env_0860	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Inner surface of refrigerator in storehouse	Negative			None	Negative
+SJ-CS	Env_0863	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Storehouse weight scale	Positive			None	Negative
+SJ-D	Env_0862	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Storehouse ground	Positive			SRR23971515	Positive
+SJ-L1	Env_0864	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Storehouse wire fence	Negative			None	Negative
+SJ-L2	Env_0866	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Storehouse wire fence	Negative			None	Negative
+SJ-L3	Env_0865	22/02/2020	Warehouse	8	25		Warehouse|8|25	Warehouse|8|25	Environmental swab	Storehouse wire fence	Positive			SRR23971516	Negative
+10-23-abv1	Env_0623	23/01/2020	West	10	23		West|10|23	West|10|23	Environmental swab	Environmental swab	Negative			None	Negative
+10-29.31-dor	Env_0634	23/01/2020	West	10	29-31		West|10|29-31	West|10|29-31	Environmental swab	Surface of the door	Negative			None	Negative
+10-31-abv2	Env_0619	23/01/2020	West	10	31		West|10|31	West|10|29-31	Environmental swab	Environmental swab	Negative			SRR23971429	Negative
+10-31-In1	Env_0616	23/01/2020	West	10	31		West|10|31	West|10|29-31	Environmental swab	Environmental swab	Negative			None	Negative
+10-31-In2	Env_0617	23/01/2020	West	10	31		West|10|31	West|10|29-31	Environmental swab	Environmental swab	Negative			SRR23971428	Negative
+10-31-In3	Env_0618	23/01/2020	West	10	31		West|10|31	West|10|29-31	Environmental swab	Environmental swab	Negative			None	Negative
+11-31-abv1	Env_0624	23/01/2020	West	11	31		West|11|31	West|11|31	Environmental swab	Environmental swab	Negative			None	Negative
+12-15.17-dor	Env_0628	23/01/2020	West	12	15-17		West|12|15-17	West|12|15-17	Environmental swab	Surface of the door	Negative			None	Negative
+12-20.24-dor	Env_0629	23/01/2020	West	12	20-24		West|12|20-24	West|12|20-24	Environmental swab	Surface of the door	Negative			None	Negative
+12-32-dor	Env_0637	23/01/2020	West	12	32		West|12|32	West|12|32	Environmental swab	Surface of the door	Negative			None	Negative
+2-9.11.13-dor	Env_0630	23/01/2020	West	2	9-11-13		West|2|9-11-13	West|2|9-11-13	Environmental swab	Surface of the door	Negative			None	Negative
+2-20-dor	Env_0636	23/01/2020	West	3	20		West|3|20	West|3|20	Environmental swab	Surface of the door	Negative			None	Negative
+5-58-dor	Env_0633	23/01/2020	West	5	28		West|5|28	West|5|28	Environmental swab	Surface of the door	Negative			None	Negative
+5-5.7-dor2	Env_0638	23/01/2020	West	5	5-7		West|5|5-7	West|5|5-7	Environmental swab	Surface of the door	Negative			None	Negative
+5-7-dor	Env_0635	23/01/2020	West	5	7		West|5|7	West|5|5-7	Environmental swab	Surface of the door	Negative			None	Negative
+06-29-abv1	Env_0620	23/01/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Environmental swab	Negative			SRR23971430	Negative
+06-29-abv1_2	Env_0627	23/01/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Environmental swab	Negative			None	Negative
+06-32-abv1	Env_0622	23/01/2020	West	6	32		West|6|32	West|6|32	Environmental swab	Environmental swab	Negative			None	Negative
+7-22.24-dor	Env_0631	23/01/2020	West	7	22-24		West|7|22-24	West|7|20-22-24	Environmental swab	Surface of the door	Negative			None	Negative
+7-23-dor	Env_0632	23/01/2020	West	7	23		West|7|23	West|7|23	Environmental swab	Surface of the door	Negative			None	Negative
+08-25-abv1	Env_0621	23/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Environmental swab	Negative			None	Negative
+08-25-abv1_2	Env_0625	23/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Environmental swab	Negative			None	Negative
+09-23-abv1	Env_0626	23/01/2020	West	9	23		West|9|23	West|9|23	Environmental swab	Environmental swab	Negative			None	Negative
+W9-GD-1	Env_0872	23/02/2020	West	9			West|9|NA	West|9|NA	Environmental swab	Ventilation duct	Negative			None	Negative
+10-29.31-dor_2	Env_0640	25/01/2020	West	10	29-31		West|10|29-31	West|10|29-31	Environmental swab	Surface of the door	Negative			None	Negative
+08-25-abv1_3	Env_0639	25/01/2020	West	8	25		West|8|25	West|8|25	Environmental swab	Surface of the door	Negative			None	Negative
+CCDC-454	Env_0873	25/02/2020	West	9	34		West|9|34	West|9|34-36	Environmental swab	Container	Negative			SRR23971442	Negative
+CCDC-455	Env_0874	25/02/2020	West	9	34		West|9|34	West|9|34-36	Environmental swab	Container	Negative			None	Negative
+1-29-22	Env_0700	29/01/2020	East	11	13		East|11|13	East|11|7-13	Environmental swab	Ground	Negative			None	Negative
+1-29-23	Env_0701	29/01/2020	East	11	9		East|11|9	East|11|9	Environmental swab	Ground	Negative			SRR23971543	Negative
+1-29-15	Env_0693	29/01/2020	East				East|NA|NA	East|NA|NA	Environmental swab	Garbage	Negative			None	Negative
+1-29-25	Env_0703	29/01/2020	East				East|NA|NA	East|NA|NA	Environmental swab	Garbage	Negative			None	Negative
+629-1-L1	Env_0875	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			SRR23971443	Negative
+629-10-TAJ	Env_0884	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Feather removal machine	Negative			None	Negative
+629-11-L	Env_0885	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			SRR23971452	Negative
+629-12-L	Env_0886	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			None	Negative
+629-13-L	Env_0887	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			SRR23971489	Negative
+629-14-L	Env_0888	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			None	Negative
+629-2-L2	Env_0876	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			None	Negative
+629-3-C	Env_0877	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Cart	Negative			SRR23971444	Negative
+629-4-L3	Env_0878	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			None	Negative
+629-5-L4	Env_0879	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			SRR23971445	Negative
+629-6-L5	Env_0880	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			None	Negative
+629-7-L6	Env_0881	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			None	Negative
+629-8-L7	Env_0882	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			SRR23971447	Negative
+629-9-L8	Env_0883	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			None	Negative
+629-L-1	Env_0889	29/02/2020	West	6	29		West|6|29	West|6|29-31-33	Environmental swab	Container	Negative			SRR23971500	Negative
+WS-3-1	Env_0749	05/02/2020	East				East|NA|NA	East|NA|NA	Sewage	Sewage well	Negative			SRR23971553	Negative
+WS-3-2	Env_0750	05/02/2020	East				East|NA|NA	East|NA|NA	Sewage	Sewage well	Positive			None	Negative
+WS-4-1	Env_0751	05/02/2020	East				East|NA|NA	East|NA|NA	Sewage	Sewage well	Negative			SRR23971554	Negative
+WS-4-2	Env_0752	05/02/2020	East				East|NA|NA	East|NA|NA	Sewage	Sewage well	Positive			SRR23971590	Negative
+WS-1-1	Env_0742	05/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			SRR23971457	Negative
+WS-1-2	Env_0743	05/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			None	Negative
+WS-1-3	Env_0744	05/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			None	Negative
+WS-1-4	Env_0745	05/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			None	Negative
+WS-2-1	Env_0746	05/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			SRR23971458	Negative
+WS-2-2	Env_0747	05/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			None	Negative
+WS-2-3	Env_0748	05/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			SRR23971459	Negative
+EWS-1#-1	Env_0810	15/02/2020	East				East|NA|NA	East|NA|NA	Sewage	Sewage well	Negative			None	Negative
+EWS-1#-2	Env_0811	15/02/2020	East				East|NA|NA	East|NA|NA	Sewage	Sewage well	Negative			None	Negative
+EWS-2#-1	Env_0812	15/02/2020	East				East|NA|NA	East|NA|NA	Sewage	Sewage well	Negative			None	Negative
+EWS-2#-2	Env_0813	15/02/2020	East				East|NA|NA	East|NA|NA	Sewage	Sewage well	Positive			SRR23971492	Negative
+EWS-3#-1	Env_0814	15/02/2020	East				East|NA|NA	East|NA|NA	Sewage	Sewage well	Negative			None	Negative
+EWS-3#-2	Env_0815	15/02/2020	East				East|NA|NA	East|NA|NA	Sewage	Sewage well	Positive			SRR23971493	Negative
+wws-1#-0	Env_0830	15/02/2020	West	1			West|1|NA	West|1|NA	Sewage	Sewage well	Positive			SRR23971501	Negative
+WWS-1#	Env_0816	15/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			SRR23971494	Negative
+WWS-1#-2	Env_0817	15/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			SRR23971495	Negative
+WWS-1#-3	Env_0818	15/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			SRR23971496	Negative
+WWS-2#-1	Env_0819	15/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Negative			None	Negative
+WWS-2#-2	Env_0820	15/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			SRR23971514	Positive
+WWS-2#-3	Env_0821	15/02/2020	West				West|NA|NA	West|NA|NA	Sewage	Sewage well	Positive			SRR23971497	Negative
+Outside-1	Env_0758	09/02/2020	West	1			West|1|NA	West|1|NA	Water drain	Water drain	Negative			None	Negative
+zong-1	Env_0762	09/02/2020	West	1			West|1|NA	West|1|NA	Water drain	Water drain	Positive	30.619249	114.257184	None	Negative
+Vertical-3	Env_0763	09/02/2020	West	3			West|3|NA	West|3|NA	Water drain	Water drain	Negative			None	Negative
+Outside-5	Env_0759	09/02/2020	West	5			West|5|NA	West|5|NA	Water drain	Water drain	Negative			SRR23971559	Negative
+Vertical-5	Env_0764	09/02/2020	West	5			West|5|NA	West|5|NA	Water drain	Water drain	Negative			None	Negative
+Outside-7	Env_0760	09/02/2020	West	7			West|7|NA	West|7|NA	Water drain	Water drain	Negative			None	Negative
+Vertical-7	Env_0765	09/02/2020	West	7			West|7|NA	West|7|NA	Water drain	Water drain	Negative			None	Negative
+Outside-9	Env_0761	09/02/2020	West	9			West|9|NA	West|9|NA	Water drain	Water drain	Negative			None	Negative
+Vertical-9	Env_0766	09/02/2020	West	9			West|9|NA	West|9|NA	Water drain	Water drain	Negative			None	Negative
+E-4-3.5	Env_0822	15/02/2020	East	4	3-5		East|4|3-5	East|4|5-7-9	Water drain	Water drain	Negative	30.619623	114.257613	None	Negative
+E-4-7.9	Env_0823	15/02/2020	East	4	7-9		East|4|7-9	East|4|5-7-9	Water drain	Water drain	Negative	30.619642	114.257682	None	Negative
+E-5-17	Env_0824	15/02/2020	East	5	17		East|5|17	East|5|17	Water drain	Water drain	Negative	30.619749	114.257786	None	Negative
+w-zong-1	Env_0829	15/02/2020	West	1			West|1|NA	West|1|NA	Water drain	Water drain	Positive	30.619137	114.256717	SRR23971499	Negative
+w-10-4	Env_0825	15/02/2020	West	10	4		West|10|4	West|10|4	Water drain	Water drain	Negative	30.619917	114.25683	None	Negative
+w-4-28	Env_0826	15/02/2020	West	4	28		West|4|28	West|4|28	Water drain	Water drain	Negative	30.619323	114.256572	None	Negative
+w-6-29-32	Env_0827	15/02/2020	West	6	29-32		West|6|29-32	West|6|29-32	Water drain	Water drain	Negative	30.619504	114.256459	None	Negative
+w-6-29-33	Env_0828	15/02/2020	West	6	29-33		West|6|29-33	West|6|29-31-33	Water drain	Water drain	Positive	30.619493	114.256462	SRR23971498	Negative
+1-27-12	Env_0643	27/01/2020	West	1	2		West|1|2	West|1|2	Water drain	Water drain	Negative	30.619225	114.257079	SRR23971432	Negative
+1-27-13	Env_0644	27/01/2020	West	1	7-9		West|1|7-9	West|1|7-9	Water drain	Water drain	Negative	30.619201	114.256977	None	Negative
+1-27-40	Env_0665	27/01/2020	West	10	31		West|10|31	West|10|29-31	Water drain	Water drain	Negative	30.619808	114.256361	None	Negative
+1-27-37	Env_0664	27/01/2020	West	10	4		West|10|4	West|10|4	Water drain	Water drain	Positive	30.619917	114.25683	SRR23971585	Negative
+1-27-36	Env_0663	27/01/2020	West	10	9		West|10|9	West|10|9	Water drain	Water drain	Negative	30.619899	114.256743	None	Negative
+1-27-41	Env_0666	27/01/2020	West	11	2		West|11|2	West|11|2	Water drain	Water drain	Negative	30.620004	114.256835	None	Negative
+1-27-43	Env_0667	27/01/2020	West	11	32		West|11|32	West|11|32	Water drain	Water drain	Negative	30.619886	114.256341	None	Negative
+1-27-54	Env_0676	27/01/2020	West	11	6		West|11|6	West|11|6	Water drain	Water drain	Negative	30.619991	114.256779	None	Negative
+1-27-45	Env_0669	27/01/2020	West	12	19		West|12|19	West|12|19	Water drain	Water drain	Negative	30.62002	114.25655	None	Negative
+1-27-44	Env_0668	27/01/2020	West	12	35		West|12|35	West|12|35	Water drain	Water drain	Negative	30.619949	114.256258	None	Negative
+1-27-48	Env_0670	27/01/2020	West	12	36-38		West|12|36-38	West|12|36-38	Water drain	Water drain	Negative	30.619947	114.256243	None	Negative
+1-27-56	Env_0677	27/01/2020	West	13	40-42		West|13|40-42	West|13|40-42	Water drain	Water drain	Negative	30.620029	114.256249	None	Negative
+1-27-49	Env_0671	27/01/2020	West	13	7-8		West|13|7-8	West|13|7-8	Water drain	Water drain	Negative	30.62016	114.256786	None	Negative
+1-27-57	Env_0678	27/01/2020	West	14	41		West|14|41	West|14|41	Water drain	Water drain	Negative	30.620107	114.25621	None	Negative
+1-27-19	Env_0650	27/01/2020	West	15	19-21		West|15|19-21	West|15|19-21	Water drain	Water drain	Negative	30.620214	114.256181	None	Negative
+1-27-51	Env_0673	27/01/2020	West	15	20		West|15|20	West|15|20	Water drain	Water drain	Negative	30.620253	114.256568	None	Negative
+1-27-52	Env_0674	27/01/2020	West	15	22		West|15|22	West|15|22	Water drain	Water drain	Negative	30.620243	114.256536	SRR23971434	Negative
+1-27-50	Env_0672	27/01/2020	West	15	9-11		West|15|9-11	West|15|9-11	Water drain	Water drain	Negative	30.620307	114.256528	None	Negative
+1-27-14	Env_0645	27/01/2020	West	2	1-3		West|2|1-3	West|2|1-3	Water drain	Water drain	Negative	30.61929	114.257044	None	Negative
+1-27-15	Env_0646	27/01/2020	West	2	16-18		West|2|16-18	West|2|16-18	Water drain	Water drain	Negative	30.619243	114.256841	None	Negative
+1-27-11	Env_0642	27/01/2020	West	3	13		West|3|13	West|3|13	Water drain	Water drain	Negative	30.619333	114.256855	SRR23971431	Negative
+1-27-9	Env_0641	27/01/2020	West	3	4		West|3|4	West|3|4	Water drain	Water drain	Negative	30.619445	114.256977	None	Negative
+1-27-17	Env_0648	27/01/2020	West	4	1		West|4|1	West|4|1	Water drain	Water drain	Negative	30.619453	114.257005	None	Negative
+1-27-16	Env_0647	27/01/2020	West	4	22		West|4|22	West|4|22	Water drain	Water drain	Negative	30.619384	114.256716	None	Negative
+1-27-18	Env_0649	27/01/2020	West	5	4		West|5|4	West|5|4	Water drain	Water drain	Negative	30.619526	114.256952	None	Negative
+1-27-20	Env_0651	27/01/2020	West	5			West|5|NA	West|5|NA	Water drain	Water drain	Negative			None	Negative
+1-27-22	Env_0653	27/01/2020	West	6	24		West|6|24	West|6|24	Water drain	Water drain	Negative	30.619536	114.256639	None	Negative
+1-27-33	Env_0660	27/01/2020	West	6	29-33		West|6|29-33	West|6|29-31-33	Water drain	Water drain	Positive	30.619493	114.256462	SRR23971584	Negative
+1-27-21	Env_0652	27/01/2020	West	6	9		West|6|9	West|6|9	Water drain	Water drain	Negative	30.619583	114.25684	None	Negative
+1-27-24	Env_0654	27/01/2020	West	7	15-17		West|7|15-17	West|7|15-17	Water drain	Water drain	Negative	30.619637	114.256716	None	Negative
+1-27-25	Env_0655	27/01/2020	West	7	2-4		West|7|2-4	West|7|2-4	Water drain	Water drain	Negative	30.619686	114.256917	None	Negative
+1-27-28	Env_0657	27/01/2020	West	7	34		West|7|34	West|7|34	Water drain	Water drain	Negative	30.619565	114.256409	SRR23971433	Negative
+1-27-31	Env_0659	27/01/2020	West	8	11-13		West|8|11-13	West|8|11-13	Water drain	Water drain	Negative	30.619728	114.25675	None	Negative
+1-27-26	Env_0656	27/01/2020	West	8	32-36		West|8|32-36	West|8|32-36	Water drain	Water drain	Negative	30.619644	114.256387	None	Negative
+1-27-30	Env_0658	27/01/2020	West	8	6-8		West|8|6-8	West|8|6-8	Water drain	Water drain	Negative	30.61975	114.256837	None	Negative
+1-27-34	Env_0661	27/01/2020	West	9	1-3		West|9|1-3	West|9|1-3	Water drain	Water drain	Negative	30.619843	114.256871	None	Negative
+1-27-35	Env_0662	27/01/2020	West	9	34-36		West|9|34-36	West|9|34-36	Water drain	Water drain	Negative	30.619718	114.256345	None	Negative
+1-27-53	Env_0675	27/01/2020	West	9	9-13		West|9|9-13	West|9|9-13	Water drain	Water drain	Negative	30.619813	114.256741	None	Negative
+1-29-20	Env_0698	29/01/2020	East	10	5		East|10|5	East|10|5	Water drain	Water drain	Negative	30.6201	114.257491	None	Negative
+1-29-16	Env_0694	29/01/2020	East	11	13		East|11|13	East|11|7-13	Water drain	Water drain	Negative	30.620253	114.257567	None	Negative
+1-29-21	Env_0699	29/01/2020	East	11	29		East|11|29	East|11|29	Water drain	Water drain	Negative	30.620352	114.257999	None	Negative
+1-29-24	Env_0702	29/01/2020	East	11	7-13		East|11|7-13	East|11|7-13	Water drain	Water drain	Negative	30.620245	114.257525	None	Negative
+1-27-55	Env_0704	29/01/2020	East	13	18-20	As far as I know there is no Street 13 and I cannot place this sample on the map.	East|13|18-20	East|13|18-20	Water drain	Water drain	Negative			None	Negative
+1-29-1	Env_0679	29/01/2020	East	2	5-7-9		East|2|5-7-9	East|2|5-7-9	Water drain	Water drain	Negative	30.619479	114.257718	None	Negative
+1-29-2	Env_0680	29/01/2020	East	2	50-52		East|2|50-52	East|2|50-52	Water drain	Water drain	Negative	30.619647	114.258419	None	Negative
+1-29-3	Env_0681	29/01/2020	East	3	52		East|3|52	East|3|52	Water drain	Water drain	Negative	30.619728	114.258411	None	Negative
+1-29-6	Env_0684	29/01/2020	East	4	16		East|4|16	East|4|16	Water drain	Water drain	Negative	30.619662	114.257783	None	Negative
+1-29-5	Env_0683	29/01/2020	East	4	36		East|4|36	East|4|36	Water drain	Water drain	Negative	30.619752	114.258162	None	Negative
+1-29-4	Env_0682	29/01/2020	East	4	5-7-9		East|4|5-7-9	East|4|5-7-9	Water drain	Water drain	Positive	30.619637	114.25767	SRR23971586	Negative
+1-29-8	Env_0686	29/01/2020	East	5	11		East|5|11	East|5|11	Water drain	Water drain	Positive	30.61973	114.257703	SRR23971455	Negative
+1-29-7	Env_0685	29/01/2020	East	5	42		East|5|42	East|5|42	Water drain	Water drain	Negative	30.619852	114.258222	None	Negative
+1-29-10	Env_0688	29/01/2020	East	6	17-19		East|6|17-19	East|6|17-19	Water drain	Water drain	Negative	30.619831	114.257774	None	Negative
+1-29-9	Env_0687	29/01/2020	East	6	35		East|6|35	East|6|35	Water drain	Water drain	Negative	30.619911	114.258112	None	Negative
+1-29-11	Env_0689	29/01/2020	East	7	30		East|7|30	East|7|30	Water drain	Water drain	Negative	30.619968	114.258003	None	Negative
+1-29-12	Env_0690	29/01/2020	East	7	8		East|7|8	East|7|8	Water drain	Water drain	Negative	30.61987	114.257595	None	Negative
+1-29-14	Env_0692	29/01/2020	East	8	12		East|8|12	East|8|12	Water drain	Water drain	Negative	30.619964	114.257628	None	Negative
+1-29-13	Env_0691	29/01/2020	East	8	38		East|8|38	East|8|38	Water drain	Water drain	Negative	30.620073	114.258089	None	Negative
+1-29-18	Env_0696	29/01/2020	East	9	11		East|9|11	East|9|11	Water drain	Water drain	Negative	30.62004	114.257604	None	Negative
+1-29-19	Env_0697	29/01/2020	East	9	35		East|9|35	East|9|35	Water drain	Water drain	Negative	30.620145	114.258036	SRR23971435	Negative
+1-29-17	Env_0695	29/01/2020	East	9	51		East|9|51	East|9|51	Water drain	Water drain	Negative	30.620198	114.258261	None	Negative

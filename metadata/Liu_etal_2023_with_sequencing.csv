@@ -1,0 +1,894 @@
+Lab.code,Sample.ID,Sequencing_Run,Sampling.date,Sample_location,Street.No.,Vendor.No.,edge_case,Stall_corrected,address,Stall_corrected_merged,Sample.type,Sample.information,SARS.CoV.2.qPCR.result,Precise.location,FromHSM
+C10_2,Env_0840,,2020-02-20,West,5,,,West|5|NA,West|5|NA,West|5|NA,Environmental swab,Inside of container,Negative,0,TRUE
+C11_2,Env_0841,,2020-02-20,West,5,,,West|5|NA,West|5|NA,West|5|NA,Environmental swab,Ground,Negative,0,TRUE
+C12_2,Env_0842,SRR23971438,2020-02-20,West,5,,,West|5|NA,West|5|NA,West|5|NA,Environmental swab,Wall,Negative,0,TRUE
+C13_2,Env_0843,,2020-02-20,West,5,,,West|5|NA,West|5|NA,West|5|NA,Environmental swab,Mahjong table,Negative,0,TRUE
+C14_2,Env_0844,,2020-02-20,West,5,,,West|5|NA,West|5|NA,West|5|NA,Environmental swab,Mahjong table,Negative,0,TRUE
+C15_2,Env_0845,,2020-02-20,West,5,,,West|5|NA,West|5|NA,West|5|NA,Environmental swab,Water cup,Negative,0,TRUE
+C18_2,Env_0848,,2020-02-20,West,6,,,West|6|NA,West|6|NA,West|6|NA,Environmental swab,Environmental swab,Negative,0,TRUE
+C19_2,Env_0849,,2020-02-20,West,6,,,West|6|NA,West|6|NA,West|6|NA,Environmental swab,Environmental swab,Negative,0,TRUE
+C6_2,Env_0836,,2020-02-20,West,5,,,West|5|NA,West|5|NA,West|5|NA,Environmental swab,work clothes,Negative,0,TRUE
+C7_2,Env_0837,,2020-02-20,West,5,,,West|5|NA,West|5|NA,West|5|NA,Environmental swab,Surface of feather removal machine,Negative,0,TRUE
+C8_2,Env_0838,,2020-02-20,West,5,stair1-2,,West|5|stair1-2,West|5|stair1-2,West|5|stair1-2,Environmental swab,Wall inside the stalls,Positive,0,TRUE
+C9,Env_0147,,2020-01-01,West,4,,,West|4|NA,West|4|NA,West|4|NA,Environmental swab,Surface of the door,Negative,0,TRUE
+C9_2,Env_0839,SRR23971437,2020-02-20,West,5,,,West|5|NA,West|5|NA,West|5|NA,Environmental swab,Ground,Negative,0,TRUE
+E-A--7-3,Env_0854,,2020-02-20,East,Accessory Street,7,,East|Accessory Street|7,East|Accessory Street|7,East|Accessory Street|7,Environmental swab,Chopping block,Negative,0,TRUE
+E-A--7-3-floor,Env_0859,,2020-02-20,East,Accessory Street,7,,East|Accessory Street|7,East|Accessory Street|7,East|Accessory Street|7,Environmental swab,Ground,Negative,0,TRUE
+E-A-7-1,Env_0858,SRR23971441,2020-02-20,East,Accessory Street,7,,East|Accessory Street|7,East|Accessory Street|7,East|Accessory Street|7,Environmental swab,Container,Negative,0,TRUE
+E71,Env_0285,,2020-01-01,East,2,,,East|2|NA,East|2|NA,East|2|NA,Environmental swab,Shelf for meat,Negative,0,TRUE
+E72,Env_0286,,2020-01-01,East,2,,,East|2|NA,East|2|NA,East|2|NA,Environmental swab,Surface of cart,Negative,0,TRUE
+E73,Env_0287,,2020-01-01,East,2,,,East|2|NA,East|2|NA,East|2|NA,Environmental swab,Table for meta selling,Negative,0,TRUE
+E74,Env_0288,,2020-01-01,East,2,,,East|2|NA,East|2|NA,East|2|NA,Environmental swab,Surface of chopping board,Negative,0,TRUE
+E75,Env_0289,,2020-01-01,East,1,,,East|1|NA,East|1|NA,East|1|NA,Environmental swab,Surface of chopping board,Negative,0,TRUE
+E76,Env_0290,,2020-01-01,East,1,,,East|1|NA,East|1|NA,East|1|NA,Environmental swab,Sewage on floor,Negative,0,TRUE
+H-D-3.5-L1,Env_0853,,2020-02-20,East,Accessory Street,7,,East|Accessory Street|7,East|Accessory Street|7,East|Accessory Street|7,Environmental swab,Container,Negative,0,TRUE
+Outside-1,Env_0758,,2020-02-09,West,1,,assume east line because no 3,West|1|NA,West|1|Sw3,West|1|NA,Water drain,Water drain,Negative,1,TRUE
+Outside-5,Env_0759,SRR23971559,2020-02-09,West,5,,assume east line because no 3,West|5|NA,West|5|Sw3,West|5|NA,Water drain,Water drain,Negative,1,TRUE
+Outside-7,Env_0760,,2020-02-09,West,7,,assume east line because no 3,West|7|NA,West|7|Sw3,West|7|NA,Water drain,Water drain,Negative,1,TRUE
+Outside-9,Env_0761,,2020-02-09,West,9,,assume east line because no 3,West|9|NA,West|9|Sw3,West|9|NA,Water drain,Water drain,Negative,1,TRUE
+RLC-1,Env_0871,,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Storehouse ground,Negative,0,TRUE
+RLC-2,Env_0870,,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Storehouse ground,Negative,0,TRUE
+RLC-3,Env_0868,SRR23971517,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Storehouse bag surfaces,Positive,0,TRUE
+RLC-4,Env_0867,,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Storehouse bag surfaces,Positive,0,TRUE
+RLC-5,Env_0869,,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Storehouse bag surfaces,Negative,0,TRUE
+s-1,Env_0850,,2020-02-19,Warehouse,6,29,,Warehouse|6|29,Warehouse|6|29,Warehouse|6|29,Environmental swab,Storehouse ground,Negative,0,TRUE
+s-2,Env_0851,,2020-02-19,Warehouse,6,29,,Warehouse|6|29,Warehouse|6|29,Warehouse|6|29,Environmental swab,Storehouse container,Negative,0,TRUE
+SJ-BX-1,Env_0861,,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Inner surface of refrigerator in storehouse,Negative,0,TRUE
+SJ-BX-2,Env_0860,,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Inner surface of refrigerator in storehouse,Negative,0,TRUE
+SJ-CS,Env_0863,,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Storehouse weight scale,Positive,0,TRUE
+SJ-D,Env_0862,SRR23971515,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Storehouse ground,Positive,0,TRUE
+SJ-L1,Env_0864,,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Storehouse wire fence,Negative,0,TRUE
+SJ-L2,Env_0866,,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Storehouse wire fence,Negative,0,TRUE
+SJ-L3,Env_0865,SRR23971516,2020-02-22,Warehouse,8,25,,Warehouse|8|25,Warehouse|8|25,Warehouse|8|25,Environmental swab,Storehouse wire fence,Positive,0,TRUE
+Vertical-5,Env_0764,,2020-02-09,West,5,,assume west line because 3 exists,West|5|NA,West|5|Sw1,West|5|NA,Water drain,Water drain,Negative,1,TRUE
+Vertical-7,Env_0765,,2020-02-09,West,7,,assume west line because 3 exists,West|7|NA,West|7|Sw1,West|7|NA,Water drain,Water drain,Negative,1,TRUE
+Vertical-9,Env_0766,,2020-02-09,West,9,,assume west line because 3 exists,West|9|NA,West|9|Sw1,West|9|NA,Water drain,Water drain,Negative,1,TRUE
+W9-GD-1,Env_0872,,2020-02-23,West,9,,,West|9|NA,West|9|NA,West|9|NA,Environmental swab,Ventilation duct,Negative,0,TRUE
+Vertical-3,Env_0763,,2020-02-09,West,3,,,West|3|NA,West|3|Sw1,West|3|NA,Water drain,Water drain,Negative,1,TRUE
+wws-1#-0,Env_0830,SRR23971501,2020-02-15,West,1,,put with WWS1,West|1|NA,West|1|SwO,West|1|NA,Sewage,Sewage well,Positive,1,TRUE
+06-29-abv1,Env_0620,SRR23971430,2020-01-23,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Environmental swab,Negative,1,TRUE
+06-29-abv1_2,Env_0627,,2020-01-23,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Environmental swab,Negative,1,TRUE
+06-32-abv1,Env_0622,,2020-01-23,West,6,32,,West|6|32,West|6|32,West|6|32,Environmental swab,Environmental swab,Negative,1,TRUE
+08-25-abv1,Env_0621,,2020-01-23,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Environmental swab,Negative,1,TRUE
+08-25-abv1_2,Env_0625,,2020-01-23,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Environmental swab,Negative,1,TRUE
+08-25-abv1_3,Env_0639,,2020-01-25,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Surface of the door,Negative,1,TRUE
+09-23-abv1,Env_0626,,2020-01-23,West,9,23,,West|9|23,West|9|23,West|9|23,Environmental swab,Environmental swab,Negative,1,TRUE
+1-27-11,Env_0642,SRR23971431,2020-01-27,West,3,13,,West|3|13,West|3|13_drain,West|3|13,Water drain,Water drain,Negative,1,TRUE
+1-27-12,Env_0643,SRR23971432,2020-01-27,West,1,2,,West|1|2,West|1|2_drain,West|1|2,Water drain,Water drain,Negative,1,TRUE
+1-27-13,Env_0644,,2020-01-27,West,1,7-9,,West|1|7-9,West|1|7-9_drain,West|1|7-9,Water drain,Water drain,Negative,1,TRUE
+1-27-14,Env_0645,,2020-01-27,West,2,1-3,,West|2|1-3,West|2|1-3_drain,West|2|1-3,Water drain,Water drain,Negative,1,TRUE
+1-27-15,Env_0646,,2020-01-27,West,2,16-18,,West|2|16-18,West|2|16-18_drain,West|2|16-18,Water drain,Water drain,Negative,1,TRUE
+1-27-16,Env_0647,,2020-01-27,West,4,22,,West|4|22,West|4|22_drain,West|4|22,Water drain,Water drain,Negative,1,TRUE
+1-27-17,Env_0648,,2020-01-27,West,4,1,,West|4|1,West|4|1_drain,West|4|1,Water drain,Water drain,Negative,1,TRUE
+1-27-18,Env_0649,,2020-01-27,West,5,4,,West|5|4,West|5|4_drain,West|5|4,Water drain,Water drain,Negative,1,TRUE
+1-27-19,Env_0650,,2020-01-27,West,15,19-21,,West|15|19-21,West|15|19-21_drain,West|15|19-21,Water drain,Water drain,Negative,1,TRUE
+1-27-21,Env_0652,,2020-01-27,West,6,9,,West|6|9,West|6|9_drain,West|6|9,Water drain,Water drain,Negative,1,TRUE
+1-27-22,Env_0653,,2020-01-27,West,6,24,,West|6|24,West|6|24_drain,West|6|24,Water drain,Water drain,Negative,1,TRUE
+1-27-24,Env_0654,,2020-01-27,West,7,15-17,,West|7|15-17,West|7|15-17_drain,West|7|15-17,Water drain,Water drain,Negative,1,TRUE
+1-27-25,Env_0655,,2020-01-27,West,7,2-4,,West|7|2-4,West|7|2-4_drain,West|7|2-4,Water drain,Water drain,Negative,1,TRUE
+1-27-26,Env_0656,,2020-01-27,West,8,32-36,,West|8|32-36,West|8|32-36_drain,West|8|32-36,Water drain,Water drain,Negative,1,TRUE
+1-27-28,Env_0657,SRR23971433,2020-01-27,West,7,34,,West|7|34,West|7|34_drain,West|7|34,Water drain,Water drain,Negative,1,TRUE
+1-27-30,Env_0658,,2020-01-27,West,8,6-8,,West|8|6-8,West|8|6-8_drain,West|8|6-8,Water drain,Water drain,Negative,1,TRUE
+1-27-31,Env_0659,,2020-01-27,West,8,11-13,,West|8|11-13,West|8|11-13_drain,West|8|11-13,Water drain,Water drain,Negative,1,TRUE
+1-27-33,Env_0660,SRR23971584,2020-01-27,West,6,29-33,,West|6|29-33,West|6|29-33_drain,West|6|29-31-33,Water drain,Water drain,Positive,1,TRUE
+1-27-34,Env_0661,,2020-01-27,West,9,1-3,,West|9|1-3,West|9|1-3_drain,West|9|1-3,Water drain,Water drain,Negative,1,TRUE
+1-27-35,Env_0662,,2020-01-27,West,9,34-36,,West|9|34-36,West|9|34-36_drain,West|9|34-36,Water drain,Water drain,Negative,1,TRUE
+1-27-36,Env_0663,,2020-01-27,West,10,9,,West|10|9,West|10|9_drain,West|10|9,Water drain,Water drain,Negative,1,TRUE
+1-27-37,Env_0664,SRR23971585,2020-01-27,West,10,4,,West|10|4,West|10|4_drain,West|10|4,Water drain,Water drain,Positive,1,TRUE
+1-27-40,Env_0665,,2020-01-27,West,10,31,,West|10|31,West|10|31_drain,West|10|29-31,Water drain,Water drain,Negative,1,TRUE
+1-27-41,Env_0666,,2020-01-27,West,11,2,,West|11|2,West|11|2_drain,West|11|2,Water drain,Water drain,Negative,1,TRUE
+1-27-43,Env_0667,,2020-01-27,West,11,32,,West|11|32,West|11|32_drain,West|11|32,Water drain,Water drain,Negative,1,TRUE
+1-27-44,Env_0668,,2020-01-27,West,12,35,,West|12|35,West|12|35_drain,West|12|35,Water drain,Water drain,Negative,1,TRUE
+1-27-45,Env_0669,,2020-01-27,West,12,19,,West|12|19,West|12|19_drain,West|12|19,Water drain,Water drain,Negative,1,TRUE
+1-27-48,Env_0670,,2020-01-27,West,12,36-38,,West|12|36-38,West|12|36-38_drain,West|12|36-38,Water drain,Water drain,Negative,1,TRUE
+1-27-49,Env_0671,,2020-01-27,West,13,7-8,,West|13|7-8,West|13|7-8_drain,West|13|7-8,Water drain,Water drain,Negative,1,TRUE
+1-27-50,Env_0672,,2020-01-27,West,15,9-11,,West|15|9-11,West|15|9-11_drain,West|15|9-11,Water drain,Water drain,Negative,1,TRUE
+1-27-51,Env_0673,,2020-01-27,West,15,20,,West|15|20,West|15|20_drain,West|15|20,Water drain,Water drain,Negative,1,TRUE
+1-27-52,Env_0674,SRR23971434,2020-01-27,West,15,22,,West|15|22,West|15|22_drain,West|15|22,Water drain,Water drain,Negative,1,TRUE
+1-27-53,Env_0675,,2020-01-27,West,9,9-13,,West|9|9-13,West|9|9-13_drain,West|9|9-13,Water drain,Water drain,Negative,1,TRUE
+1-27-54,Env_0676,,2020-01-27,West,11,6,,West|11|6,West|11|6_drain,West|11|6,Water drain,Water drain,Negative,1,TRUE
+1-27-55,Env_0704,,2020-01-29,East,13,18-20,As far as I know there is no Street 13 and I cannot place this sample on the map.,East|13|18-20,East|13|18-20_drain,East|13|18-20,Water drain,Water drain,Negative,1,TRUE
+1-27-56,Env_0677,,2020-01-27,West,13,40-42,,West|13|40-42,West|13|40-42_drain,West|13|40-42,Water drain,Water drain,Negative,1,TRUE
+1-27-57,Env_0678,,2020-01-27,West,14,41,,West|14|41,West|14|41_drain,West|14|41,Water drain,Water drain,Negative,1,TRUE
+1-27-9,Env_0641,,2020-01-27,West,3,4,,West|3|4,West|3|4_drain,West|3|4,Water drain,Water drain,Negative,1,TRUE
+1-29-1,Env_0679,,2020-01-29,East,2,5-7-9,,East|2|5-7-9,East|2|5-7-9_drain,East|2|5-7-9,Water drain,Water drain,Negative,1,TRUE
+1-29-10,Env_0688,,2020-01-29,East,6,17-19,,East|6|17-19,East|6|17-19_drain,East|6|17-19,Water drain,Water drain,Negative,1,TRUE
+1-29-11,Env_0689,,2020-01-29,East,7,30,,East|7|30,East|7|30_drain,East|7|30,Water drain,Water drain,Negative,1,TRUE
+1-29-12,Env_0690,,2020-01-29,East,7,8,,East|7|8,East|7|8_drain,East|7|8,Water drain,Water drain,Negative,1,TRUE
+1-29-13,Env_0691,,2020-01-29,East,8,38,,East|8|38,East|8|38_drain,East|8|38,Water drain,Water drain,Negative,1,TRUE
+1-29-14,Env_0692,,2020-01-29,East,8,12,,East|8|12,East|8|12_drain,East|8|12,Water drain,Water drain,Negative,1,TRUE
+1-29-16,Env_0694,,2020-01-29,East,11,13,,East|11|13,East|11|13_drain,East|11|7-13,Water drain,Water drain,Negative,1,TRUE
+1-29-17,Env_0695,,2020-01-29,East,9,51,,East|9|51,East|9|51_drain,East|9|51,Water drain,Water drain,Negative,1,TRUE
+1-29-18,Env_0696,,2020-01-29,East,9,11,,East|9|11,East|9|11_drain,East|9|11,Water drain,Water drain,Negative,1,TRUE
+1-29-19,Env_0697,SRR23971435,2020-01-29,East,9,35,,East|9|35,East|9|35_drain,East|9|35,Water drain,Water drain,Negative,1,TRUE
+1-29-2,Env_0680,,2020-01-29,East,2,50-52,,East|2|50-52,East|2|50-52_drain,East|2|50-52,Water drain,Water drain,Negative,1,TRUE
+1-29-20,Env_0698,,2020-01-29,East,10,5,,East|10|5,East|10|5_drain,East|10|5,Water drain,Water drain,Negative,1,TRUE
+1-29-21,Env_0699,,2020-01-29,East,11,29,,East|11|29,East|11|29_drain,East|11|29,Water drain,Water drain,Negative,1,TRUE
+1-29-22,Env_0700,,2020-01-29,East,11,13,,East|11|13,East|11|13,East|11|7-13,Environmental swab,Ground,Negative,1,TRUE
+1-29-23,Env_0701,SRR23971543,2020-01-29,East,11,9,,East|11|9,East|11|9,East|11|9,Environmental swab,Ground,Negative,1,TRUE
+1-29-24,Env_0702,,2020-01-29,East,11,7-13,,East|11|7-13,East|11|7-13_drain,East|11|7-13,Water drain,Water drain,Negative,1,TRUE
+1-29-3,Env_0681,,2020-01-29,East,3,52,,East|3|52,East|3|52_drain,East|3|52,Water drain,Water drain,Negative,1,TRUE
+1-29-4,Env_0682,SRR23971586,2020-01-29,East,4,5-7-9,,East|4|5-7-9,East|4|5-7-9_drain,East|4|5-7-9,Water drain,Water drain,Positive,1,TRUE
+1-29-5,Env_0683,,2020-01-29,East,4,36,,East|4|36,East|4|36_drain,East|4|36,Water drain,Water drain,Negative,1,TRUE
+1-29-6,Env_0684,,2020-01-29,East,4,16,,East|4|16,East|4|16_drain,East|4|16,Water drain,Water drain,Negative,1,TRUE
+1-29-7,Env_0685,,2020-01-29,East,5,42,,East|5|42,East|5|42_drain,East|5|42,Water drain,Water drain,Negative,1,TRUE
+1-29-8,Env_0686,SRR23971455,2020-01-29,East,5,11,,East|5|11,East|5|11_drain,East|5|11,Water drain,Water drain,Positive,1,TRUE
+1-29-9,Env_0687,,2020-01-29,East,6,35,,East|6|35,East|6|35_drain,East|6|35,Water drain,Water drain,Negative,1,TRUE
+10-23-abv1,Env_0623,,2020-01-23,West,10,23,,West|10|23,West|10|23,West|10|23,Environmental swab,Environmental swab,Negative,1,TRUE
+10-29.31-dor,Env_0634,,2020-01-23,West,10,29-31,,West|10|29-31,West|10|29-31,West|10|29-31,Environmental swab,Surface of the door,Negative,1,TRUE
+10-29.31-dor_2,Env_0640,,2020-01-25,West,10,29-31,,West|10|29-31,West|10|29-31,West|10|29-31,Environmental swab,Surface of the door,Negative,1,TRUE
+10-31-abv2,Env_0619,SRR23971429,2020-01-23,West,10,31,,West|10|31,West|10|31,West|10|29-31,Environmental swab,Environmental swab,Negative,1,TRUE
+10-31-In1,Env_0616,,2020-01-23,West,10,31,,West|10|31,West|10|31,West|10|29-31,Environmental swab,Environmental swab,Negative,1,TRUE
+10-31-In2,Env_0617,SRR23971428,2020-01-23,West,10,31,,West|10|31,West|10|31,West|10|29-31,Environmental swab,Environmental swab,Negative,1,TRUE
+10-31-In3,Env_0618,,2020-01-23,West,10,31,,West|10|31,West|10|31,West|10|29-31,Environmental swab,Environmental swab,Negative,1,TRUE
+11-31-abv1,Env_0624,,2020-01-23,West,11,31,,West|11|31,West|11|31,West|11|31,Environmental swab,Environmental swab,Negative,1,TRUE
+12-15.17-dor,Env_0628,,2020-01-23,West,12,15-17,,West|12|15-17,West|12|15-17,West|12|15-17,Environmental swab,Surface of the door,Negative,1,TRUE
+12-20.24-dor,Env_0629,,2020-01-23,West,12,20-24,,West|12|20-24,West|12|20-24,West|12|20-24,Environmental swab,Surface of the door,Negative,1,TRUE
+12-32-dor,Env_0637,,2020-01-23,West,12,32,,West|12|32,West|12|32,West|12|32,Environmental swab,Surface of the door,Negative,1,TRUE
+2-20-dor,Env_0636,,2020-01-23,West,3,20,,West|3|20,West|3|20,West|3|20,Environmental swab,Surface of the door,Negative,1,TRUE
+2-9.11.13-dor,Env_0630,,2020-01-23,West,2,9-11-13,,West|2|9-11-13,West|2|9-11-13,West|2|9-11-13,Environmental swab,Surface of the door,Negative,1,TRUE
+5-5.7-dor2,Env_0638,,2020-01-23,West,5,5-7,,West|5|5-7,West|5|5-7,West|5|5-7,Environmental swab,Surface of the door,Negative,1,TRUE
+5-58-dor,Env_0633,,2020-01-23,West,5,28,,West|5|28,West|5|28,West|5|28,Environmental swab,Surface of the door,Negative,1,TRUE
+5-7-dor,Env_0635,,2020-01-23,West,5,7,,West|5|7,West|5|7,West|5|5-7,Environmental swab,Surface of the door,Negative,1,TRUE
+629-1-L1,Env_0875,SRR23971443,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-10-TAJ,Env_0884,,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Feather removal machine,Negative,1,TRUE
+629-11-L,Env_0885,SRR23971452,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-12-L,Env_0886,,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-13-L,Env_0887,SRR23971489,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-14-L,Env_0888,,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-2-L2,Env_0876,,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-3-C,Env_0877,SRR23971444,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Cart,Negative,1,TRUE
+629-4-L3,Env_0878,,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-5-L4,Env_0879,SRR23971445,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-6-L5,Env_0880,,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-7-L6,Env_0881,,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-8-L7,Env_0882,SRR23971447,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-9-L8,Env_0883,,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+629-L-1,Env_0889,SRR23971500,2020-02-29,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+7-22.24-dor,Env_0631,,2020-01-23,West,7,22-24,,West|7|22-24,West|7|22-24,West|7|20-22-24,Environmental swab,Surface of the door,Negative,1,TRUE
+7-23-dor,Env_0632,,2020-01-23,West,7,23,,West|7|23,West|7|23,West|7|23,Environmental swab,Surface of the door,Negative,1,TRUE
+7-26-BX,Env_0705,SRR23971544,2020-02-03,West,7,26,,West|7|26,West|7|26,West|7|26-28,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+7-26-DB,Env_0711,,2020-02-03,West,7,26,,West|7|26,West|7|26,West|7|26-28,Environmental swab,Ground,Negative,1,TRUE
+7-26-DH,Env_0712,SRR23971548,2020-02-03,West,7,26,,West|7|26,West|7|26,West|7|26-28,Environmental swab,Ground,Negative,1,TRUE
+7-26-JZ,Env_0710,,2020-02-03,West,7,26,,West|7|26,West|7|26,West|7|26-28,Environmental swab,Scissors,Negative,1,TRUE
+7-26-K,Env_0706,,2020-02-03,West,7,26,,West|7|26,West|7|26,West|7|26-28,Environmental swab,Basket,Negative,1,TRUE
+7-26-PSN,Env_0708,SRR23971547,2020-02-03,West,7,26,,West|7|26,West|7|26,West|7|26-28,Environmental swab,Drainage outlet,Negative,1,TRUE
+7-26-PSW,Env_0707,SRR23971546,2020-02-03,West,7,26,,West|7|26,West|7|26,West|7|26-28,Environmental swab,Drainage outlet,Negative,1,TRUE
+7-26-ST,Env_0709,,2020-02-03,West,7,26,,West|7|26,West|7|26,West|7|26-28,Environmental swab,Glove,Negative,1,TRUE
+8-25-Bing,Env_0757,,2020-02-09,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+8-25-BX,Env_0714,SRR23971549,2020-02-03,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+8-25-CK,Env_0716,SRR23971551,2020-02-03,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Sewage,Negative,1,TRUE
+8-25-D,Env_0717,SRR23971587,2020-02-03,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground inside the stalls,Positive,1,TRUE
+8-25-D_2,Env_0715,SRR23971550,2020-02-03,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Knief,Negative,1,TRUE
+8-25-D1,Env_0753,SRR23971555,2020-02-09,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground,Negative,1,TRUE
+8-25-D2,Env_0754,SRR23971557,2020-02-09,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground,Negative,1,TRUE
+8-25-D3,Env_0755,,2020-02-09,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground,Negative,1,TRUE
+8-25-DZ,Env_0718,,2020-02-03,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Surface of packing bag,Negative,1,TRUE
+8-25-LJ,Env_0713,,2020-02-03,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Container,Negative,1,TRUE
+8-25-Long,Env_0756,SRR23971558,2020-02-09,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Container,Negative,1,TRUE
+8-25-M1,Env_0719,SRR23971456,2020-02-03,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground inside the stalls,Positive,1,TRUE
+8-25-M2,Env_0720,SRR23971552,2020-02-03,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground,Negative,1,TRUE
+9-35-2-floor,Env_0857,,2020-02-20,West,9,35,,West|9|35,West|9|35,West|9|35-37,Environmental swab,Ground,Negative,1,TRUE
+9-35-3-freezer,Env_0852,,2020-02-20,West,9,34,,West|9|34,West|9|34,West|9|34-36,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+A1,Env_0001,,2020-01-01,West,7,15-17,,West|7|15-17,West|7|15-17,West|7|15-17,Environmental swab,Surface of the door,Negative,1,TRUE
+A10,Env_0010,,2020-01-01,West,4,20,,West|4|20,West|4|20,West|4|20,Environmental swab,Surface of the door,Negative,1,TRUE
+A100,Env_0100,,2020-01-01,West,4,21,,West|4|21,West|4|21,West|4|21,Environmental swab,Ground,Negative,1,TRUE
+A101,Env_0101,SRR23971502,2020-01-01,West,4,19,,West|4|19,West|4|19,West|4|19,Environmental swab,Surface of the door,Positive,1,TRUE
+A102,Env_0102,,2020-01-01,West,4,19,,West|4|19,West|4|19,West|4|19,Environmental swab,Ground,Negative,1,TRUE
+A103,Env_0103,,2020-01-01,West,4,15-17,,West|4|15-17,West|4|15-17,West|4|15-17,Environmental swab,Water in fishbowl,Negative,1,TRUE
+A104,Env_0104,,2020-01-01,West,4,15-17,,West|4|15-17,West|4|15-17,West|4|15-17,Environmental swab,Cashier,Negative,1,TRUE
+A105,Env_0105,,2020-01-01,West,4,15-17,,West|4|15-17,West|4|15-17,West|4|15-17,Environmental swab,Basket,Negative,1,TRUE
+A106,Env_0106,,2020-01-01,West,4,15-17,,West|4|15-17,West|4|15-17,West|4|15-17,Environmental swab,Ground,Negative,1,TRUE
+A107,Env_0107,,2020-01-01,West,4,15-17,,West|4|15-17,West|4|15-17,West|4|15-17,Environmental swab,Surface of the door,Negative,1,TRUE
+A108,Env_0108,,2020-01-01,West,4,16-18,,West|4|16-18,West|4|16-18,West|4|16-18,Environmental swab,Surface of the door,Negative,1,TRUE
+A109,Env_0109,,2020-01-01,West,4,16-18,,West|4|16-18,West|4|16-18,West|4|16-18,Environmental swab,Ground,Negative,1,TRUE
+A11,Env_0011,,2020-01-01,West,4,26,,West|4|26,West|4|26,West|4|26,Environmental swab,Water in fishbowl,Negative,1,TRUE
+A110,Env_0110,,2020-01-01,West,4,11-13,,West|4|11-13,West|4|11-13,West|4|11-13,Environmental swab,Surface of the door,Negative,1,TRUE
+A111,Env_0111,,2020-01-01,West,4,11-13,,West|4|11-13,West|4|11-13,West|4|11-13,Environmental swab,Ground,Negative,1,TRUE
+A112,Env_0112,,2020-01-01,West,4,12-14,,West|4|12-14,West|4|12-14,West|4|12-14,Environmental swab,Surface of the door,Negative,1,TRUE
+A113,Env_0113,,2020-01-01,West,4,12-14,,West|4|12-14,West|4|12-14,West|4|12-14,Environmental swab,Ground,Negative,1,TRUE
+A114,Env_0114,,2020-01-01,West,4,10,,West|4|10,West|4|10,West|4|10,Environmental swab,Surface of the door,Negative,1,TRUE
+A115,Env_0115,,2020-01-01,West,4,10,,West|4|10,West|4|10,West|4|10,Environmental swab,Ground,Negative,1,TRUE
+A116,Env_0116,,2020-01-01,West,4,9,,West|4|9,West|4|9,West|4|9,Environmental swab,Surface of the door,Negative,1,TRUE
+A117,Env_0117,,2020-01-01,West,4,9,,West|4|9,West|4|9,West|4|9,Environmental swab,Ground,Negative,1,TRUE
+A118,Env_0118,,2020-01-01,West,4,7,,West|4|7,West|4|7,West|4|7,Environmental swab,Surface of the door,Negative,1,TRUE
+A119,Env_0119,,2020-01-01,West,4,7,,West|4|7,West|4|7,West|4|7,Environmental swab,Ground,Negative,1,TRUE
+A12,Env_0012,,2020-01-01,West,4,26,,West|4|26,West|4|26,West|4|26,Environmental swab,Surface of mushroom,Negative,1,TRUE
+A120,Env_0120,,2020-01-01,West,4,8,,West|4|8,West|4|8,West|4|8,Environmental swab,Surface of the door,Negative,1,TRUE
+A121,Env_0121,,2020-01-01,West,4,8,,West|4|8,West|4|8,West|4|8,Environmental swab,Ground,Negative,1,TRUE
+A13,Env_0013,,2020-01-01,West,4,26,,West|4|26,West|4|26,West|4|26,Environmental swab,Surface of food,Negative,1,TRUE
+A14,Env_0014,SRR23971503,2020-01-01,West,4,26,,West|4|26,West|4|26,West|4|26,Environmental swab,Surface of packing bag for hairtail,Positive,1,TRUE
+A15,Env_0015,SRR23971504,2020-01-01,West,4,26,,West|4|26,West|4|26,West|4|26,Environmental swab,Surface of the door,Positive,1,TRUE
+A16,Env_0016,,2020-01-01,West,7,15-17,,West|7|15-17,West|7|15-17,West|7|15-17,Environmental swab,Surface of food,Negative,1,TRUE
+A17,Env_0017,,2020-01-01,West,7,15-17,,West|7|15-17,West|7|15-17,West|7|15-17,Environmental swab,Package of aquatic product,Negative,1,TRUE
+A18,Env_0018,SRR23971505,2020-01-01,West,7,15-17,,West|7|15-17,West|7|15-17,West|7|15-17,Environmental swab,Shoe covers and soles,Positive,1,TRUE
+A19,Env_0019,,2020-01-01,West,7,15-17,,West|7|15-17,West|7|15-17,West|7|15-17,Environmental swab,Basket,Negative,1,TRUE
+A2,Env_0002,SRR23971506,2020-01-01,West,7,15-17,,West|7|15-17,West|7|15-17,West|7|15-17,Environmental swab,Ground,Positive,1,TRUE
+A20,Env_0020,SRR23971507,2020-01-01,West,7,15-17,,West|7|15-17,West|7|15-17,West|7|15-17,Environmental swab,Gloves,Positive,1,TRUE
+A21,Env_0021,,2020-01-01,West,7,15-17,,West|7|15-17,West|7|15-17,West|7|15-17,Environmental swab,Wall,Negative,1,TRUE
+A22,Env_0022,,2020-01-01,West,7,15-17,,West|7|15-17,West|7|15-17,West|7|15-17,Environmental swab,Cart,Negative,1,TRUE
+A23,Env_0023,,2020-01-01,West,7,5-7,,West|7|5-7,West|7|5-7,West|7|5-7,Environmental swab,Surface of packing bag,Negative,1,TRUE
+A24,Env_0024,,2020-01-01,West,7,5-7,,West|7|5-7,West|7|5-7,West|7|5-7,Environmental swab,Wall,Negative,1,TRUE
+A25,Env_0025,,2020-01-01,West,7,5-7,,West|7|5-7,West|7|5-7,West|7|5-7,Environmental swab,Scale,Negative,1,TRUE
+A26,Env_0026,,2020-01-01,West,7,5-7,,West|7|5-7,West|7|5-7,West|7|5-7,Environmental swab,Surface of the door,Negative,1,TRUE
+A27,Env_0027,,2020-01-01,West,7,5-7,,West|7|5-7,West|7|5-7,West|7|5-7,Environmental swab,Basket (beer),Negative,1,TRUE
+A28,Env_0028,,2020-01-01,West,7,23,,West|7|23,West|7|23,West|7|23,Environmental swab,Fishbow,Negative,1,TRUE
+A29,Env_0029,,2020-01-01,West,7,23,,West|7|23,West|7|23,West|7|23,Environmental swab,Glove,Negative,1,TRUE
+A3,Env_0003,,2020-01-01,West,7,11-13,,West|7|11-13,West|7|11-13,West|7|11-13,Environmental swab,Surface of the door,Negative,1,TRUE
+A30,Env_0030,,2020-01-01,West,7,23,,West|7|23,West|7|23,West|7|23,Environmental swab,Knief,Negative,1,TRUE
+A31,Env_0031,,2020-01-01,West,7,23,,West|7|23,West|7|23,West|7|23,Environmental swab,Basket,Negative,1,TRUE
+A32,Env_0032,,2020-01-01,West,7,23,,West|7|23,West|7|23,West|7|23,Environmental swab,Surface of the door,Negative,1,TRUE
+A33,Env_0033,SRR23971508,2020-01-01,West,7,,,West|7|NA,West|7|GC,West|7|NA,Environmental swab,Garbage cart,Positive,1,TRUE
+A34,Env_0034,,2020-01-01,West,7,,,West|7|NA,West|7|GC,West|7|NA,Environmental swab,Garbage vehicle,Negative,1,TRUE
+A35,Env_0035,,2020-01-01,West,7,35-37,,West|7|35-37,West|7|35-37,West|7|35-37,Environmental swab,Surface of the door,Negative,1,TRUE
+A36,Env_0036,,2020-01-01,West,7,35-37,,West|7|35-37,West|7|35-37,West|7|35-37,Environmental swab,Ground,Negative,1,TRUE
+A37,Env_0037,,2020-01-01,West,7,38,,West|7|38,West|7|38,West|7|38,Environmental swab,Surface of the door,Negative,1,TRUE
+A38,Env_0038,,2020-01-01,West,7,38,,West|7|38,West|7|38,West|7|38,Environmental swab,Ground,Negative,1,TRUE
+A39,Env_0039,,2020-01-01,West,7,36,,West|7|36,West|7|36,West|7|36,Environmental swab,Surface of the door,Negative,1,TRUE
+A4,Env_0004,,2020-01-01,West,7,11-13,,West|7|11-13,West|7|11-13,West|7|11-13,Environmental swab,Surface of the door,Negative,1,TRUE
+A40,Env_0040,,2020-01-01,West,7,36,,West|7|36,West|7|36,West|7|36,Environmental swab,Ground,Negative,1,TRUE
+A41,Env_0041,,2020-01-01,West,7,34,,West|7|34,West|7|34,West|7|34,Environmental swab,Surface of the door,Negative,1,TRUE
+A42,Env_0042,,2020-01-01,West,7,34,,West|7|34,West|7|34,West|7|34,Environmental swab,Ground,Negative,1,TRUE
+A43,Env_0043,,2020-01-01,West,7,31-33,,West|7|31-33,West|7|31-33,West|7|31-33,Environmental swab,Surface of the door,Negative,1,TRUE
+A44,Env_0044,,2020-01-01,West,7,31-33,,West|7|31-33,West|7|31-33,West|7|31-33,Environmental swab,Ground,Negative,1,TRUE
+A45,Env_0045,,2020-01-01,West,7,30-32,,West|7|30-32,West|7|30-32,West|7|30-32,Environmental swab,Surface of the door,Negative,1,TRUE
+A46,Env_0046,,2020-01-01,West,7,30-32,,West|7|30-32,West|7|30-32,West|7|30-32,Environmental swab,Ground,Negative,1,TRUE
+A47,Env_0047,,2020-01-01,West,7,30-32,,West|7|30-32,West|7|30-32,West|7|30-32,Environmental swab,Towel on floor,Negative,1,TRUE
+A48,Env_0048,,2020-01-01,West,7,29,,West|7|29,West|7|29,West|7|29,Environmental swab,Surface of the door,Negative,1,TRUE
+A49,Env_0049,,2020-01-01,West,7,29,,West|7|29,West|7|29,West|7|29,Environmental swab,Ground,Negative,1,TRUE
+A5,Env_0005,,2020-01-01,West,7,19-21,,West|7|19-21,West|7|19-21,West|7|19-21,Environmental swab,Wall,Negative,1,TRUE
+A50,Env_0050,,2020-01-01,West,7,27,,West|7|27,West|7|27,West|7|27,Environmental swab,Surface of the door,Negative,1,TRUE
+A51,Env_0051,,2020-01-01,West,7,27,,West|7|27,West|7|27,West|7|27,Environmental swab,Ground,Negative,1,TRUE
+A52,Env_0052,,2020-01-01,West,7,26-28,,West|7|26-28,West|7|26-28,West|7|26-28,Environmental swab,Surface of the door,Negative,1,TRUE
+A53,Env_0053,,2020-01-01,West,7,26-28,,West|7|26-28,West|7|26-28,West|7|26-28,Environmental swab,Ground,Negative,1,TRUE
+A54,Env_0054,,2020-01-01,West,7,25,,West|7|25,West|7|25,West|7|25,Environmental swab,Surface of the door,Negative,1,TRUE
+A55,Env_0055,SRR23971509,2020-01-01,West,7,25,,West|7|25,West|7|25,West|7|25,Environmental swab,Ground,Positive,1,TRUE
+A56,Env_0056,,2020-01-01,West,7,24,,West|7|24,West|7|24,West|7|20-22-24,Environmental swab,Chopping block,Negative,1,TRUE
+A57,Env_0057,,2020-01-01,West,7,24,,West|7|24,West|7|24,West|7|20-22-24,Environmental swab,Bone cutting machine,Negative,1,TRUE
+A58,Env_0058,,2020-01-01,West,7,24,,West|7|24,West|7|24,West|7|20-22-24,Environmental swab,Surface of the door,Negative,1,TRUE
+A59,Env_0059,,2020-01-01,West,7,24,,West|7|24,West|7|24,West|7|20-22-24,Environmental swab,Ground,Negative,1,TRUE
+A6,Env_0006,,2020-01-01,West,7,19-21,,West|7|19-21,West|7|19-21,West|7|19-21,Environmental swab,Surface of packing bag,Negative,1,TRUE
+A60,Env_0060,,2020-01-01,West,7,20-22-24,,West|7|20-22-24,West|7|20-22-24,West|7|20-22-24,Environmental swab,Surface of the door,Negative,1,TRUE
+A61,Env_0061,SRR23971510,2020-01-01,West,7,20-22-24,,West|7|20-22-24,West|7|20-22-24,West|7|20-22-24,Environmental swab,Ground,Positive,1,TRUE
+A62,Env_0062,,2020-01-01,West,7,16-18,,West|7|16-18,West|7|16-18,West|7|16-18,Environmental swab,Surface of the door,Negative,1,TRUE
+A63,Env_0063,SRR23971512,2020-01-01,West,7,16-18,,West|7|16-18,West|7|16-18,West|7|16-18,Environmental swab,Ground,Positive,1,TRUE
+A64,Env_0064,,2020-01-01,West,7,11-13,,West|7|11-13,West|7|11-13,West|7|11-13,Environmental swab,Surface of the door,Negative,1,TRUE
+A65,Env_0065,,2020-01-01,West,7,11-13,,West|7|11-13,West|7|11-13,West|7|11-13,Environmental swab,Ground,Negative,1,TRUE
+A66,Env_0066,,2020-01-01,West,7,12-14,,West|7|12-14,West|7|12-14,West|7|12-14,Environmental swab,Surface of the door,Negative,1,TRUE
+A67,Env_0067,,2020-01-01,West,7,12-14,,West|7|12-14,West|7|12-14,West|7|12-14,Environmental swab,Ground,Negative,1,TRUE
+A68,Env_0068,,2020-01-01,West,7,10,,West|7|10,West|7|10,West|7|10,Environmental swab,Surface of the door,Negative,1,TRUE
+A69,Env_0069,,2020-01-01,West,7,10,,West|7|10,West|7|10,West|7|10,Environmental swab,Ground,Negative,1,TRUE
+A7,Env_0007,,2020-01-01,West,7,19-21,,West|7|19-21,West|7|19-21,West|7|19-21,Environmental swab,Surface of the door,Negative,1,TRUE
+A70,Env_0070,,2020-01-01,West,7,9,,West|7|9,West|7|9,West|7|9,Environmental swab,Surface of the door,Negative,1,TRUE
+A71,Env_0071,,2020-01-01,West,7,9,,West|7|9,West|7|9,West|7|9,Environmental swab,Ground,Negative,1,TRUE
+A72,Env_0072,,2020-01-01,West,6,8,,West|6|8,West|6|8,West|6|8,Environmental swab,Surface of the door,Negative,1,TRUE
+A73,Env_0073,,2020-01-01,West,6,8,,West|6|8,West|6|8,West|6|8,Environmental swab,Ground,Negative,1,TRUE
+A74,Env_0074,,2020-01-01,West,7,1-3,,West|7|1-3,West|7|1-3,West|7|1-3,Environmental swab,Surface of the door,Negative,1,TRUE
+A75,Env_0075,,2020-01-01,West,7,1-3,,West|7|1-3,West|7|1-3,West|7|1-3,Environmental swab,Ground,Negative,1,TRUE
+A76,Env_0076,,2020-01-01,West,7,2-4,,West|7|2-4,West|7|2-4,West|7|2-4,Environmental swab,Surface of the door,Negative,1,TRUE
+A77,Env_0077,,2020-01-01,West,7,2-4,,West|7|2-4,West|7|2-4,West|7|2-4,Environmental swab,Ground,Negative,1,TRUE
+A78,Env_0078,,2020-01-01,West,7,X4-X6,,West|7|X4-X6,West|7|X4-X6,West|7|X4-X6,Environmental swab,Surface of the door,Negative,1,TRUE
+A79,Env_0079,,2020-01-01,West,7,X4-X6,,West|7|X4-X6,West|7|X4-X6,West|7|X4-X6,Environmental swab,Ground,Negative,1,TRUE
+A8,Env_0008,,2020-01-01,West,4,20,,West|4|20,West|4|20,West|4|20,Environmental swab,Cashier,Negative,1,TRUE
+A80,Env_0080,,2020-01-01,West,7,X3-X5,,West|7|X3-X5,West|7|X3-X5,West|7|X1-X3-X5,Environmental swab,Surface of the door,Negative,1,TRUE
+A81,Env_0081,,2020-01-01,West,7,X3-X5,,West|7|X3-X5,West|7|X3-X5,West|7|X1-X3-X5,Environmental swab,Ground,Negative,1,TRUE
+A82,Env_0082,,2020-01-01,West,7,X2-X4,,West|7|X2-X4,West|7|X2-X4,West|7|X2-X4,Environmental swab,Surface of the door,Negative,1,TRUE
+A83,Env_0083,,2020-01-01,West,7,X2-X4,,West|7|X2-X4,West|7|X2-X4,West|7|X2-X4,Environmental swab,Ground,Negative,1,TRUE
+A84,Env_0084,,2020-01-01,West,7,X1-X3,,West|7|X1-X3,West|7|X1-X3,West|7|X1-X3-X5,Environmental swab,Cashier desk,Negative,1,TRUE
+A85,Env_0085,,2020-01-01,West,7,X1-X3,,West|7|X1-X3,West|7|X1-X3,West|7|X1-X3-X5,Environmental swab,Ground,Negative,1,TRUE
+A86,Env_0086,,2020-01-01,West,7,X1-X3,,West|7|X1-X3,West|7|X1-X3,West|7|X1-X3-X5,Environmental swab,Surface of the door,Negative,1,TRUE
+A87,Env_0087,SRR23971567,2020-01-01,West,4,28,,West|4|28,West|4|28,West|4|28,Environmental swab,Surface of the door,Positive,1,TRUE
+A88,Env_0088,SRR23971569,2020-01-01,West,4,28,,West|4|28,West|4|28,West|4|28,Environmental swab,Ground,Positive,1,TRUE
+A89,Env_0089,,2020-01-01,West,4,26,,West|4|26,West|4|26,West|4|26,Environmental swab,Surface of the door,Negative,1,TRUE
+A9,Env_0009,,2020-01-01,West,4,20,,West|4|20,West|4|20,West|4|20,Environmental swab,Surface of packing bag,Negative,1,TRUE
+A90,Env_0090,SRR23971570,2020-01-01,West,4,26,,West|4|26,West|4|26,West|4|26,Environmental swab,Ground,Positive,1,TRUE
+A91,Env_0091,,2020-01-01,West,4,30,,West|4|30,West|4|30,West|4|30,Environmental swab,Surface of the door,Negative,1,TRUE
+A92,Env_0092,,2020-01-01,West,4,30,,West|4|30,West|4|30,West|4|30,Environmental swab,Ground,Negative,1,TRUE
+A93,Env_0093,,2020-01-01,West,4,23,,West|4|23,West|4|23,West|4|23,Environmental swab,Surface of the door,Negative,1,TRUE
+A94,Env_0094,,2020-01-01,West,4,23,,West|4|23,West|4|23,West|4|23,Environmental swab,Ground,Negative,1,TRUE
+A95,Env_0095,,2020-01-01,West,4,24,,West|4|24,West|4|24,West|4|24,Environmental swab,Surface of the door,Negative,1,TRUE
+A96,Env_0096,SRR23971571,2020-01-01,West,4,24,,West|4|24,West|4|24,West|4|24,Environmental swab,Ground,Positive,1,TRUE
+A97,Env_0097,,2020-01-01,West,4,22,,West|4|22,West|4|22,West|4|22,Environmental swab,Surface of the door,Negative,1,TRUE
+A98,Env_0098,,2020-01-01,West,4,22,,West|4|22,West|4|22,West|4|22,Environmental swab,Ground,Negative,1,TRUE
+A99,Env_0099,,2020-01-01,West,4,21,,West|4|21,West|4|21,West|4|21,Environmental swab,Surface of the door,Negative,1,TRUE
+B1,Env_0122,,2020-01-01,West,5,6-8,,West|5|6-8,West|5|6-8,West|5|6-8,Environmental swab,Cart,Negative,1,TRUE
+B10,Env_0131,,2020-01-01,West,11,11-13,,West|11|11-13,West|11|11-13,West|11|11-13,Environmental swab,Cart,Negative,1,TRUE
+B11,Env_0132,,2020-01-01,West,11,11-13,,West|11|11-13,West|11|11-13,West|11|11-13,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+B12,Env_0133,,2020-01-01,West,11,11-13,,West|11|11-13,West|11|11-13,West|11|11-13,Environmental swab,Cashier,Negative,1,TRUE
+B13,Env_0134,,2020-01-01,West,15,44,,West|15|44,West|15|44,West|15|44,Environmental swab,Bucket,Negative,1,TRUE
+B14,Env_0135,,2020-01-01,West,15,44,,West|15|44,West|15|44,West|15|44,Environmental swab,Glove,Negative,1,TRUE
+B15,Env_0136,,2020-01-01,West,15,44,,West|15|44,West|15|44,West|15|44,Environmental swab,Basket,Negative,1,TRUE
+B16,Env_0137,,2020-01-01,West,15,44,Reassigned to 44 because I can’t see a distinction between 44 and X44.,West|15|44,West|15|44,West|15|44,Environmental swab,Cashier,Negative,1,TRUE
+B17,Env_0138,SRR23971572,2020-01-01,West,15,44,Reassigned to 44 because I can’t see a distinction between 44 and X44.,West|15|44,West|15|44,West|15|44,Environmental swab,Scale,Positive,1,TRUE
+B2,Env_0123,,2020-01-01,West,5,6-8,,West|5|6-8,West|5|6-8,West|5|6-8,Environmental swab,Water in fishbowl,Negative,1,TRUE
+B3,Env_0124,,2020-01-01,West,5,6-8,,West|5|6-8,West|5|6-8,West|5|6-8,Environmental swab,Cashier,Negative,1,TRUE
+B4,Env_0125,,2020-01-01,West,5,6-8,,West|5|6-8,West|5|6-8,West|5|6-8,Environmental swab,Basket,Negative,1,TRUE
+B5,Env_0126,SRR23971573,2020-01-01,West,5,6-8,,West|5|6-8,West|5|6-8,West|5|6-8,Environmental swab,Ground,Positive,1,TRUE
+B6,Env_0127,,2020-01-01,West,5,6-8,,West|5|6-8,West|5|6-8,West|5|6-8,Environmental swab,Knief,Negative,1,TRUE
+B7,Env_0128,,2020-01-01,West,5,6-8,,West|5|6-8,West|5|6-8,West|5|6-8,Environmental swab,Fishbow,Negative,1,TRUE
+B8,Env_0129,,2020-01-01,West,11,11,,West|11|11,West|11|11,West|11|11-13,Environmental swab,Cutting machine,Negative,1,TRUE
+B9,Env_0130,,2020-01-01,West,11,11-13,,West|11|11-13,West|11|11-13,West|11|11-13,Environmental swab,Surface of food,Negative,1,TRUE
+C1,Env_0139,,2020-01-01,West,13,X2,,West|13|X2,West|13|X2,West|13|X2,Environmental swab,Wall,Negative,1,TRUE
+C1_2,Env_0831,,2020-02-20,West,6,18,,West|6|18,West|6|18,West|6|18,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+C10,Env_0148,,2020-01-01,West,4,19,,West|4|19,West|4|19,West|4|19,Environmental swab,Water in fishbowl,Negative,1,TRUE
+C11,Env_0149,,2020-01-01,West,4,19,,West|4|19,West|4|19,West|4|19,Environmental swab,Food container,Negative,1,TRUE
+C12,Env_0150,,2020-01-01,West,4,19,,West|4|19,West|4|19,West|4|19,Environmental swab,Food container,Negative,1,TRUE
+C13,Env_0151,,2020-01-01,West,4,19,,West|4|19,West|4|19,West|4|19,Environmental swab,Ground,Negative,1,TRUE
+C14,Env_0152,,2020-01-01,West,4,19,,West|4|19,West|4|19,West|4|19,Environmental swab,Scale,Negative,1,TRUE
+C15,Env_0153,,2020-01-01,West,4,19,,West|4|19,West|4|19,West|4|19,Environmental swab,Ground,Negative,1,TRUE
+C16,Env_0154,,2020-01-01,West,4,19,,West|4|19,West|4|19,West|4|19,Environmental swab,Water,Negative,1,TRUE
+C16_2,Env_0846,,2020-02-20,West,6,34,,West|6|34,West|6|34,West|6|34,Environmental swab,Surface of container,Negative,1,TRUE
+C17,Env_0155,,2020-01-01,West,4,19,,West|4|19,West|4|19,West|4|19,Environmental swab,Wall,Negative,1,TRUE
+C17_2,Env_0847,SRR23971439,2020-02-20,West,6,34,,West|6|34,West|6|34,West|6|34,Environmental swab,Surface of container,Negative,1,TRUE
+C18,Env_0156,,2020-01-01,West,4,16-18,,West|4|16-18,West|4|16-18,West|4|16-18,Environmental swab,Food container,Negative,1,TRUE
+C19,Env_0157,,2020-01-01,West,4,16-18,,West|4|16-18,West|4|16-18,West|4|16-18,Environmental swab,Food container,Negative,1,TRUE
+C2,Env_0140,,2020-01-01,West,13,X2,,West|13|X2,West|13|X2,West|13|X2,Environmental swab,Food container,Negative,1,TRUE
+C2_2,Env_0832,,2020-02-20,West,6,18,,West|6|18,West|6|18,West|6|18,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+C20,Env_0158,,2020-01-01,West,4,16-18,,West|4|16-18,West|4|16-18,West|4|16-18,Environmental swab,Scale,Negative,1,TRUE
+C21,Env_0159,,2020-01-01,West,4,16-18,,West|4|16-18,West|4|16-18,West|4|16-18,Environmental swab,Table top,Negative,1,TRUE
+C22,Env_0160,,2020-01-01,West,4,16-18,,West|4|16-18,West|4|16-18,West|4|16-18,Environmental swab,Sewage,Negative,1,TRUE
+C23,Env_0161,,2020-01-01,West,4,16-18,,West|4|16-18,West|4|16-18,West|4|16-18,Environmental swab,Wall,Negative,1,TRUE
+C24,Env_0162,,2020-01-01,West,4,16-18,,West|4|16-18,West|4|16-18,West|4|16-18,Environmental swab,Ground,Negative,1,TRUE
+C25,Env_0163,,2020-01-01,West,4,X4-X6,,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Surface of packing bag for food,Negative,1,TRUE
+C26,Env_0164,,2020-01-01,West,4,X4-X6,,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Food package in refrigerator,Negative,1,TRUE
+C27,Env_0165,,2020-01-01,West,4,X4-X6,,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Food package in refrigerator,Negative,1,TRUE
+C28,Env_0166,,2020-01-01,West,4,X4-X6,,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Food container,Negative,1,TRUE
+C29,Env_0167,,2020-01-01,West,4,X4-X6,,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Wall,Negative,1,TRUE
+C3,Env_0141,,2020-01-01,West,13,X2,,West|13|X2,West|13|X2,West|13|X2,Environmental swab,Surface of food,Negative,1,TRUE
+C3_2,Env_0833,,2020-02-20,West,6,18,,West|6|18,West|6|18,West|6|18,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+C30,Env_0168,,2020-01-01,West,4,X4-X6,,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Scale,Negative,1,TRUE
+C31,Env_0169,,2020-01-01,West,4,X4-X6,,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Ground,Negative,1,TRUE
+C32,Env_0170,,2020-01-01,West,4,X4-X6,,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Table top,Negative,1,TRUE
+C33,Env_0171,,2020-01-01,West,4,X4-X6,,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Outside surface of refrigerator,Negative,1,TRUE
+C34,Env_0172,,2020-01-01,West,4,X4-X6,,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Sewage on floor,Negative,1,TRUE
+C35,Env_0173,,2020-01-01,West,Back Street,3,,West|Back Street|3,West|Back Street|3,West|Back Street|3,Environmental swab,Motorcycle,Negative,1,TRUE
+C36,Env_0174,,2020-01-01,West,Back Street,3,,West|Back Street|3,West|Back Street|3,West|Back Street|3,Environmental swab,Motorcycle,Negative,1,TRUE
+C37,Env_0175,,2020-01-01,West,Back Street,17,,West|Back Street|17,West|Back Street|17,West|Back Street|17,Environmental swab,Motorcycle,Negative,1,TRUE
+C4,Env_0142,,2020-01-01,West,13,X2,,West|13|X2,West|13|X2,West|13|X2,Environmental swab,Sewage on floor,Negative,1,TRUE
+C4_2,Env_0834,,2020-02-20,West,6,18,,West|6|18,West|6|18,West|6|18,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+C5,Env_0143,,2020-01-01,West,13,X2,,West|13|X2,West|13|X2,West|13|X2,Environmental swab,Wall,Negative,1,TRUE
+C5_2,Env_0835,,2020-02-20,West,6,18,,West|6|18,West|6|18,West|6|18,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+C6,Env_0144,,2020-01-01,West,13,X2,,West|13|X2,West|13|X2,West|13|X2,Environmental swab,Table top,Negative,1,TRUE
+C7,Env_0145,,2020-01-01,West,13,X2,,West|13|X2,West|13|X2,West|13|X2,Environmental swab,Water,Negative,1,TRUE
+C8,Env_0146,,2020-01-01,West,4,20,,West|4|20,West|4|20,West|4|20,Environmental swab,Surface of food,Negative,1,TRUE
+CCDC-742,Env_0891,,2020-03-02,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-743,Env_0892,,2020-03-02,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+CCDC-744,Env_0893,SRR23971511,2020-03-02,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Ground,Negative,1,TRUE
+CCDC-745,Env_0894,,2020-03-02,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+CCDC-746,Env_0895,SRR23971577,2020-03-02,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+CCDC-747,Env_0896,,2020-03-02,West,6,29,,West|6|29,West|6|29,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+CCDC-748,Env_0897,,2020-03-02,West,6,36,,West|6|36,West|6|36,West|6|36,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-749,Env_0898,,2020-03-02,West,6,38,,West|6|38,West|6|38,West|6|38,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-750,Env_0899,,2020-03-02,West,7,38,,West|7|38,West|7|38,West|7|38,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-751,Env_0900,,2020-03-02,West,7,34,,West|7|34,West|7|34,West|7|34,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+CCDC-752,Env_0901,,2020-03-02,West,7,32,,West|7|32,West|7|32,West|7|30-32,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+CCDC-753,Env_0902,,2020-03-02,West,7,32,,West|7|32,West|7|32,West|7|30-32,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-754,Env_0903,,2020-03-02,West,7,26,,West|7|26,West|7|26,West|7|26-28,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-755,Env_0904,,2020-03-02,West,7,28,,West|7|28,West|7|28,West|7|26-28,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+CCDC-756,Env_0905,,2020-03-02,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-757,Env_0906,,2020-03-02,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Bucket,Negative,1,TRUE
+CCDC-758,Env_0907,SRR23971588,2020-03-02,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Container,Negative,1,TRUE
+CCDC-759,Env_0908,,2020-03-02,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Container,Negative,1,TRUE
+CCDC-760,Env_0909,SRR23971522,2020-03-02,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground,Negative,1,TRUE
+CCDC-761,Env_0910,,2020-03-02,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Surface of packing bag,Negative,1,TRUE
+CCDC-762,Env_0911,,2020-03-02,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Surface of packing bag,Negative,1,TRUE
+CCDC-763,Env_0912,,2020-03-02,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Surface of packing bag,Negative,1,TRUE
+CCDC-764,Env_0913,,2020-03-02,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-765,Env_0914,,2020-03-02,West,8,29,,West|8|29,West|8|29,West|8|29-31,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-766,Env_0915,,2020-03-02,West,8,34,,West|8|34,West|8|34,West|8|34,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-767,Env_0916,,2020-03-02,West,8,33,,West|8|33,West|8|33,West|8|33,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-768,Env_0917,,2020-03-02,West,8,38,,West|8|38,West|8|38,West|8|36-38,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-769,Env_0918,,2020-03-02,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-770,Env_0919,,2020-03-02,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Container,Negative,1,TRUE
+CCDC-771,Env_0920,,2020-03-02,West,9,36,,West|9|36,West|9|36,West|9|34-36,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-772,Env_0921,,2020-03-02,West,9,25,,West|9|25,West|9|25,West|9|25,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-773,Env_0922,,2020-03-02,West,7,16,,West|7|16,West|7|16,West|7|16-18,Environmental swab,Surface of the door,Negative,1,TRUE
+CCDC-774,Env_0923,,2020-03-02,West,6,9,,West|6|9,West|6|9,West|6|9,Environmental swab,Surface of the door,Negative,1,TRUE
+D1,Env_0182,,2020-01-01,West,2,14,,West|2|14,West|2|14,West|2|14,Environmental swab,Scale,Negative,1,TRUE
+D10,Env_0191,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Clothe,Negative,1,TRUE
+D11,Env_0192,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Seafood cardboard box,Negative,1,TRUE
+D12,Env_0193,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Surface of foam box,Negative,1,TRUE
+D13,Env_0194,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Environmental swab,Negative,1,TRUE
+D14,Env_0195,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Stair handrail,Negative,1,TRUE
+D15,Env_0196,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Outside surface of refrigerator,Negative,1,TRUE
+D16,Env_0197,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Surface of chair,Negative,1,TRUE
+D17,Env_0198,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Basket,Negative,1,TRUE
+D18,Env_0199,,2020-01-01,West,2,5-7,,West|2|5-7,West|2|5-7,West|2|5-7,Environmental swab,Cashier,Negative,1,TRUE
+D19,Env_0200,,2020-01-01,West,2,5-7,,West|2|5-7,West|2|5-7,West|2|5-7,Environmental swab,Surface of phone,Negative,1,TRUE
+D2,Env_0183,,2020-01-01,West,2,14,,West|2|14,West|2|14,West|2|14,Environmental swab,Cashier,Negative,1,TRUE
+D20,Env_0201,,2020-01-01,West,2,5-7,,West|2|5-7,West|2|5-7,West|2|5-7,Environmental swab,Surface of ladder,Negative,1,TRUE
+D21,Env_0202,,2020-01-01,West,2,5-7,,West|2|5-7,West|2|5-7,West|2|5-7,Environmental swab,Surface of monitor,Negative,1,TRUE
+D22,Env_0203,,2020-01-01,West,2,5-7,,West|2|5-7,West|2|5-7,West|2|5-7,Environmental swab,Surface of food,Negative,1,TRUE
+D23,Env_0204,,2020-01-01,West,15,15,,West|15|15,West|15|15,West|15|15,Environmental swab,Outside surface of freezer,Negative,1,TRUE
+D24,Env_0205,,2020-01-01,West,15,15,,West|15|15,West|15|15,West|15|15,Environmental swab,Cashier,Negative,1,TRUE
+D25,Env_0206,,2020-01-01,West,15,15,,West|15|15,West|15|15,West|15|15,Environmental swab,Surface of packing bag,Negative,1,TRUE
+D26,Env_0207,,2020-01-01,West,15,15,,West|15|15,West|15|15,West|15|15,Environmental swab,Surface of packing bag for seafood in freezer,Negative,1,TRUE
+D27,Env_0208,,2020-01-01,West,15,15,,West|15|15,West|15|15,West|15|15,Environmental swab,Surface of packing bag for fish in freezer,Negative,1,TRUE
+D28,Env_0209,,2020-01-01,West,15,15,,West|15|15,West|15|15,West|15|15,Environmental swab,Inner surface of freezer,Negative,1,TRUE
+D29,Env_0210,,2020-01-01,West,15,15,,West|15|15,West|15|15,West|15|15,Environmental swab,Surface of packing bag for meat,Negative,1,TRUE
+D3,Env_0184,,2020-01-01,West,2,14,,West|2|14,West|2|14,West|2|14,Environmental swab,Pool,Negative,1,TRUE
+D30,Env_0211,,2020-01-01,West,15,15,,West|15|15,West|15|15,West|15|15,Environmental swab,Surface of water cup,Negative,1,TRUE
+D31,Env_0212,,2020-01-01,West,15,15,,West|15|15,West|15|15,West|15|15,Environmental swab,Meat in refrigerator,Negative,1,TRUE
+D32,Env_0213,SRR23971574,2020-01-01,West,15,15,,West|15|15,West|15|15,West|15|15,Environmental swab,Surface of a cart,Positive,1,TRUE
+D33,Env_0214,,2020-01-01,West,4,16-18,,West|4|16-18,West|4|16-18,West|4|16-18,Environmental swab,Scale,Negative,1,TRUE
+D4,Env_0185,,2020-01-01,West,2,14,,West|2|14,West|2|14,West|2|14,Environmental swab,Towel,Negative,1,TRUE
+D5,Env_0186,,2020-01-01,West,2,14,,West|2|14,West|2|14,West|2|14,Environmental swab,Hairy Crab cage,Negative,1,TRUE
+D6,Env_0187,,2020-01-01,West,2,14,,West|2|14,West|2|14,West|2|14,Environmental swab,Pool,Negative,1,TRUE
+D7,Env_0188,,2020-01-01,West,2,14,,West|2|14,West|2|14,West|2|14,Environmental swab,Pool,Negative,1,TRUE
+D8,Env_0189,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Cashier,Negative,1,TRUE
+D9,Env_0190,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Scale,Negative,1,TRUE
+E-10-29-1,Env_0855,,2020-02-20,West,10,29,,West|10|29,West|10|29,West|10|29-31,Environmental swab,Container,Negative,1,TRUE
+E-10-29-2,Env_0856,SRR23971440,2020-02-20,West,10,29,,West|10|29,West|10|29,West|10|29-31,Environmental swab,Container,Negative,1,TRUE
+E-4-3.5,Env_0822,,2020-02-15,East,4,3-5,,East|4|3-5,East|4|3-5_drain,East|4|5-7-9,Water drain,Water drain,Negative,1,TRUE
+E-4-7.9,Env_0823,,2020-02-15,East,4,7-9,,East|4|7-9,East|4|7-9_drain,East|4|5-7-9,Water drain,Water drain,Negative,1,TRUE
+E-5-17,Env_0824,,2020-02-15,East,5,17,,East|5|17,East|5|17_drain,East|5|17,Water drain,Water drain,Negative,1,TRUE
+E1,Env_0215,,2020-01-01,West,2,,,West|2|NA,West|2|NA,West|2|NA,Environmental swab,Door surface,Negative,1,TRUE
+E10,Env_0224,,2020-01-01,West,2,7,,West|2|7,West|2|7,West|2|5-7,Environmental swab,Surface of the door,Negative,1,TRUE
+E11,Env_0225,,2020-01-01,West,2,7,,West|2|7,West|2|7,West|2|5-7,Environmental swab,Ground,Negative,1,TRUE
+E12,Env_0226,,2020-01-01,West,2,3,,West|2|3,West|2|3,West|2|3,Environmental swab,Surface of the door,Negative,1,TRUE
+E13,Env_0227,,2020-01-01,West,2,3,,West|2|3,West|2|3,West|2|3,Environmental swab,Sewage on floor,Negative,1,TRUE
+E14,Env_0228,,2020-01-01,West,2,4,,West|2|4,West|2|4,West|2|4,Environmental swab,Surface of cart,Negative,1,TRUE
+E15,Env_0229,,2020-01-01,West,2,4,,West|2|4,West|2|4,West|2|4,Environmental swab,Surface of the door,Negative,1,TRUE
+E16,Env_0230,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Wall,Negative,1,TRUE
+E17,Env_0231,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Ground,Negative,1,TRUE
+E18,Env_0232,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Domestic water,Negative,1,TRUE
+E19,Env_0233,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Table top,Negative,1,TRUE
+E2,Env_0216,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Surface of the door,Negative,1,TRUE
+E20,Env_0234,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Foam box,Negative,1,TRUE
+E21,Env_0235,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Sewage on floor,Negative,1,TRUE
+E22,Env_0236,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Scissors,Negative,1,TRUE
+E23,Env_0237,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Surface of food,Negative,1,TRUE
+E24,Env_0238,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Surface of basin,Negative,1,TRUE
+E25,Env_0239,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Surface of food,Negative,1,TRUE
+E26,Env_0240,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Surface of light,Negative,1,TRUE
+E27,Env_0241,,2020-01-01,West,8,27,,West|8|27,West|8|27,West|8|27,Environmental swab,Domestic water,Negative,1,TRUE
+E28,Env_0242,,2020-01-01,West,8,30,,West|8|30,West|8|30,West|8|30,Environmental swab,Outside of trash cans,Negative,1,TRUE
+E29,Env_0243,,2020-01-01,East,8,19,,East|8|19,East|8|19,East|8|19,Environmental swab,Ground,Negative,1,TRUE
+E3,Env_0217,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Ground,Negative,1,TRUE
+E30,Env_0244,,2020-01-01,East,8,19,,East|8|19,East|8|19,East|8|19,Environmental swab,Surface of scale,Negative,1,TRUE
+E31,Env_0245,,2020-01-01,East,8,19,,East|8|19,East|8|19,East|8|19,Environmental swab,Surface of apron,Negative,1,TRUE
+E32,Env_0246,,2020-01-01,East,8,19,,East|8|19,East|8|19,East|8|19,Environmental swab,Basin,Negative,1,TRUE
+E33,Env_0247,,2020-01-01,East,8,19,,East|8|19,East|8|19,East|8|19,Environmental swab,Wall,Negative,1,TRUE
+E34,Env_0248,,2020-01-01,East,8,19,,East|8|19,East|8|19,East|8|19,Environmental swab,Surface of cart,Negative,1,TRUE
+E35,Env_0249,,2020-01-01,East,8,19,,East|8|19,East|8|19,East|8|19,Environmental swab,Table top,Negative,1,TRUE
+E36,Env_0250,,2020-01-01,East,8,19,,East|8|19,East|8|19,East|8|19,Environmental swab,Surface of shoe,Negative,1,TRUE
+E37,Env_0251,,2020-01-01,East,8,19,,East|8|19,East|8|19,East|8|19,Environmental swab,Fishing net,Negative,1,TRUE
+E38,Env_0252,,2020-01-01,East,8,19,,East|8|19,East|8|19,East|8|19,Environmental swab,Water in fishbowl,Negative,1,TRUE
+E39,Env_0253,,2020-01-01,East,8,6,,East|8|6,East|8|6,East|8|6,Environmental swab,Water in fishbowl,Negative,1,TRUE
+E4,Env_0218,,2020-01-01,West,2,9-11,,West|2|9-11,West|2|9-11,West|2|9-11-13,Environmental swab,Trash cans,Negative,1,TRUE
+E40,Env_0254,,2020-01-01,East,8,6,,East|8|6,East|8|6,East|8|6,Environmental swab,Shrimp net,Negative,1,TRUE
+E41,Env_0255,,2020-01-01,East,8,6,,East|8|6,East|8|6,East|8|6,Environmental swab,Wall,Negative,1,TRUE
+E42,Env_0256,,2020-01-01,East,8,6,,East|8|6,East|8|6,East|8|6,Environmental swab,Surface of food,Negative,1,TRUE
+E43,Env_0257,,2020-01-01,East,8,2,,East|8|2,East|8|2,East|8|2,Environmental swab,Domestic water,Negative,1,TRUE
+E44,Env_0258,,2020-01-01,East,11,6,,East|11|6,East|11|6,East|11|6,Environmental swab,Trash cans,Negative,1,TRUE
+E45,Env_0259,,2020-01-01,East,11,8,,East|11|8,East|11|8,East|11|8,Environmental swab,Blood on the ground,Negative,1,TRUE
+E46,Env_0260,,2020-01-01,East,11,9,,East|11|9,East|11|9,East|11|9,Environmental swab,Trash cans floor,Negative,1,TRUE
+E47,Env_0261,,2020-01-01,East,11,8,,East|11|8,East|11|8,East|11|8,Environmental swab,Table top,Negative,1,TRUE
+E48,Env_0262,SRR23971575,2020-01-01,East,9,22,,East|9|22,East|9|22,East|9|22,Environmental swab,Blood on the ground in front of the door,Positive,1,TRUE
+E49,Env_0263,,2020-01-01,East,9,16,,East|9|16,East|9|16,East|9|16,Environmental swab,Table top,Negative,1,TRUE
+E5,Env_0219,,2020-01-01,West,2,15,,West|2|15,West|2|15,West|2|15,Environmental swab,Surface of the door,Negative,1,TRUE
+E50,Env_0264,,2020-01-01,East,9,12-14,,East|9|12-14,East|9|12-14,East|9|12-14,Environmental swab,Blood on the ground in front of the door,Negative,1,TRUE
+E51,Env_0265,,2020-01-01,East,8,28,,East|8|28,East|8|28,East|8|28,Environmental swab,Inner surface of foam box,Negative,1,TRUE
+E52,Env_0266,,2020-01-01,East,8,28,,East|8|28,East|8|28,East|8|28,Environmental swab,Scale,Negative,1,TRUE
+E53,Env_0267,,2020-01-01,East,8,28,,East|8|28,East|8|28,East|8|28,Environmental swab,Water in fishbowl,Negative,1,TRUE
+E54,Env_0268,,2020-01-01,East,7,5,,East|7|5,East|7|5,East|7|5,Environmental swab,Container,Negative,1,TRUE
+E55,Env_0269,,2020-01-01,East,6,23-25,,East|6|23-25,East|6|23-25,East|6|23-25,Environmental swab,Surface of apron,Negative,1,TRUE
+E56,Env_0270,,2020-01-01,East,6,17-19,,East|6|17-19,East|6|17-19,East|6|17-19,Environmental swab,Surface of scale,Negative,1,TRUE
+E57,Env_0271,,2020-01-01,East,6,17-19,,East|6|17-19,East|6|17-19,East|6|17-19,Environmental swab,Surface of fishing net,Negative,1,TRUE
+E58,Env_0272,,2020-01-01,East,6,17-19,,East|6|17-19,East|6|17-19,East|6|17-19,Environmental swab,Water in fishbowl,Negative,1,TRUE
+E59,Env_0273,,2020-01-01,East,6,1-3,,East|6|1-3,East|6|1-3,East|6|1-3,Environmental swab,Surface of foam box,Negative,1,TRUE
+E6,Env_0220,,2020-01-01,West,2,15,,West|2|15,West|2|15,West|2|15,Environmental swab,Surface of gas cylinders,Negative,1,TRUE
+E60,Env_0274,,2020-01-01,East,6,1-3,,East|6|1-3,East|6|1-3,East|6|1-3,Environmental swab,Surface of food,Negative,1,TRUE
+E61,Env_0275,SRR23971576,2020-01-01,East,6,1-3,,East|6|1-3,East|6|1-3,East|6|1-3,Environmental swab,Ground,Positive,1,TRUE
+E62,Env_0276,,2020-01-01,East,5,8-10,,East|5|8-10,East|5|8-10,East|5|8-10,Environmental swab,Surface of cart,Negative,1,TRUE
+E63,Env_0277,,2020-01-01,East,5,1-3-5-7-9,,East|5|1-3-5-7-9,East|5|1-3-5-7-9,East|5|1-3-5-7-9,Environmental swab,Table top,Negative,1,TRUE
+E64,Env_0278,,2020-01-01,East,5,1-3-5-7-9,,East|5|1-3-5-7-9,East|5|1-3-5-7-9,East|5|1-3-5-7-9,Environmental swab,Water in fishbowl,Negative,1,TRUE
+E65,Env_0279,,2020-01-01,East,5,1-3-5-7-9,,East|5|1-3-5-7-9,East|5|1-3-5-7-9,East|5|1-3-5-7-9,Environmental swab,Basin for seafood,Negative,1,TRUE
+E66,Env_0280,,2020-01-01,East,5,1-3-5-7-9,,East|5|1-3-5-7-9,East|5|1-3-5-7-9,East|5|1-3-5-7-9,Environmental swab,Scale,Negative,1,TRUE
+E67,Env_0281,,2020-01-01,East,4,,Can be assigned 4-24 because it is the only stall sampled in row 4 on East side.,East|4|24,East|4|24,East|4|24,Environmental swab,Table top,Negative,1,TRUE
+E68,Env_0282,,2020-01-01,East,4,,Can be assigned 4-24 because it is the only stall sampled in row 4 on East side.,East|4|24,East|4|24,East|4|24,Environmental swab,Surface of shelf for meat selling,Negative,1,TRUE
+E69,Env_0283,,2020-01-01,East,4,,Can be assigned 4-24 because it is the only stall sampled in row 4 on East side.,East|4|24,East|4|24,East|4|24,Environmental swab,Sewage on floor,Negative,1,TRUE
+E7,Env_0221,SRR23971578,2020-01-01,West,2,5,,West|2|5,West|2|5,West|2|5-7,Environmental swab,Styrofoam desk in front of the door,Positive,1,TRUE
+E70,Env_0284,,2020-01-01,East,4,,Can be assigned 4-24 because it is the only stall sampled in row 4 on East side.,East|4|24,East|4|24,East|4|24,Environmental swab,Surface of cart,Negative,1,TRUE
+E77,Env_0291,,2020-01-01,East,1,25-27,,East|1|25-27,East|1|25-27,East|1|25-27,Environmental swab,Surface of chopping board,Negative,1,TRUE
+E78,Env_0292,,2020-01-01,East,4,27,,East|4|27,East|4|27,East|4|27,Environmental swab,Surface of the door,Negative,1,TRUE
+E79,Env_0293,,2020-01-01,East,4,27,,East|4|27,East|4|27,East|4|27,Environmental swab,Surface of cart,Negative,1,TRUE
+E8,Env_0222,,2020-01-01,West,2,5,,West|2|5,West|2|5,West|2|5-7,Environmental swab,Surface of the door,Negative,1,TRUE
+E80,Env_0294,,2020-01-01,East,6,24-26,,East|6|24-26,East|6|24-26,East|6|24-26,Environmental swab,Gas tank,Negative,1,TRUE
+E81,Env_0295,,2020-01-01,East,7,26,,East|7|26,East|7|26,East|7|26,Environmental swab,Sewage on floor,Negative,1,TRUE
+E82,Env_0296,,2020-01-01,East,9,24-26-28,,East|9|24-26-28,East|9|24-26-28,East|9|24-26-28,Environmental swab,Sewage on floor,Negative,1,TRUE
+E83,Env_0297,,2020-01-01,East,10,15-17,,East|10|15-17,East|10|15-17,East|10|15-17,Environmental swab,Surface of cart,Negative,1,TRUE
+E84,Env_0298,,2020-01-01,East,9,16,,East|9|16,East|9|16,East|9|16,Environmental swab,Blood on the ground,Negative,1,TRUE
+E85,Env_0299,,2020-01-01,East,9,16,,East|9|16,East|9|16,East|9|16,Environmental swab,Surface of chopping board,Negative,1,TRUE
+E86,Env_0300,,2020-01-01,East,10,5,,East|10|5,East|10|5,East|10|5,Environmental swab,Inner surface of basin,Negative,1,TRUE
+E9,Env_0223,,2020-01-01,West,2,5,,West|2|5,West|2|5,West|2|5-7,Environmental swab,Ground,Negative,1,TRUE
+EWS-2#-2,Env_0813,SRR23971492,2020-02-15,East,,,,East|NA|NA,East|10|SwO,East|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+EWS-3#-2,Env_0815,SRR23971493,2020-02-15,East,,,,East|NA|NA,East|1|SwO,East|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+F1,Env_0301,,2020-01-01,West,7,26-28,,West|7|26-28,West|7|26-28,West|7|26-28,Environmental swab,Surface of frozen food,Negative,1,TRUE
+F10,Env_0310,,2020-01-01,West,11,15,,West|11|15,West|11|15,West|11|15,Environmental swab,Ground,Negative,1,TRUE
+F100,Env_0400,SRR23971579,2020-01-01,West,4,X6-X4,Was coded backwards,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Ground,Positive,1,TRUE
+F101,Env_0401,,2020-01-01,West,4,X3-X5,,West|4|X3-X5,West|4|X3-X5,West|4|X1-X3-X5,Environmental swab,Roller shutter,Negative,1,TRUE
+F102,Env_0402,,2020-01-01,West,4,X3-X5,,West|4|X3-X5,West|4|X3-X5,West|4|X1-X3-X5,Environmental swab,Ground,Negative,1,TRUE
+F103,Env_0403,,2020-01-01,West,4,X3-X5,,West|4|X3-X5,West|4|X3-X5,West|4|X1-X3-X5,Environmental swab,Roller shutter,Negative,1,TRUE
+F104,Env_0404,,2020-01-01,West,4,X3-X5,,West|4|X3-X5,West|4|X3-X5,West|4|X1-X3-X5,Environmental swab,Ground,Negative,1,TRUE
+F105,Env_0405,,2020-01-01,West,4,1,,West|4|1,West|4|1,West|4|1,Environmental swab,Roller shutter,Negative,1,TRUE
+F106,Env_0406,,2020-01-01,West,4,1,,West|4|1,West|4|1,West|4|1,Environmental swab,Ground,Negative,1,TRUE
+F107,Env_0407,,2020-01-01,West,4,2-4,,West|4|2-4,West|4|2-4,West|4|2-4,Environmental swab,Roller shutter,Negative,1,TRUE
+F108,Env_0408,,2020-01-01,West,4,2-4,,West|4|2-4,West|4|2-4,West|4|2-4,Environmental swab,Ground,Negative,1,TRUE
+F109,Env_0409,,2020-01-01,West,4,2-4,,West|4|2-4,West|4|2-4,West|4|2-4,Environmental swab,Roller shutter,Negative,1,TRUE
+F11,Env_0311,,2020-01-01,West,11,15,,West|11|15,West|11|15,West|11|15,Environmental swab,Inner surface of foam box,Negative,1,TRUE
+F110,Env_0410,,2020-01-01,West,4,2-4,,West|4|2-4,West|4|2-4,West|4|2-4,Environmental swab,Ground,Negative,1,TRUE
+F111,Env_0411,,2020-01-01,West,4,3,,West|4|3,West|4|3,West|4|3,Environmental swab,Roller shutter,Negative,1,TRUE
+F112,Env_0412,,2020-01-01,West,4,3,,West|4|3,West|4|3,West|4|3,Environmental swab,Ground,Negative,1,TRUE
+F113,Env_0413,,2020-01-01,West,4,6,,West|4|6,West|4|6,West|4|6,Environmental swab,Roller shutter,Negative,1,TRUE
+F114,Env_0414,,2020-01-01,West,4,6,,West|4|6,West|4|6,West|4|6,Environmental swab,Ground,Negative,1,TRUE
+F115,Env_0415,,2020-01-01,West,4,5,,West|4|5,West|4|5,West|4|5,Environmental swab,Roller shutter,Negative,1,TRUE
+F116,Env_0416,,2020-01-01,West,4,5,,West|4|5,West|4|5,West|4|5,Environmental swab,Ground,Negative,1,TRUE
+F12,Env_0312,,2020-01-01,West,11,15,,West|11|15,West|11|15,West|11|15,Environmental swab,Scale,Negative,1,TRUE
+F13,Env_0313,SRR23971580,2020-01-01,West,11,15,,West|11|15,West|11|15,West|11|15,Environmental swab,Surface of the wall ,Positive,1,TRUE
+F14,Env_0314,,2020-01-01,West,11,15,,West|11|15,West|11|15,West|11|15,Environmental swab,Water in basin,Negative,1,TRUE
+F15,Env_0315,,2020-01-01,West,11,17,,West|11|17,West|11|17,West|11|17,Environmental swab,Ground,Negative,1,TRUE
+F16,Env_0316,,2020-01-01,West,11,17,,West|11|17,West|11|17,West|11|17,Environmental swab,Surface of the door,Negative,1,TRUE
+F17,Env_0317,,2020-01-01,West,11,17,,West|11|17,West|11|17,West|11|17,Environmental swab,Office table,Negative,1,TRUE
+F18,Env_0318,,2020-01-01,West,11,17,,West|11|17,West|11|17,West|11|17,Environmental swab,Bottom of door,Negative,1,TRUE
+F19,Env_0319,,2020-01-01,West,11,17,,West|11|17,West|11|17,West|11|17,Environmental swab,Sewage on floor,Negative,1,TRUE
+F2,Env_0302,,2020-01-01,West,7,26-28,,West|7|26-28,West|7|26-28,West|7|26-28,Environmental swab,Surface of frozen food,Negative,1,TRUE
+F20,Env_0320,,2020-01-01,West,2,24,,West|2|24,West|2|24,West|2|24,Environmental swab,White basket,Negative,1,TRUE
+F21,Env_0321,,2020-01-01,West,2,24,,West|2|24,West|2|24,West|2|24,Environmental swab,Fishing pool,Negative,1,TRUE
+F22,Env_0322,,2020-01-01,West,2,24,,West|2|24,West|2|24,West|2|24,Environmental swab,Knief,Negative,1,TRUE
+F23,Env_0323,,2020-01-01,West,2,24,,West|2|24,West|2|24,West|2|24,Environmental swab,Scale,Negative,1,TRUE
+F24,Env_0324,,2020-01-01,West,2,24,,West|2|24,West|2|24,West|2|24,Environmental swab,Ground,Negative,1,TRUE
+F25,Env_0325,,2020-01-01,West,2,24,,West|2|24,West|2|24,West|2|24,Environmental swab,Water in pool,Negative,1,TRUE
+F26,Env_0326,,2020-01-01,West,2,24,,West|2|24,West|2|24,West|2|24,Environmental swab,Cart,Negative,1,TRUE
+F27,Env_0327,,2020-01-01,West,2,19-21-23,,West|2|19-21-23,West|2|19-21-23,West|2|19-21-23,Environmental swab,Roller shutter,Negative,1,TRUE
+F28,Env_0328,,2020-01-01,West,2,19-21-23,,West|2|19-21-23,West|2|19-21-23,West|2|19-21-23,Environmental swab,Ground,Negative,1,TRUE
+F29,Env_0329,,2020-01-01,West,2,19-21-23,,West|2|19-21-23,West|2|19-21-23,West|2|19-21-23,Environmental swab,Roller shutter,Negative,1,TRUE
+F3,Env_0303,,2020-01-01,West,7,26-28,,West|7|26-28,West|7|26-28,West|7|26-28,Environmental swab,Surface of yellow basket,Negative,1,TRUE
+F30,Env_0330,,2020-01-01,West,2,19-21-23,,West|2|19-21-23,West|2|19-21-23,West|2|19-21-23,Environmental swab,Ground,Negative,1,TRUE
+F31,Env_0331,,2020-01-01,West,2,19-21-23,,West|2|19-21-23,West|2|19-21-23,West|2|19-21-23,Environmental swab,Roller shutter,Negative,1,TRUE
+F32,Env_0332,,2020-01-01,West,2,19-21-23,,West|2|19-21-23,West|2|19-21-23,West|2|19-21-23,Environmental swab,Ground,Negative,1,TRUE
+F33,Env_0333,,2020-01-01,West,2,17,,West|2|17,West|2|17,West|2|17,Environmental swab,Roller shutter,Positive,1,TRUE
+F34,Env_0334,,2020-01-01,West,2,17,,West|2|17,West|2|17,West|2|17,Environmental swab,Ground,Negative,1,TRUE
+F35,Env_0335,,2020-01-01,West,2,15,,West|2|15,West|2|15,West|2|15,Environmental swab,Roller shutter,Negative,1,TRUE
+F36,Env_0336,,2020-01-01,West,2,15,,West|2|15,West|2|15,West|2|15,Environmental swab,Ground,Negative,1,TRUE
+F37,Env_0337,,2020-01-01,West,2,18,,West|2|18,West|2|18,West|2|16-18,Environmental swab,Roller shutter,Negative,1,TRUE
+F38,Env_0338,,2020-01-01,West,2,18,,West|2|18,West|2|18,West|2|16-18,Environmental swab,Ground,Negative,1,TRUE
+F39,Env_0339,,2020-01-01,West,2,16,,West|2|16,West|2|16,West|2|16-18,Environmental swab,Roller shutter,Negative,1,TRUE
+F4,Env_0304,,2020-01-01,West,7,26-28,,West|7|26-28,West|7|26-28,West|7|26-28,Environmental swab,Surface of frozen food,Negative,1,TRUE
+F40,Env_0340,,2020-01-01,West,2,16,,West|2|16,West|2|16,West|2|16-18,Environmental swab,Ground,Negative,1,TRUE
+F41,Env_0341,,2020-01-01,West,2,20,,West|2|20,West|2|20,West|2|20,Environmental swab,Roller shutter,Negative,1,TRUE
+F42,Env_0342,,2020-01-01,West,2,20,,West|2|20,West|2|20,West|2|20,Environmental swab,Ground,Negative,1,TRUE
+F43,Env_0343,,2020-01-01,West,2,22,,West|2|22,West|2|22,West|2|22,Environmental swab,Roller shutter,Negative,1,TRUE
+F44,Env_0344,,2020-01-01,West,2,22,,West|2|22,West|2|22,West|2|22,Environmental swab,Ground,Negative,1,TRUE
+F45,Env_0345,,2020-01-01,West,2,24,,West|2|24,West|2|24,West|2|24,Environmental swab,Roller shutter,Negative,1,TRUE
+F46,Env_0346,SRR23971581,2020-01-01,West,2,24,,West|2|24,West|2|24,West|2|24,Environmental swab,Ground,Positive,1,TRUE
+F47,Env_0347,,2020-01-01,West,2,9-11-13,,West|2|9-11-13,West|2|9-11-13,West|2|9-11-13,Environmental swab,Roller shutter,Negative,1,TRUE
+F48,Env_0348,,2020-01-01,West,2,9-11-13,,West|2|9-11-13,West|2|9-11-13,West|2|9-11-13,Environmental swab,Ground,Negative,1,TRUE
+F49,Env_0349,,2020-01-01,West,2,9-11-13,,West|2|9-11-13,West|2|9-11-13,West|2|9-11-13,Environmental swab,Roller shutter,Negative,1,TRUE
+F5,Env_0305,,2020-01-01,West,7,26-28,,West|7|26-28,West|7|26-28,West|7|26-28,Environmental swab,White foam,Negative,1,TRUE
+F50,Env_0350,,2020-01-01,West,2,9-11-13,,West|2|9-11-13,West|2|9-11-13,West|2|9-11-13,Environmental swab,Ground,Negative,1,TRUE
+F51,Env_0351,,2020-01-01,West,2,9-11-13,,West|2|9-11-13,West|2|9-11-13,West|2|9-11-13,Environmental swab,Roller shutter,Negative,1,TRUE
+F52,Env_0352,,2020-01-01,West,2,9-11-13,,West|2|9-11-13,West|2|9-11-13,West|2|9-11-13,Environmental swab,Ground,Negative,1,TRUE
+F53,Env_0353,,2020-01-01,West,2,14,,West|2|14,West|2|14,West|2|14,Environmental swab,Roller shutter,Negative,1,TRUE
+F54,Env_0354,SRR23971582,2020-01-01,West,2,14,,West|2|14,West|2|14,West|2|14,Environmental swab,Ground,Positive,1,TRUE
+F55,Env_0355,,2020-01-01,West,2,10-12,,West|2|10-12,West|2|10-12,West|2|10-12,Environmental swab,Roller shutter,Negative,1,TRUE
+F56,Env_0356,,2020-01-01,West,2,10-12,,West|2|10-12,West|2|10-12,West|2|10-12,Environmental swab,Ground,Negative,1,TRUE
+F57,Env_0357,,2020-01-01,West,2,10-12,,West|2|10-12,West|2|10-12,West|2|10-12,Environmental swab,Roller shutter,Negative,1,TRUE
+F58,Env_0358,,2020-01-01,West,2,10-12,,West|2|10-12,West|2|10-12,West|2|10-12,Environmental swab,Ground,Negative,1,TRUE
+F59,Env_0359,,2020-01-01,West,2,6-8,,West|2|6-8,West|2|6-8,West|2|6-8,Environmental swab,Roller shutter,Negative,1,TRUE
+F6,Env_0306,,2020-01-01,West,7,26-28,,West|7|26-28,West|7|26-28,West|7|26-28,Environmental swab,Scale,Negative,1,TRUE
+F60,Env_0360,,2020-01-01,West,2,6-8,,West|2|6-8,West|2|6-8,West|2|6-8,Environmental swab,Ground,Negative,1,TRUE
+F61,Env_0361,,2020-01-01,West,2,6-8,,West|2|6-8,West|2|6-8,West|2|6-8,Environmental swab,Roller shutter,Negative,1,TRUE
+F62,Env_0362,,2020-01-01,West,2,6-8,,West|2|6-8,West|2|6-8,West|2|6-8,Environmental swab,Ground,Negative,1,TRUE
+F63,Env_0363,,2020-01-01,West,2,5-7,,West|2|5-7,West|2|5-7,West|2|5-7,Environmental swab,Roller shutter,Negative,1,TRUE
+F64,Env_0364,,2020-01-01,West,2,5-7,,West|2|5-7,West|2|5-7,West|2|5-7,Environmental swab,Ground,Negative,1,TRUE
+F65,Env_0365,,2020-01-01,West,2,5-7,,West|2|5-7,West|2|5-7,West|2|5-7,Environmental swab,Roller shutter,Negative,1,TRUE
+F66,Env_0366,,2020-01-01,West,2,5-7,,West|2|5-7,West|2|5-7,West|2|5-7,Environmental swab,Ground,Negative,1,TRUE
+F67,Env_0367,,2020-01-01,West,2,1-3,,West|2|1-3,West|2|1-3,West|2|1-3,Environmental swab,Roller shutter,Negative,1,TRUE
+F68,Env_0368,,2020-01-01,West,2,1-3,,West|2|1-3,West|2|1-3,West|2|1-3,Environmental swab,Ground,Negative,1,TRUE
+F69,Env_0369,,2020-01-01,West,2,1-3,,West|2|1-3,West|2|1-3,West|2|1-3,Environmental swab,Roller shutter,Negative,1,TRUE
+F7,Env_0307,,2020-01-01,West,7,26-28,,West|7|26-28,West|7|26-28,West|7|26-28,Environmental swab,Ground,Negative,1,TRUE
+F70,Env_0370,,2020-01-01,West,2,1-3,,West|2|1-3,West|2|1-3,West|2|1-3,Environmental swab,Ground,Negative,1,TRUE
+F71,Env_0371,,2020-01-01,West,2,4,,West|2|4,West|2|4,West|2|4,Environmental swab,Roller shutter,Negative,1,TRUE
+F72,Env_0372,,2020-01-01,West,2,4,,West|2|4,West|2|4,West|2|4,Environmental swab,Ground,Negative,1,TRUE
+F73,Env_0373,,2020-01-01,West,2,2,,West|2|2,West|2|2,West|2|2,Environmental swab,Roller shutter,Negative,1,TRUE
+F74,Env_0374,,2020-01-01,West,2,2,,West|2|2,West|2|2,West|2|2,Environmental swab,Ground,Negative,1,TRUE
+F75,Env_0375,,2020-01-01,West,2,X5-X3,,West|2|X5-X3,West|2|X5-X3,West|2|X5-X3-X1,Environmental swab,Roller shutter,Negative,1,TRUE
+F76,Env_0376,,2020-01-01,West,2,X5-X3,,West|2|X5-X3,West|2|X5-X3,West|2|X5-X3-X1,Environmental swab,Ground,Negative,1,TRUE
+F77,Env_0377,,2020-01-01,West,2,X5-X3,,West|2|X5-X3,West|2|X5-X3,West|2|X5-X3-X1,Environmental swab,Roller shutter,Negative,1,TRUE
+F78,Env_0378,,2020-01-01,West,2,X5-X3,,West|2|X5-X3,West|2|X5-X3,West|2|X5-X3-X1,Environmental swab,Ground,Negative,1,TRUE
+F79,Env_0379,,2020-01-01,West,2,X4-X6,,West|2|X4-X6,West|2|X4-X6,West|2|X4-X6,Environmental swab,Roller shutter,Negative,1,TRUE
+F8,Env_0308,,2020-01-01,West,7,26-28,,West|7|26-28,West|7|26-28,West|7|26-28,Environmental swab,Sewage on floor,Negative,1,TRUE
+F80,Env_0380,,2020-01-01,West,2,X4-X6,,West|2|X4-X6,West|2|X4-X6,West|2|X4-X6,Environmental swab,Ground,Negative,1,TRUE
+F81,Env_0381,,2020-01-01,West,2,X4-X6,,West|2|X4-X6,West|2|X4-X6,West|2|X4-X6,Environmental swab,Roller shutter,Negative,1,TRUE
+F82,Env_0382,,2020-01-01,West,2,X4-X6,,West|2|X4-X6,West|2|X4-X6,West|2|X4-X6,Environmental swab,Ground,Negative,1,TRUE
+F83,Env_0383,,2020-01-01,West,2,X3-X1,,West|2|X3-X1,West|2|X3-X1,West|2|X5-X3-X1,Environmental swab,Roller shutter,Negative,1,TRUE
+F84,Env_0384,,2020-01-01,West,2,X3-X1,,West|2|X3-X1,West|2|X3-X1,West|2|X5-X3-X1,Environmental swab,Ground,Negative,1,TRUE
+F85,Env_0385,,2020-01-01,West,2,X3-X1,,West|2|X3-X1,West|2|X3-X1,West|2|X5-X3-X1,Environmental swab,Roller shutter,Negative,1,TRUE
+F86,Env_0386,,2020-01-01,West,2,X3-X1,,West|2|X3-X1,West|2|X3-X1,West|2|X5-X3-X1,Environmental swab,Ground,Negative,1,TRUE
+F87,Env_0387,,2020-01-01,West,2,X2-X4,,West|2|X2-X4,West|2|X2-X4,West|2|X2-X4,Environmental swab,Roller shutter,Negative,1,TRUE
+F88,Env_0388,,2020-01-01,West,2,X2-X4,,West|2|X2-X4,West|2|X2-X4,West|2|X2-X4,Environmental swab,Ground,Negative,1,TRUE
+F89,Env_0389,,2020-01-01,West,2,X2-X4,,West|2|X2-X4,West|2|X2-X4,West|2|X2-X4,Environmental swab,Roller shutter,Negative,1,TRUE
+F9,Env_0309,,2020-01-01,West,11,15,,West|11|15,West|11|15,West|11|15,Environmental swab,Surface of white basket,Negative,1,TRUE
+F90,Env_0390,,2020-01-01,West,2,X2-X4,,West|2|X2-X4,West|2|X2-X4,West|2|X2-X4,Environmental swab,Ground,Negative,1,TRUE
+F91,Env_0391,,2020-01-01,West,4,X1-X3,,West|4|X1-X3,West|4|X1-X3,West|4|X1-X3-X5,Environmental swab,Roller shutter,Negative,1,TRUE
+F92,Env_0392,,2020-01-01,West,4,X1-X3,,West|4|X1-X3,West|4|X1-X3,West|4|X1-X3-X5,Environmental swab,Ground,Negative,1,TRUE
+F93,Env_0393,,2020-01-01,West,4,X1-X3,,West|4|X1-X3,West|4|X1-X3,West|4|X1-X3-X5,Environmental swab,Roller shutter,Negative,1,TRUE
+F94,Env_0394,,2020-01-01,West,4,X1-X3,,West|4|X1-X3,West|4|X1-X3,West|4|X1-X3-X5,Environmental swab,Ground,Negative,1,TRUE
+F95,Env_0395,,2020-01-01,West,4,X2,,West|4|X2,West|4|X2,West|4|X2,Environmental swab,Roller shutter,Negative,1,TRUE
+F96,Env_0396,,2020-01-01,West,4,X2,,West|4|X2,West|4|X2,West|4|X2,Environmental swab,Ground,Negative,1,TRUE
+F97,Env_0397,,2020-01-01,West,4,X6-X4,Was coded backwards,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Roller shutter,Negative,1,TRUE
+F98,Env_0398,SRR23971583,2020-01-01,West,4,X6-X4,Was coded backwards,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Ground,Positive,1,TRUE
+F99,Env_0399,,2020-01-01,West,4,X6-X4,Was coded backwards,West|4|X4-X6,West|4|X4-X6,West|4|X4-X6,Environmental swab,Roller shutter,Negative,1,TRUE
+G1,Env_0417,,2020-01-01,West,7,27,,West|7|27,West|7|27,West|7|27,Environmental swab,Surface of basket,Negative,1,TRUE
+G10,Env_0426,,2020-01-01,West,7,29,,West|7|29,West|7|29,West|7|29,Environmental swab,Wall,Negative,1,TRUE
+G11,Env_0427,,2020-01-01,West,7,29,,West|7|29,West|7|29,West|7|29,Environmental swab,Sewage in bucket,Negative,1,TRUE
+G12,Env_0428,,2020-01-01,West,7,31-33,,West|7|31-33,West|7|31-33,West|7|31-33,Environmental swab,Surface of basket,Negative,1,TRUE
+G13,Env_0429,,2020-01-01,West,7,31-33,,West|7|31-33,West|7|31-33,West|7|31-33,Environmental swab,Surface of basket,Negative,1,TRUE
+G14,Env_0430,,2020-01-01,West,7,31-33,,West|7|31-33,West|7|31-33,West|7|31-33,Environmental swab,Wall,Negative,1,TRUE
+G15,Env_0431,,2020-01-01,West,7,31-33,,West|7|31-33,West|7|31-33,West|7|31-33,Environmental swab,Scale,Negative,1,TRUE
+G16,Env_0432,,2020-01-01,West,7,31-33,,West|7|31-33,West|7|31-33,West|7|31-33,Environmental swab,Water in pool,Negative,1,TRUE
+G17,Env_0433,,2020-01-01,West,7,31-33,,West|7|31-33,West|7|31-33,West|7|31-33,Environmental swab,Inner surface of trush cans,Negative,1,TRUE
+G18,Env_0434,,2020-01-01,West,7,34,,West|7|34,West|7|34,West|7|34,Environmental swab,Scale,Negative,1,TRUE
+G19,Env_0435,,2020-01-01,West,7,34,,West|7|34,West|7|34,West|7|34,Environmental swab,Wall,Negative,1,TRUE
+G2,Env_0418,,2020-01-01,West,7,27,,West|7|27,West|7|27,West|7|27,Environmental swab,Wall,Negative,1,TRUE
+G20,Env_0436,,2020-01-01,West,7,34,,West|7|34,West|7|34,West|7|34,Environmental swab,Inner surface of foam box,Negative,1,TRUE
+G21,Env_0437,,2020-01-01,West,7,34,,West|7|34,West|7|34,West|7|34,Environmental swab,Inner surface of white basket,Negative,1,TRUE
+G22,Env_0438,,2020-01-01,West,7,34,,West|7|34,West|7|34,West|7|34,Environmental swab,Drainage outlet,Negative,1,TRUE
+G23,Env_0439,,2020-01-01,West,7,34,,West|7|34,West|7|34,West|7|34,Environmental swab,Bucket,Negative,1,TRUE
+G24,Env_0440,,2020-01-01,West,7,35-37,,West|7|35-37,West|7|35-37,West|7|35-37,Environmental swab,Scale,Negative,1,TRUE
+G25,Env_0441,,2020-01-01,West,7,35-37,,West|7|35-37,West|7|35-37,West|7|35-37,Environmental swab,Surface of cart,Negative,1,TRUE
+G26,Env_0442,,2020-01-01,West,7,35-37,,West|7|35-37,West|7|35-37,West|7|35-37,Environmental swab,Surface of Vegetable,Negative,1,TRUE
+G27,Env_0443,,2020-01-01,West,7,35-37,,West|7|35-37,West|7|35-37,West|7|35-37,Environmental swab,Surface of lift,Negative,1,TRUE
+G28,Env_0444,,2020-01-01,West,7,35-37,,West|7|35-37,West|7|35-37,West|7|35-37,Environmental swab,Ground,Negative,1,TRUE
+G29,Env_0445,,2020-01-01,West,7,38,,West|7|38,West|7|38,West|7|38,Environmental swab,Cart,Negative,1,TRUE
+G3,Env_0419,,2020-01-01,West,7,27,,West|7|27,West|7|27,West|7|27,Environmental swab,Table top,Negative,1,TRUE
+G30,Env_0446,,2020-01-01,West,7,38,,West|7|38,West|7|38,West|7|38,Environmental swab,Surface of lift,Negative,1,TRUE
+G31,Env_0447,,2020-01-01,West,7,38,,West|7|38,West|7|38,West|7|38,Environmental swab,Ground,Negative,1,TRUE
+G32,Env_0448,,2020-01-01,West,7,38,,West|7|38,West|7|38,West|7|38,Environmental swab,Drainage outlet,Negative,1,TRUE
+G33,Env_0449,,2020-01-01,West,7,38,,West|7|38,West|7|38,West|7|38,Environmental swab,Water in pool,Negative,1,TRUE
+G34,Env_0450,,2020-01-01,West,7,38,,West|7|38,West|7|38,West|7|38,Environmental swab,Water in pool,Negative,1,TRUE
+G35,Env_0451,,2020-01-01,West,7,29,,West|7|29,West|7|29,West|7|29,Environmental swab,Filter,Negative,1,TRUE
+G36,Env_0452,,2020-01-01,West,7,31-33,,West|7|31-33,West|7|31-33,West|7|31-33,Environmental swab,Filter,Negative,1,TRUE
+G37,Env_0453,,2020-01-01,West,7,30-32,,West|7|30-32,West|7|30-32,West|7|30-32,Environmental swab,Filter,Negative,1,TRUE
+G38,Env_0454,,2020-01-01,West,7,34,,West|7|34,West|7|34,West|7|34,Environmental swab,Filter,Negative,1,TRUE
+G39,Env_0455,,2020-01-01,West,7,25,,West|7|25,West|7|25,West|7|25,Environmental swab,Filter,Negative,1,TRUE
+G4,Env_0420,,2020-01-01,West,7,27,,West|7|27,West|7|27,West|7|27,Environmental swab,Scale,Negative,1,TRUE
+G40,Env_0456,,2020-01-01,West,8,26-28,,West|8|26-28,West|8|26-28,West|8|26-28,Environmental swab,Inner surface of trush cans,Negative,1,TRUE
+G41,Env_0457,,2020-01-01,West,8,26-28,,West|8|26-28,West|8|26-28,West|8|26-28,Environmental swab,Surface of frozen food,Negative,1,TRUE
+G42,Env_0458,,2020-01-01,West,8,26-28,,West|8|26-28,West|8|26-28,West|8|26-28,Environmental swab,Inner surface of red basket,Negative,1,TRUE
+G43,Env_0459,,2020-01-01,West,8,26-28,,West|8|26-28,West|8|26-28,West|8|26-28,Environmental swab,Scale,Negative,1,TRUE
+G44,Env_0460,,2020-01-01,West,8,26-28,,West|8|26-28,West|8|26-28,West|8|26-28,Environmental swab,Surface of calculator,Negative,1,TRUE
+G45,Env_0461,,2020-01-01,West,8,26-28,,West|8|26-28,West|8|26-28,West|8|26-28,Environmental swab,Ground,Negative,1,TRUE
+G46,Env_0462,,2020-01-01,West,8,26-28,,West|8|26-28,West|8|26-28,West|8|26-28,Environmental swab,Wall,Negative,1,TRUE
+G47,Env_0463,,2020-01-01,West,8,26-28,,West|8|26-28,West|8|26-28,West|8|26-28,Environmental swab,Water in Bucket,Negative,1,TRUE
+G48,Env_0464,,2020-01-01,West,8,26-28,,West|8|26-28,West|8|26-28,West|8|26-28,Environmental swab,Scissors,Negative,1,TRUE
+G49,Env_0465,,2020-01-01,West,8,27,,West|8|27,West|8|27,West|8|27,Environmental swab,Inner surface of blue basket,Negative,1,TRUE
+G5,Env_0421,,2020-01-01,West,7,27,,West|7|27,West|7|27,West|7|27,Environmental swab,Scissors,Negative,1,TRUE
+G50,Env_0466,,2020-01-01,West,8,27,,West|8|27,West|8|27,West|8|27,Environmental swab,Water in basin,Negative,1,TRUE
+G51,Env_0467,,2020-01-01,West,8,27,,West|8|27,West|8|27,West|8|27,Environmental swab,Ground,Negative,1,TRUE
+G52,Env_0468,,2020-01-01,West,8,27,,West|8|27,West|8|27,West|8|27,Environmental swab,Scale,Negative,1,TRUE
+G53,Env_0469,,2020-01-01,West,8,27,,West|8|27,West|8|27,West|8|27,Environmental swab,Water in Bucket,Negative,1,TRUE
+G54,Env_0470,,2020-01-01,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Chopping block,Negative,1,TRUE
+G55,Env_0471,,2020-01-01,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Inner surface of white box,Negative,1,TRUE
+G56,Env_0472,,2020-01-01,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Scale,Negative,1,TRUE
+G57,Env_0473,,2020-01-01,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Ground,Negative,1,TRUE
+G58,Env_0474,,2020-01-01,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Scissors,Negative,1,TRUE
+G59,Env_0475,,2020-01-01,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Outside surface of freezer,Negative,1,TRUE
+G6,Env_0422,,2020-01-01,West,7,29,,West|7|29,West|7|29,West|7|29,Environmental swab,Surface of basket,Negative,1,TRUE
+G60,Env_0476,,2020-01-01,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Ground,Negative,1,TRUE
+G61,Env_0477,,2020-01-01,West,8,33,,West|8|33,West|8|33,West|8|33,Environmental swab,Inner surface of white basket,Negative,1,TRUE
+G62,Env_0478,,2020-01-01,West,8,33,,West|8|33,West|8|33,West|8|33,Environmental swab,Cart,Negative,1,TRUE
+G63,Env_0479,,2020-01-01,West,8,33,,West|8|33,West|8|33,West|8|33,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+G64,Env_0480,,2020-01-01,West,8,33,,West|8|33,West|8|33,West|8|33,Environmental swab,Chopping board,Negative,1,TRUE
+G65,Env_0481,,2020-01-01,West,8,33,,West|8|33,West|8|33,West|8|33,Environmental swab,Water in Bucket,Negative,1,TRUE
+G66,Env_0482,,2020-01-01,West,8,33,,West|8|33,West|8|33,West|8|33,Environmental swab,Drainage outlet,Negative,1,TRUE
+G67,Env_0483,,2020-01-01,West,8,35,,West|8|35,West|8|35,West|8|35,Environmental swab,Inner surface of red basket,Negative,1,TRUE
+G68,Env_0484,,2020-01-01,West,8,35,,West|8|35,West|8|35,West|8|35,Environmental swab,Ground,Negative,1,TRUE
+G69,Env_0485,,2020-01-01,West,8,35,,West|8|35,West|8|35,West|8|35,Environmental swab,Drainage outlet,Negative,1,TRUE
+G7,Env_0423,,2020-01-01,West,7,29,,West|7|29,West|7|29,West|7|29,Environmental swab,Scale,Negative,1,TRUE
+G70,Env_0486,,2020-01-01,West,8,35,,West|8|35,West|8|35,West|8|35,Environmental swab,Scale,Negative,1,TRUE
+G71,Env_0487,,2020-01-01,West,8,35,,West|8|35,West|8|35,West|8|35,Environmental swab,Outside surface of freezer,Negative,1,TRUE
+G72,Env_0488,,2020-01-01,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Ground,Negative,1,TRUE
+G73,Env_0489,,2020-01-01,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Cart,Negative,1,TRUE
+G74,Env_0490,,2020-01-01,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Scale,Negative,1,TRUE
+G75,Env_0491,,2020-01-01,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Drainage outlet,Negative,1,TRUE
+G76,Env_0492,,2020-01-01,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Water in white box,Negative,1,TRUE
+G77,Env_0493,,2020-01-01,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Feather removal machine,Negative,1,TRUE
+G78,Env_0494,,2020-01-01,West,8,32-34,,West|8|32-34,West|8|32-34,West|8|32-34,Environmental swab,Inner surface of white basket,Negative,1,TRUE
+G79,Env_0495,,2020-01-01,West,8,32-34,,West|8|32-34,West|8|32-34,West|8|32-34,Environmental swab,Ground,Negative,1,TRUE
+G8,Env_0424,,2020-01-01,West,7,29,,West|7|29,West|7|29,West|7|29,Environmental swab,Surface of frozen food,Negative,1,TRUE
+G80,Env_0496,,2020-01-01,West,8,32-34,,West|8|32-34,West|8|32-34,West|8|32-34,Environmental swab,Inner surface of trush cans,Negative,1,TRUE
+G81,Env_0497,,2020-01-01,West,8,32-34,,West|8|32-34,West|8|32-34,West|8|32-34,Environmental swab,Surface of calculator,Negative,1,TRUE
+G82,Env_0498,,2020-01-01,West,8,32-34,,West|8|32-34,West|8|32-34,West|8|32-34,Environmental swab,Inner surface of yellow basket,Negative,1,TRUE
+G83,Env_0499,,2020-01-01,West,8,32-34,,West|8|32-34,West|8|32-34,West|8|32-34,Environmental swab,Iron shelf,Negative,1,TRUE
+G84,Env_0500,,2020-01-01,West,8,29-31,,West|8|29-31,West|8|29-31,West|8|29-31,Environmental swab,Inner surface of blue basket,Negative,1,TRUE
+G85,Env_0501,,2020-01-01,West,8,29-31,,West|8|29-31,West|8|29-31,West|8|29-31,Environmental swab,Calculator,Negative,1,TRUE
+G86,Env_0502,,2020-01-01,West,8,29-31,,West|8|29-31,West|8|29-31,West|8|29-31,Environmental swab,Ground,Negative,1,TRUE
+G87,Env_0503,,2020-01-01,West,8,29-31,,West|8|29-31,West|8|29-31,West|8|29-31,Environmental swab,Scissors,Negative,1,TRUE
+G88,Env_0504,,2020-01-01,West,8,29-31,,West|8|29-31,West|8|29-31,West|8|29-31,Environmental swab,Scale,Negative,1,TRUE
+G89,Env_0505,,2020-01-01,West,8,29-31,,West|8|29-31,West|8|29-31,West|8|29-31,Environmental swab,Iron shelf,Negative,1,TRUE
+G9,Env_0425,,2020-01-01,West,7,29,,West|7|29,West|7|29,West|7|29,Environmental swab,Ground,Negative,1,TRUE
+G90,Env_0506,,2020-01-01,West,8,29-31,,West|8|29-31,West|8|29-31,West|8|29-31,Environmental swab,Knief,Negative,1,TRUE
+G91,Env_0507,,2020-01-01,West,8,27,,West|8|27,West|8|27,West|8|27,Environmental swab,Sewage on floor,Negative,1,TRUE
+G92,Env_0508,,2020-01-01,West,8,19-21-23,,West|8|19-21-23,West|8|19-21-23,West|8|19-21-23,Environmental swab,Chopping block and Knief,Negative,1,TRUE
+G93,Env_0509,,2020-01-01,West,8,19-21-23,,West|8|19-21-23,West|8|19-21-23,West|8|19-21-23,Environmental swab,Sewage,Positive,1,TRUE
+G94,Env_0510,,2020-01-01,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground,Negative,1,TRUE
+G95,Env_0511,,2020-01-01,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Knier,Negative,1,TRUE
+G96,Env_0512,,2020-01-01,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Scale,Negative,1,TRUE
+G97,Env_0513,,2020-01-01,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Table top,Negative,1,TRUE
+G98,Env_0514,,2020-01-01,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Container,Negative,1,TRUE
+G99,Env_0515,,2020-01-01,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Drainage outlet,Negative,1,TRUE
+HJ200001-20200112-1,Env_0516,SRR23971518,2020-01-12,West,9,34-36,,West|9|34-36,West|9|34-36,West|9|34-36,Environmental swab,Table top,Negative,1,TRUE
+HJ200002-20200112-1,Env_0517,SRR23971519,2020-01-12,West,9,34-36,,West|9|34-36,West|9|34-36,West|9|34-36,Environmental swab,Scale,Negative,1,TRUE
+HJ200003-20200112-1,Env_0518,SRR23971520,2020-01-12,West,9,34-36,,West|9|34-36,West|9|34-36,West|9|34-36,Environmental swab,Container,Negative,1,TRUE
+HJ200004-20200112-1,Env_0519,SRR23971521,2020-01-12,West,9,34-36,,West|9|34-36,West|9|34-36,West|9|34-36,Environmental swab,Container,Negative,1,TRUE
+HJ200005-20200112-1,Env_0520,SRR23971523,2020-01-12,West,9,34-36,,West|9|34-36,West|9|34-36,West|9|34-36,Environmental swab,Basket,Negative,1,TRUE
+HJ200006-20200112-1,Env_0521,SRR23971524,2020-01-12,West,9,34-36,,West|9|34-36,West|9|34-36,West|9|34-36,Environmental swab,Feather removal machine,Negative,1,TRUE
+HJ200007-20200112-1,Env_0522,SRR23971525,2020-01-12,West,9,34-36,,West|9|34-36,West|9|34-36,West|9|34-36,Environmental swab,Table,Negative,1,TRUE
+HJ200008-20200112-1,Env_0523,SRR23971526,2020-01-12,West,9,34-36,,West|9|34-36,West|9|34-36,West|9|34-36,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+HJ200009-20200112-1,Env_0524,SRR23971527,2020-01-12,West,9,34-36,,West|9|34-36,West|9|34-36,West|9|34-36,Environmental swab,Inside of feather removal machine,Negative,1,TRUE
+HJ200010-20200112-1,Env_0525,SRR23971528,2020-01-12,West,9,34-36,,West|9|34-36,West|9|34-36,West|9|34-36,Environmental swab,Outside surface of refrigerator,Negative,1,TRUE
+HJ200011-20200112-1,Env_0526,SRR23971529,2020-01-12,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Wall,Negative,1,TRUE
+HJ200012-20200112-1,Env_0527,SRR23971530,2020-01-12,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,White basket,Negative,1,TRUE
+HJ200013-20200112-1,Env_0528,SRR23971531,2020-01-12,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Chopping block,Negative,1,TRUE
+HJ200014-20200112-1,Env_0529,SRR23971532,2020-01-12,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Container,Negative,1,TRUE
+HJ200015-20200112-1,Env_0530,SRR23971534,2020-01-12,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Container,Negative,1,TRUE
+HJ200016-20200112-1,Env_0531,SRR23971535,2020-01-12,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Red basket,Negative,1,TRUE
+HJ200017-20200112-1,Env_0532,SRR23971536,2020-01-12,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Scale,Negative,1,TRUE
+HJ200018-20200112-1,Env_0533,SRR23971537,2020-01-12,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Bucket,Negative,1,TRUE
+HJ200019-20200112-1,Env_0534,SRR23971538,2020-01-12,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Bucket,Negative,1,TRUE
+HJ200020-20200112-1,Env_0535,SRR23971539,2020-01-12,West,9,38,,West|9|38,West|9|38,West|9|38,Environmental swab,Wall,Negative,1,TRUE
+HJ200021-20200112-1,Env_0536,SRR23971540,2020-01-12,West,9,35-37,,West|9|35-37,West|9|35-37,West|9|35-37,Environmental swab,Ground,Negative,1,TRUE
+HJ200022-20200112-1,Env_0537,SRR23971541,2020-01-12,West,9,35-37,,West|9|35-37,West|9|35-37,West|9|35-37,Environmental swab,Outside surface of freezer,Negative,1,TRUE
+HJ200023-20200112-1,Env_0538,SRR23971542,2020-01-12,West,9,35-37,,West|9|35-37,West|9|35-37,West|9|35-37,Environmental swab,Wall,Negative,1,TRUE
+HJ200024-20200112-1,Env_0539,SRR23971589,2020-01-12,West,9,35-37,,West|9|35-37,West|9|35-37,West|9|35-37,Environmental swab,Blue mop,Negative,1,TRUE
+HJ200025-20200112-1,Env_0540,SRR23971463,2020-01-12,West,9,35-37,,West|9|35-37,West|9|35-37,West|9|35-37,Environmental swab,Tongs,Negative,1,TRUE
+HJ200026-20200112-1,Env_0541,SRR23971464,2020-01-12,West,9,35-37,,West|9|35-37,West|9|35-37,West|9|35-37,Environmental swab,Ground,Negative,1,TRUE
+HJ200027-20200112-1,Env_0542,SRR23971465,2020-01-12,West,9,35-37,,West|9|35-37,West|9|35-37,West|9|35-37,Environmental swab,Bucket,Negative,1,TRUE
+HJ200028-20200112-1,Env_0543,SRR23971466,2020-01-12,West,9,35-37,,West|9|35-37,West|9|35-37,West|9|35-37,Environmental swab,Basket,Negative,1,TRUE
+HJ200029-20200112-1,Env_0544,SRR23971467,2020-01-12,West,9,35-37,,West|9|35-37,West|9|35-37,West|9|35-37,Environmental swab,Surface of the door,Negative,1,TRUE
+HJ200030-20200112-1,Env_0545,SRR23971468,2020-01-12,West,9,35-37,,West|9|35-37,West|9|35-37,West|9|35-37,Environmental swab,Container in inner room,Negative,1,TRUE
+HJ200031-20200112-1,Env_0546,SRR23971469,2020-01-12,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Basket,Negative,1,TRUE
+HJ200032-20200112-1,Env_0547,SRR23971470,2020-01-12,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Foam box,Negative,1,TRUE
+HJ200033-20200112-1,Env_0548,SRR23971471,2020-01-12,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Wall,Negative,1,TRUE
+HJ200034-20200112-1,Env_0549,SRR23971472,2020-01-12,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Container,Negative,1,TRUE
+HJ200035-20200112-1,Env_0550,SRR23971474,2020-01-12,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Outside surface of freezer,Negative,1,TRUE
+HJ200036-20200112-1,Env_0551,SRR23971475,2020-01-12,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Iron container,Negative,1,TRUE
+HJ200038-20200112-1,Env_0553,SRR23971476,2020-01-12,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Knief,Negative,1,TRUE
+HJ200039-20200112-1,Env_0554,SRR23971477,2020-01-12,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Scale,Negative,1,TRUE
+HJ200040-20200112-1,Env_0555,SRR23971478,2020-01-12,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground,Negative,1,TRUE
+HJ200041-20200112-1,Env_0556,SRR23971479,2020-01-12,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Feather removal machine,Negative,1,TRUE
+HJ200042-20200112-1,Env_0557,SRR23971480,2020-01-12,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Basket,Negative,1,TRUE
+HJ200043-20200112-1,Env_0558,SRR23971481,2020-01-12,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Mop,Negative,1,TRUE
+HJ200044-20200112-1,Env_0559,SRR23971482,2020-01-12,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Sink,Negative,1,TRUE
+HJ200045-20200112-1,Env_0560,SRR23971483,2020-01-12,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Iron container,Negative,1,TRUE
+HJ200046-20200112-1,Env_0561,SRR23971485,2020-01-12,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Basket,Negative,1,TRUE
+HJ200047-20200112-1,Env_0562,SRR23971486,2020-01-12,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Bucket,Negative,1,TRUE
+HJ200048-20200112-1,Env_0563,SRR23971487,2020-01-12,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Inner surface of freezer,Negative,1,TRUE
+HJ200049-20200112-1,Env_0564,SRR23971488,2020-01-12,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Dustpan,Negative,1,TRUE
+HJ200050-20200112-1,Env_0565,SRR23971410,2020-01-12,West,8,36-38,,West|8|36-38,West|8|36-38,West|8|36-38,Environmental swab,Table top,Negative,1,TRUE
+HJ200051-20200112-1,Env_0566,SRR23971411,2020-01-12,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Ground,Negative,1,TRUE
+HJ200052-20200112-1,Env_0567,SRR23971412,2020-01-12,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Basket,Negative,1,TRUE
+HJ200053-20200112-1,Env_0568,SRR23971413,2020-01-12,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Outside surface of refrigerator,Negative,1,TRUE
+HJ200054-20200112-1,Env_0569,SRR23971414,2020-01-12,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Basket,Negative,1,TRUE
+HJ200055-20200112-1,Env_0570,SRR23971415,2020-01-12,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Bucket,Negative,1,TRUE
+HJ200056-20200112-1,Env_0571,SRR23971417,2020-01-12,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+HJ200057-20200112-1,Env_0572,SRR23971418,2020-01-12,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Table top,Negative,1,TRUE
+HJ200058-20200112-1,Env_0573,SRR23971419,2020-01-12,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Inner surface of refrigerator,Negative,1,TRUE
+HJ200059-20200112-1,Env_0574,SRR23971420,2020-01-12,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Wall,Negative,1,TRUE
+HJ200060-20200112-1,Env_0575,SRR23971421,2020-01-12,West,8,37,,West|8|37,West|8|37,West|8|37,Environmental swab,Iron shelf,Negative,1,TRUE
+HJ200062-20200112-1,Env_0577,SRR23971422,2020-01-12,West,6,29-31-33,,West|6|29-31-33,West|6|29-31-33,West|6|29-31-33,Environmental swab,Container,Negative,1,TRUE
+HJ200063-20200112-1,Env_0578,SRR23971423,2020-01-12,West,6,29-31-33,,West|6|29-31-33,West|6|29-31-33,West|6|29-31-33,Environmental swab,Basket,Negative,1,TRUE
+HJ200065-20200112-1,Env_0580,SRR23971424,2020-01-12,West,6,29-31-33,,West|6|29-31-33,West|6|29-31-33,West|6|29-31-33,Environmental swab,White box,Negative,1,TRUE
+HJ200066-20200112-1,Env_0581,SRR23971425,2020-01-12,West,6,29-31-33,,West|6|29-31-33,West|6|29-31-33,West|6|29-31-33,Environmental swab,Iron container,Negative,1,TRUE
+HJ200067-20200112-1,Env_0582,SRR23971426,2020-01-12,West,6,29-31-33,,West|6|29-31-33,West|6|29-31-33,West|6|29-31-33,Environmental swab,Bucket,Negative,1,TRUE
+Q37,Env_0552,SRR23971448,2020-01-12,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Inner surface of the freezer,Positive,1,TRUE
+Q61,Env_0576,SRR23971449,2020-01-12,West,6,29-31-33,,West|6|29-31-33,West|6|29-31-33,West|6|29-31-33,Environmental swab,Cart1,Positive,1,TRUE
+Q64,Env_0579,SRR23971450,2020-01-12,West,6,29-31-33,,West|6|29-31-33,West|6|29-31-33,West|6|29-31-33,Environmental swab,Cart2,Positive,1,TRUE
+Q68,Env_0583,SRR23971451,2020-01-12,West,6,29-31-33,,West|6|29-31-33,West|6|29-31-33,West|6|29-31-33,Environmental swab,Ground,Positive,1,TRUE
+Q69,Env_0584,SRR23971453,2020-01-12,West,6,29-31-33,,West|6|29-31-33,West|6|29-31-33,West|6|29-31-33,Environmental swab,Feather removal machine,Positive,1,TRUE
+Q70,Env_0585,SRR23971454,2020-01-12,West,6,29-31-33,,West|6|29-31-33,West|6|29-31-33,West|6|29-31-33,Environmental swab,Iron container in inner room,Positive,1,TRUE
+w-10-4,Env_0825,,2020-02-15,West,10,4,,West|10|4,West|10|4_drain,West|10|4,Water drain,Water drain,Negative,1,TRUE
+w-4-28,Env_0826,,2020-02-15,West,4,28,,West|4|28,West|4|28_drain,West|4|28,Water drain,Water drain,Negative,1,TRUE
+w-6-29-32,Env_0827,,2020-02-15,West,6,29-32,,West|6|29-32,West|6|29-32_drain,West|6|29-32,Water drain,Water drain,Negative,1,TRUE
+w-6-29-33,Env_0828,SRR23971498,2020-02-15,West,6,29-33,,West|6|29-33,West|6|29-33_drain,West|6|29-31-33,Water drain,Water drain,Positive,1,TRUE
+W-8-25-D1,Env_0806,SRR23971461,2020-02-15,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground inside the stalls,Positive,1,TRUE
+W-8-25-D2,Env_0807,SRR23971462,2020-02-15,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Ground inside the stalls,Positive,1,TRUE
+W-8-25-L,Env_0808,SRR23971490,2020-02-15,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Container,Positive,1,TRUE
+W-8-25-L2,Env_0809,SRR23971491,2020-02-15,West,8,25,,West|8|25,West|8|25,West|8|25,Environmental swab,Container,Positive,1,TRUE
+w-zong-1,Env_0829,SRR23971499,2020-02-15,West,1,,,West|1|NA,West|1|Sw1,West|1|NA,Water drain,Water drain,Positive,1,TRUE
+WS-1-1,Env_0742,SRR23971457,2020-02-05,West,,,,West|NA|NA,West|1|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WS-1-2,Env_0743,,2020-02-05,West,,,,West|NA|NA,West|1|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WS-1-3,Env_0744,,2020-02-05,West,,,,West|NA|NA,West|1|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WS-1-4,Env_0745,,2020-02-05,West,,,,West|NA|NA,West|1|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WS-2-1,Env_0746,SRR23971458,2020-02-05,West,,,,West|NA|NA,West|13|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WS-2-2,Env_0747,,2020-02-05,West,,,,West|NA|NA,West|13|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WS-2-3,Env_0748,SRR23971459,2020-02-05,West,,,,West|NA|NA,West|13|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WS-3-2,Env_0750,,2020-02-05,East,,,,East|NA|NA,East|10|SwO,East|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WS-4-2,Env_0752,SRR23971590,2020-02-05,East,,,,East|NA|NA,East|1|SwO,East|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WWS-1#,Env_0816,SRR23971494,2020-02-15,West,,,,West|NA|NA,West|1|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WWS-1#-2,Env_0817,SRR23971495,2020-02-15,West,,,,West|NA|NA,West|1|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WWS-1#-3,Env_0818,SRR23971496,2020-02-15,West,,,,West|NA|NA,West|1|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WWS-2#-1,Env_0819,,2020-02-15,West,,,,West|NA|NA,West|13|SwO,West|NA|NA,Sewage,Sewage well,Negative,1,TRUE
+WWS-2#-2,Env_0820,SRR23971514,2020-02-15,West,,,,West|NA|NA,West|13|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+WWS-2#-3,Env_0821,SRR23971497,2020-02-15,West,,,,West|NA|NA,West|13|SwO,West|NA|NA,Sewage,Sewage well,Positive,1,TRUE
+zong-1,Env_0762,,2020-02-09,West,1,,,West|1|NA,West|1|Sw3,West|1|NA,Water drain,Water drain,Positive,1,TRUE
+CCDC-454,Env_0873,SRR23971442,2020-02-25,West,9,34,,West|9|34,West|9|34,West|9|34-36,Environmental swab,Container,Negative,1,TRUE
+CCDC-455,Env_0874,,2020-02-25,West,9,34,,West|9|34,West|9|34,West|9|34-36,Environmental swab,Container,Negative,1,TRUE
+EWS-2#-1,Env_0812,,2020-02-15,East,,,,East|NA|NA,East|10|SwO,East|NA|NA,Sewage,Sewage well,Negative,1,TRUE
+EWS-3#-1,Env_0814,,2020-02-15,East,,,,East|NA|NA,East|1|SwO,East|NA|NA,Sewage,Sewage well,Negative,1,TRUE
+WS-3-1,Env_0749,SRR23971553,2020-02-05,East,,,,East|NA|NA,East|10|SwO,East|NA|NA,Sewage,Sewage well,Negative,1,TRUE
+WS-4-1,Env_0751,SRR23971554,2020-02-05,East,,,,East|NA|NA,East|1|SwO,East|NA|NA,Sewage,Sewage well,Negative,1,TRUE
+1-27-20,Env_0651,,2020-01-27,West,5,,,West|5|NA,West|Unknown,West|5|NA,Water drain,Water drain,Negative,0,TRUE
+1-29-15,Env_0693,,2020-01-29,East,,,,East|NA|NA,East|Unknown,East|NA|NA,Environmental swab,Garbage,Negative,0,TRUE
+1-29-25,Env_0703,,2020-01-29,East,,,,East|NA|NA,East|Unknown,East|NA|NA,Environmental swab,Garbage,Negative,0,TRUE
+C38,Env_0176,,2020-01-01,West,,,,West|NA|NA,West|Unknown,West|NA|NA,Environmental swab,Surface of cart,Negative,0,TRUE
+C39,Env_0177,,2020-01-01,West,,,,West|NA|NA,West|Unknown,West|NA|NA,Environmental swab,Surface of cart,Negative,0,TRUE
+C40,Env_0178,,2020-01-01,West,,,,West|NA|NA,West|Unknown,West|NA|NA,Environmental swab,Surface of cart,Negative,0,TRUE
+C41,Env_0179,,2020-01-01,West,,,,West|NA|NA,West|Unknown,West|NA|NA,Environmental swab,Surface of cart,Negative,0,TRUE
+C42,Env_0180,,2020-01-01,West,,,,West|NA|NA,West|Unknown,West|NA|NA,Environmental swab,Surface of cart,Negative,0,TRUE
+C43,Env_0181,,2020-01-01,West,,,,West|NA|NA,West|Unknown,West|NA|NA,Environmental swab,Surface of cart,Negative,0,TRUE
+CCDC-690,Env_0890,,2020-03-02,West,,,,West|NA|NA,West|Unknown,West|NA|NA,Environmental swab,Ground of garage,Negative,0,TRUE
+EWS-1#-1,Env_0810,,2020-02-15,East,,,,East|NA|NA,East|Unknown,East|NA|NA,Sewage,Sewage well,Negative,0,TRUE
+EWS-1#-2,Env_0811,,2020-02-15,East,,,,East|NA|NA,East|Unknown,East|NA|NA,Sewage,Sewage well,Negative,0,TRUE
+WS-SXN1,Env_0733,,2020-02-05,Sewage well close to HSM,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SXN2,Env_0734,,2020-02-05,Sewage well close to HSM,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SXN3,Env_0735,,2020-02-05,Sewage well close to HSM,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SLD1,Env_0736,,2020-02-05,Sewage well close to HSM,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SLD2,Env_0737,,2020-02-05,Sewage well close to HSM,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SLD3,Env_0738,,2020-02-05,Sewage well close to HSM,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SZ1,Env_0739,,2020-02-05,Sewage well close to HSM,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SZ2,Env_0740,,2020-02-05,Sewage well close to HSM,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SZ3,Env_0741,,2020-02-05,Sewage well close to HSM,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-XZ1,Env_0721,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-XZ2,Env_0722,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-XZ3,Env_0723,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SF1,Env_0724,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SF2,Env_0725,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-SF3,Env_0726,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-XL1,Env_0727,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-XL2,Env_0728,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-XL3,Env_0729,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-KJ1,Env_0730,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-KJ2,Env_0731,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+WS-KJ3,Env_0732,,2020-02-05,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HXJMHL-1-1,Env_0767,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HXJMHL-1-2,Env_0768,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HXJMHL-1-3,Env_0769,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+JXRJ-1-1,Env_0770,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+JXRJ-1-2,Env_0771,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+JXRJ-1-3,Env_0772,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HGXQ-1-1,Env_0773,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HGXQ-1-2,Env_0774,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HGXQ-1-3,Env_0775,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+JSYY-1-1,Env_0776,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+JSYY-1-2,Env_0777,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+JSYY-1-3,Env_0778,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+YGSQ-1-1,Env_0779,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+YGSQ-1-2,Env_0780,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+YGSQ-1-3,Env_0781,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HHXQ-1-1,Env_0782,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HHXQ-1-2,Env_0783,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HHXQ-1-3,Env_0784,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+FQXQ-1-1,Env_0785,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+FQXQ-1-2,Env_0786,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+FQXQ-1-3,Env_0787,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+CSSQ-1-1,Env_0788,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+CSSQ-1-2,Env_0789,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+CSSQ-1-3,Env_0790,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Positive,0,FALSE
+HXL-1-1,Env_0791,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HXL-1-2,Env_0792,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HXL-1-3,Env_0793,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HYXQ-1-1,Env_0794,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HYXQ-1-2,Env_0795,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HYXQ-1-3,Env_0796,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+YCHC2-1-1,Env_0797,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Positive,0,FALSE
+YCHC2-1-2,Env_0798,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+YCHC2-1-3,Env_0799,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HXJC4-1-1,Env_0800,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HXJC4-1-2,Env_0801,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HXJC4-1-3,Env_0802,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Positive,0,FALSE
+HKCQ-1-1,Env_0803,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HKCQ-1-2,Env_0804,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE
+HKCQ-1-3,Env_0805,,2020-02-09,Sewerage well in the surrounding areas,NA,NA,,NA,NA,NA,Sewage,Sewage well,Negative,0,FALSE

@@ -1,0 +1,22 @@
+#File	../fastq/SRR23971416_1.fastq.gz	../fastq/SRR23971416_2.fastq.gz
+#Total	3983946
+#Matched	327	0.00821%
+#Name	Reads	ReadsPct
+I5_Nextera_Transposase_1	110	0.00276%
+I7_Nextera_Transposase_1	68	0.00171%
+I7_Primer_Nextera_XT_and_Nextera_Enrichment_N711	25	0.00063%
+I7_Primer_Nextera_XT_and_Nextera_Enrichment_N712	22	0.00055%
+I7_Primer_Nextera_XT_and_Nextera_Enrichment_N702	20	0.00050%
+I7_Primer_Nextera_XT_and_Nextera_Enrichment_N701	17	0.00043%
+I7_Primer_Nextera_XT_and_Nextera_Enrichment_N707	16	0.00040%
+I7_Primer_Nextera_XT_and_Nextera_Enrichment_N703	14	0.00035%
+I7_Primer_Nextera_XT_and_Nextera_Enrichment_N705	11	0.00028%
+I7_Primer_Nextera_XT_and_Nextera_Enrichment_N710	6	0.00015%
+I7_Primer_Nextera_XT_and_Nextera_Enrichment_N706	5	0.00013%
+Reverse_adapter	5	0.00013%
+I5_Primer_Nextera_XT_and_Nextera_Enrichment_[N/S/E]505	2	0.00005%
+I7_Primer_Nextera_XT_and_Nextera_Enrichment_N704	2	0.00005%
+Ad153_5T_1-index_89	1	0.00003%
+I5_Nextera_Transposase_2	1	0.00003%
+PCR_Primers	1	0.00003%
+RNA_PCR_Primer_Index_34_(RPI34)	1	0.00003%

@@ -1,0 +1,240 @@
+Library,species,Order,Province,City,Sample type,Living condition,Health condition,Symptom,Collection date,Number of animals
+HB-AH-F-1,Hystrix brachyura,Rodentia,Anhui,Hefei,Fecal,Breeding,Healthy,,2020.07.12,10
+HB-AH-F-2,Hystrix brachyura,Rodentia,Anhui,Hefei,Fecal,Breeding,Healthy,,2020.07.12,10
+HB-AH-MO-1,Hystrix brachyura,Rodentia,Anhui,Chizhou,"Mixed organs：Heart, Kidney",Breeding,Unhealthy,"Death, symptoms unknown",2019,7
+HB-FJ-F-1,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Fecal,Breeding,Healthy,,2020.06.26,10
+HB-FJ-F-2,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Fecal,Breeding,Healthy,,2020.06.25,20
+HB-FJ-F-3,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Fecal,Breeding,Healthy,,2020.06.28,21
+HB-FJ-F-4,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Fecal,Breeding,Healthy,,2020.06.28,23
+HB-FJ-L-1,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Lung,Breeding,Unhealthy,"Death, symptoms unknown",2020.06.26,3
+HB-FJ-L-2,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Lung,Breeding,Unhealthy,"Death, neurological symptoms, paralysis",2020.06.26,
+HB-FJ-L-3,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Lung,Breeding,Unhealthy,"Death, symptoms unknown",2020.06.26,
+HB-FJ-B-1,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Blood,Breeding,Unhealthy,"Death, symptoms unknown",2020.06.26,
+HB-FJ-MO-1,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Mixed organs,Breeding,Unhealthy,"Death, including neurological symptoms, paralysis",2020.06.26,
+HB-FJ-MO-2,Hystrix brachyura,Rodentia,Fujian,Longyan,Mixed organs,Breeding,Unhealthy,"Death, runny nose, sneezing, depressed spirit",2020.09.30,2
+HB-FJ-NA-1,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Nasal swab + Anal swab,Breeding,Healthy,,2020.06.26,10
+HB-FJ-NA-2,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Nasal swab + Anal swab,Breeding,Healthy,,2020.06.26,10
+HB-FJ-NA-3,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Nasal swab + Anal swab ,Breeding,Healthy,,2020.06.26,11
+HB-FJ-NA-4,Hystrix brachyura,Rodentia,Fujian,Zhangzhou,Nasal swab + Anal swab ,Breeding,Healthy,,2020.06.26,11
+HB-FJ-NA-5,Hystrix brachyura,Rodentia,Fujian,Nanping,Nasal swab + Anal swab ,Wild,Healthy,,2020.05.20,6
+HB-FJ-NA-6,Hystrix brachyura,Rodentia,Fujian,Nanping,Nasal swab + Anal swab ,Wild,Healthy,,2020.06.05,4
+HB-FJ-NA-7,Hystrix brachyura,Rodentia,Fujian,Sanming,Nasal swab + Anal swab ,Wild,Healthy,,2020.05.24,7
+HB-FJ-NA-8,Hystrix brachyura,Rodentia,Fujian,Longyan,Nasal swab + Anal swab,Breeding,Unhealthy,"Death, runny nose, sneezing, depressed spirit",2020.09.30,20
+HB-GD-F-1,Hystrix brachyura,Rodentia,Guangdong,Zhanjiang,Fecal,Breeding,Healthy,,2020.07.05,20
+HB-GZ-F-1,Hystrix brachyura,Rodentia,Guizhou,Zunyi,Fecal,Breeding,Healthy,,2020.07.25,15
+HB-GZ-F-2,Hystrix brachyura,Rodentia,Guizhou,Zunyi,Fecal,Breeding,Healthy,,2020.07.25,15
+HB-GZ-MO-1,Hystrix brachyura,Rodentia,Guizhou,Zunyi,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.09.02,1
+HB-HuB-A-1,Hystrix brachyura,Rodentia,Hubei,Tianmen,Anal swab ,Breeding,Healthy,,2020.07.17,10
+HB-HuB-A-2,Hystrix brachyura,Rodentia,Hubei,Tianmen,Anal swab ,Breeding,Healthy,,2020.07.17,10
+HB-HuB-A-3,Hystrix brachyura,Rodentia,Hubei,Tianmen,Anal swab ,Breeding,Healthy,,2020.07.17,10
+HB-HuB-N-3,Hystrix brachyura,Rodentia,Hubei,Tianmen,Nasal swab,Breeding,Healthy,,2020.07.17,
+HB-HuB-F-1,Hystrix brachyura,Rodentia,Hubei,Tianmen,Fecal,Breeding,Healthy,,2020.07.17,10
+HB-HuB-F-2,Hystrix brachyura,Rodentia,Hubei,Tianmen,Fecal,Breeding,Healthy,,2020.07.17,10
+HB-HuB-F-3,Hystrix brachyura,Rodentia,Hubei,Tianmen,Fecal,Breeding,Healthy,,2020.09.01,10
+HB-HuB-F-4,Hystrix brachyura,Rodentia,Hubei,Tianmen,Fecal,Breeding,Healthy,,2020.09.01,10
+HB-HuB-MO-1,Hystrix brachyura,Rodentia,Hubei,Tianmen,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.09.01,2
+HB-JS-TNA-1,Hystrix brachyura,Rodentia,Jiangsu,Nanjing,Throat swab + Nasal swab + Anal swab ,Zoo,Healthy,,2020.06.28,6
+HB-JS-TNA-2,Hystrix brachyura,Rodentia,Jiangsu,Nanjing,Throat swab + Nasal swab + Anal swab ,Zoo,Healthy,,2020.07.07,6
+HB-JX-F-1,Hystrix brachyura,Rodentia,Jiangxi,Pingxiang,Fecal,Breeding,Healthy,,2020.07.07,15
+HB-JX-F-2,Hystrix brachyura,Rodentia,Jiangxi,Pingxiang,Fecal,Breeding,Healthy,,2020.07.07,15
+HB-JX-F-3,Hystrix brachyura,Rodentia,Jiangxi,Jiujiang,Fecal,Breeding,Healthy,,2020.07.27,7
+HB-JX-F-4,Hystrix brachyura,Rodentia,Jiangxi,Pingxiang,Fecal,Breeding,Healthy,,2020.10.06,1
+HB-JX-L-1,Hystrix brachyura,Rodentia,Jiangxi,Pingxiang,Lung,Breeding,Unhealthy,"Death, symptoms unknown",2020.10.06,1
+HB-YN-A-2,Hystrix brachyura,Rodentia,Yunnan,Kunming,Anal swab ,Breeding,Healthy,,2020.07.27,10
+HB-YN-F-1,Hystrix brachyura,Rodentia,Yunnan,Kunming,Fecal,Breeding,Healthy,,2020.07.27,15
+HB-YN-F-2,Hystrix brachyura,Rodentia,Yunnan,Kunming,Fecal,Breeding,Healthy,,2020.07.27,15
+HB-ZJ-F-2,Hystrix brachyura,Rodentia,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.03.06-2020.05.11,3
+MC-FJ-MO-1,Myocastor coypus,Rodentia,Fujian,Zhangzhou,Mixed organs,Wild,Unhealthy,"Death, symptoms unknown",2021.05.29,3
+MC-FJ-NA-1,Myocastor coypus,Rodentia,Fujian,Sanming,Nasal swab + Anal swab ,Breeding,Healthy,,2020.06.21,8
+MC-GS-MO-1,Myocastor coypus,Rodentia,Gansu,Wuwei,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown. Autopsy: emphysema",2020.09.25,2
+MC-GS-MO-2,Myocastor coypus,Rodentia,Gansu,Wuwei,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.09.25,2
+MC-GX-A-1,Myocastor coypus,Rodentia,Guangxi,Guilin,Anal swab,Breeding,Healthy,,2020.07.09,12
+MC-GX-A-2,Myocastor coypus,Rodentia,Guangxi,Guilin,Anal swab,Breeding,Healthy,,2020.07.09,11
+MC-GX-T-1,Myocastor coypus,Rodentia,Guangxi,Liuzhou,Throat swab,Breeding,Healthy,,2020.08.01,29
+MC-GX-A-3,Myocastor coypus,Rodentia,Guangxi,Liuzhou,Anal swab ,Breeding,Healthy,,2020.08.01,
+MC-GX-T-2,Myocastor coypus,Rodentia,Guangxi,Liuzhou,Throat swab,Breeding,Healthy,,2020.08.01,
+MC-GX-A-4,Myocastor coypus,Rodentia,Guangxi,Liuzhou,Anal swab ,Breeding,Healthy,,2020.08.01,
+MC-GX-F-1,Myocastor coypus,Rodentia,Guangxi,Guilin,Fecal,Breeding,Healthy,,2020.07.09,20
+MC-GX-F-2,Myocastor coypus,Rodentia,Guangxi,Guilin,Fecal,Breeding,Healthy,,2020.07.09,20
+MC-GX-F-3,Myocastor coypus,Rodentia,Guangxi,Liuzhou,Fecal,Breeding,Healthy,,2020.08.01,17
+MC-GX-F-4,Myocastor coypus,Rodentia,Guangxi,Liuzhou,Fecal,Breeding,Healthy,,2020.08.01,17
+MC-HeB-F-1,Myocastor coypus,Rodentia,Hebei,Baoding,Fecal,Breeding,Healthy,,2020.07.26,20
+MC-HeB-F-2,Myocastor coypus,Rodentia,Hebei,Baoding,Fecal,Breeding,Healthy,,2020.07.26,20
+MC-HeB-F-3,Myocastor coypus,Rodentia,Hebei,Baoding,Fecal,Breeding,Healthy,,2020.07.26,20
+MC-HeB-T-1,Myocastor coypus,Rodentia,Hebei,Baoding,Throat swab,Breeding,Healthy,,2020.07.26,10
+MC-HeB-T-2,Myocastor coypus,Rodentia,Hebei,Baoding,Throat swab,Breeding,Healthy,,2020.07.26,10
+MC-HuN-A-1,Myocastor coypus,Rodentia,Hunan,Yongzhou,Anal swab ,Breeding,Healthy,,2020.07.25,15
+MC-HuN-T-1,Myocastor coypus,Rodentia,Hunan,Yongzhou,Throat swab,Breeding,Healthy,,2020.07.25,
+MC-HuN-A-2,Myocastor coypus,Rodentia,Hunan,Yongzhou,Anal swab ,Breeding,Healthy,,2020.07.25,15
+MC-HuN-T-2,Myocastor coypus,Rodentia,Hunan,Yongzhou,Throat swab,Breeding,Healthy,,2020.07.25,
+MC-HuN-F-1,Myocastor coypus,Rodentia,Hunan,Yongzhou,Fecal,Breeding,Healthy,,2020.07.25,16
+MC-HuN-F-2,Myocastor coypus,Rodentia,Hunan,Yongzhou,Fecal,Breeding,Healthy,,2020.07.25,15
+MC-JS-TNA-1,Myocastor coypus,Rodentia,Jiangsu,Nanjing,Throat swab + Nasal swab + Anal swab ,Zoo,Healthy,,2020.06.18,6
+MC-JS-TNA-2,Myocastor coypus,Rodentia,Jiangsu,Nanjing,Throat swab + Nasal swab + Anal swab ,Zoo,Healthy,,2020.07.07,3
+MC-ZJ-F-1,Myocastor coypus,Rodentia,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.03.04-2020.06.15,12
+MC-ZJ-F-2,Myocastor coypus,Rodentia,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.03.04-2020.06.15,
+MC-ZJ-NA-1,Myocastor coypus,Rodentia,Zhejiang,Jinhua,Nasal swab + Anal swab ,Zoo,Healthy,,2020.03.17-2020.06.15,
+RP-FJ-A-1,Rhizomys pruinosus,Rodentia,Fujian,Zhangzhou,Anal swab ,Breeding,Healthy,,2020.07.20,11
+RP-FJ-T-1,Rhizomys pruinosus,Rodentia,Fujian,Zhangzhou,Throat swab,Breeding,Healthy,,2020.07.20,
+RP-FJ-A-2,Rhizomys pruinosus,Rodentia,Fujian,Zhangzhou,Anal swab ,Breeding,Healthy,,2020.07.20,10
+RP-FJ-T-2,Rhizomys pruinosus,Rodentia,Fujian,Zhangzhou,Throat swab,Breeding,Healthy,,2020.07.20,
+RP-FJ-F-1,Rhizomys pruinosus,Rodentia,Fujian,Zhangzhou,Fecal,Breeding,Healthy,,2020.07.20,20
+RP-FJ-F-2,Rhizomys pruinosus,Rodentia,Fujian,Zhangzhou,Fecal,Breeding,Healthy,,2020.07.20,20
+RP-FJ-F-3,Rhizomys pruinosus,Rodentia,Fujian,Zhangzhou,Fecal,Breeding,Healthy,,2020.07.20,20
+RP-GX-A-1,Rhizomys pruinosus,Rodentia,Guangxi,Guilin,Anal swab,Breeding,Healthy,,2020.07.13,15
+RP-GX-F-1,Rhizomys pruinosus,Rodentia,Guangxi,Guilin,Fecal,Breeding,Healthy,,2020.07.13,17
+RP-GX-F-2,Rhizomys pruinosus,Rodentia,Guangxi,Guilin,Fecal,Breeding,Healthy,,2020.07.13,17
+RP-GX-F-3,Rhizomys pruinosus,Rodentia,Guangxi,Guilin,Fecal,Breeding,Healthy,,2020.07.13,16
+RP-HeN-MO-1,Rhizomys pruinosus,Rodentia,Henan,Xinyang,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.07.19,3
+RP-HeN-NT-1,Rhizomys pruinosus,Rodentia,Henan,Xinyang,Throat swab + Nasal swab,Breeding,Healthy,,2020.07.19,20
+RP-JX-A-1,Rhizomys pruinosus,Rodentia,Jiangxi,Pingxiang,Anal swab ,Breeding,Healthy,,2020.07.16,9
+RP-JX-A-2,Rhizomys pruinosus,Rodentia,Jiangxi,Pingxiang,Anal swab ,Breeding,Healthy,,2020.07.16,8
+RP-JX-A-3,Rhizomys pruinosus,Rodentia,Jiangxi,Ganzhou,Anal swab ,Breeding,Healthy,,2020.11.04,22
+RP-JX-F-1,Rhizomys pruinosus,Rodentia,Jiangxi,Pingxiang,Fecal,Breeding,Healthy,,2020.07.16,17
+RP-JX-F-2,Rhizomys pruinosus,Rodentia,Jiangxi,Pingxiang,Fecal,Breeding,Healthy,,2020.07.16,17
+RP-JX-F-3,Rhizomys pruinosus,Rodentia,Jiangxi,Pingxiang,Fecal,Breeding,Healthy,,2020.07.16,16
+RP-JX-MO-1,Rhizomys pruinosus,Rodentia,Jiangxi,Ganzhou,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.11.04,4
+RP-ZJ-F-1,Rhizomys pruinosus,Rodentia,Zhejiang,Wenzhou,Fecal,Breeding,Healthy,,2020.05.07,24
+RP-ZJ-F-2,Rhizomys pruinosus,Rodentia,Zhejiang,Wenzhou,Fecal,Breeding,Healthy,,2020.05.07,23
+RP-ZJ-F-3,Rhizomys pruinosus,Rodentia,Zhejiang,Lishui,Fecal,Breeding,Healthy,,2020.05.21,13
+RP-ZJ-NA-1,Rhizomys pruinosus,Rodentia,Zhejiang,Lishui,Nasal swab + Anal swab ,Breeding,Healthy,,2020.05.21,27
+MH-HeB-NA-1,Marmota himalayana,Rodentia,Hebei,Tangshan,Nasal swab + Anal swab ,Zoo,Healthy,,2020.06.22,3
+MH-JS-NATF-2,Marmota himalayana,Rodentia,Jiangsu,Nanjing,Throat swab + Nasal swab + Anal swab + fecal,Zoo,Healthy,,2020.07.07,3
+MH-JS-TNA-1,Marmota himalayana,Rodentia,Jiangsu,Nanjing,Throat swab + Nasal swab + Anal swab ,Zoo,Healthy,,2020.06.18,4
+MH-LN-F-1,Marmota himalayana,Rodentia,Liaoning,Shenyang,Fecal,Wild,Healthy,,2020.09.10,3
+MH-LN-MO-1,Marmota himalayana,Rodentia,Liaoning,Shenyang,Mixed organs,Wild,Unhealthy,"Death, runny nose and sneezing, hair slip and shaggy",2020.07.25,1
+MH-LN-MO-2,Marmota himalayana,Rodentia,Liaoning,Shenyang,Mixed organs,Wild,Unhealthy,"Death, runny nose and sneezing",2020.07.25,1
+MH-SC-MO-1,Marmota himalayana,Rodentia,Sichuan,Dazhou,Mixed organs,Wild,Unhealthy,"Death, symptoms unknown",2021.06.01,1
+MH-SD-L-1,Marmota himalayana,Rodentia,Shandong,Weifang,Lung,Breeding,Unhealthy,"Death, sneezing",2021.10.26,1
+MH-ZJ-F-1,Marmota himalayana,Rodentia,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.03.04-2020.03.15,2
+MH-ZJ-F-2,Marmota himalayana,Rodentia,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.03.19-2020.04.04,
+MH-ZJ-F-3,Marmota himalayana,Rodentia,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.03.06-2020.06.15,
+MH-ZJ-NA-1,Marmota himalayana,Rodentia,Zhejiang,Jinhua,Nasal swab + Anal swab ,Zoo,Healthy,,2020.03.06-2020.06.15,
+CL-JS-F-3,Cynomys ludovicianus,Rodentia,Jiangsu,Nanjing,Fecal,Breeding,Healthy,,2020.07.24,30
+CL-JS-F-4,Cynomys ludovicianus,Rodentia,Jiangsu,Nanjing,Fecal,Breeding,Healthy,,2020.07.24,30
+SD-LN-MO-1,Spermophilus dauricus,Rodentia,Liaoning,Jinzhou,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021.09.01,3
+CE-GD-MO-1,Callosciurus erythraeus,Rodentia,Guangdong,Maoming,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021.05.12,5
+CE-GD-MO-2,Callosciurus erythraeus,Rodentia,Guangdong,Maoming,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021.03.21,5
+CE-ZJ-MO-1,Callosciurus erythraeus,Rodentia,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, symptoms unknown",2020.05.30,1
+SV-FJ-MO-1,Sciurus vulgaris,Rodentia,Fujian,Fuzhou,Mixed organs,Wild,Unhealthy,"Death, symptoms unknown",2021.04.28,3
+SV-HeB-FA-1,Sciurus vulgaris,Rodentia,Hebei,Tangshan,Fecal+ Anal swab ,Breeding,Unhealthy,"Alive, diarrhea",2020.07.24,1
+MJ-ZJ-F-1,Manis javanica,Pholidota,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.04.01-2020.06.15,12
+MJ-ZJ-F-3,Manis javanica,Pholidota,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.03.15-2020.03.28,
+MJ-ZJ-F-4,Manis javanica,Pholidota,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.02.25,
+MJ-ZJ-F-5,Manis javanica,Pholidota,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.03.15-2020.03.28,
+MJ-ZJ-F-6,Manis javanica,Pholidota,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.02.24,
+MJ-ZJ-NA-1,Manis javanica,Pholidota,Zhejiang,Jinhua,Nasal swab + Anal swab ,Zoo,Healthy,,2020.04.01-2020.06.15,
+MJ-ZJ-NA-2,Manis javanica,Pholidota,Zhejiang,Jinhua,Nasal swab + Anal swab ,Zoo,Healthy,,2020.04.01-2020.06.15,
+MJ-ZJ-MO-1,Manis javanica,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, clinical symptoms while alive: multiple injuries to the face, back, and legs; Necropsy: liver hemorrhage, pneumonia, lung atrophy, pulmonary hemorrhage and congestion.",2019.07.19,1
+MJ-ZJ-MO-2,Manis javanica,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, clinical symptoms while alive:: multiple scratches on the back, severe injuries to the inside of the left forelimb and the inside of the right hind limb; Necropsy: emphysema, ascites, liver congestion, gall bladder enlargement, cholestasis.",2019.07.22,1
+MJ-ZJ-MO-3,Manis javanica,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, clinical symptoms while alive: scratches on the abdomen, tip of the nose, behind the ear and on the soles of the feet; Necropsy: splenic blackness, gastric mucosa shedding, severe gastritis, and massive submucosal bleeding.",2019.09.13,1
+MJ-ZJ-MO-4,Manis javanica,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, clinical symptoms when alive: severe dehydration, abdominal distension; There were many injuries in the Java and mouth. Autopsy showed mesenteric lymph node hemorrhage, splenic hemorrhagic infarction, liver hemorrhage, chronic superficial gastric ulcer, and foreign body in the stomach.",2017.12.31,1
+MJ-ZJ-MO-5,Manis javanica,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, clinical symptoms while alive: forepaw trauma, diarrhea, late loss of appetite, autopsy: liver, spleen, kidney with dense spot-like white processes, pneumonia, gastroenteritis, foreign bodies in the stomach.",2018.04.02,1
+MJ-ZJ-MO-6,Manis javanica,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, clinical symptoms while alive:  poor constitution, nose tip, abdominal scratches, sticky feces with parasites. Autopsy: pregnancy, enteritis.",2019.08.22,1
+MJ-ZJ-MO-7,Manis javanica,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, clinical symptoms while alive: tail loss, left forelimb loss, abdominal scratches. Necropsy: pneumonia, liver black.",2019.08.01,1
+MJ-ZJ-MO-8,Manis javanica,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, clinical symptoms while alive: Diarrhea, convulsions and death.",2020.09.14,1
+MJ-ZJ-MO-9,Manis javanica,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, clinical symptoms while alive: weakness, trauma, infection, ticks under scales; Injury to the left eye, unable to open properly, trauma to the front paw. Necropsy: severe intestinal distension, abdominal effusion, foreign body in stomach, severe gastric bleeding, pregnancy.",2017.06.18,1
+MP-ZJ-F-1,Manis pentadactyla,Pholidota,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.02.23,3
+MP-ZJ-F-2,Manis pentadactyla,Pholidota,Zhejiang,Jinhua,Fecal,Zoo,Unhealthy,"Alive, Diarrhea",2020.09.21,
+MP-ZJ-MO-1,Manis pentadactyla,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, Clinical symptoms while alive:  diarrhea, dehydration, and weakness. Autopsy: hemorrhagic spots in the liver and small intestine, black spleen, hemorrhagic infarcts at the edges of the spleen, and cholestasis.",2018.03.22,1
+MP-ZJ-MO-2,Manis pentadactyla,Pholidota,Zhejiang,Huzhou,Mixed organs,Wild,Healthy,"Death, died from the car's hitting",2021.10.02,1
+MP-ZJ-MO-3,Manis pentadactyla,Pholidota,Zhejiang,Wenzhou,Mixed organs,Wild,Unhealthy,"Death, Necropsy: liver hemorrhage; Black hemorrhagic infarction of the spleen is black; Ileal hemorrhage; Pulmonary hemorrhage, dark brown overall.",2019.09.13,1
+MP-ZJ-MO-4,Manis pentadactyla,Pholidota,Zhejiang,Jinhua,Mixed organs,Wild,Unhealthy,"Death, Clinical symptoms while alive: black right forelimb, bleeding anus, broken fingers, red snout, diarrhea, once ticks. Necropsy: liver bleeding, lung consolidation and bleeding.",2019.09.14,1
+MP-ZJ-MO-5,Manis pentadactyla,Pholidota,Zhejiang,Wenzhou,Mixed organs,Zoo,Unhealthy,"Death, symptoms unknown",2021.06,1
+MP-ZJ-NTAF-3,Manis pentadactyla,Pholidota,Zhejiang,Jinhua,Nasal swab + Anal swab + Throat swab + fecal,Zoo,Unhealthy,"Alive, Diarrhea",2021.06,4
+PL-AH-F-1,Paguma larvata,Carnivora,Anhui,Chizhou,Fecal,Breeding,Healthy,,2020.07.04,21
+PL-AH-F-2,Paguma larvata,Carnivora,Anhui,Hefei,Fecal,Breeding,Healthy,,2020.07.12,25
+PL-AH-F-3,Paguma larvata,Carnivora,Anhui,Hefei,Fecal,Breeding,Healthy,,2020.07.12,25
+PL-AH-MO-1,Paguma larvata,Carnivora,Anhui,Chizhou,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.07.04,3
+PL-AH-MO-2,Paguma larvata,Carnivora,Anhui,Chizhou,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.07.04,2
+PL-AH-MO-3,Paguma larvata,Carnivora,Anhui,Hefei,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.07.17,1
+PL-AH-MO-4,Paguma larvata,Carnivora,Anhui,Hefei,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.07.17,1
+PL-AH-MO-5,Paguma larvata,Carnivora,Anhui,Hefei,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.07.17,1
+PL-AH-NA-1,Paguma larvata,Carnivora,Anhui,Hefei,Nasal swab + Anal swab ,Zoo,Healthy,,2020.07.20,5
+PL-GX-A-1,Paguma larvata,Carnivora,Guangxi,Nanning,Anal swab,Breeding,Healthy,,2020.07.01,10
+PL-GX-A-6,Paguma larvata,Carnivora,Guangxi,Yulin,Anal swab ,Breeding,Healthy,,2020.07.14,10
+PL-GX-A-7,Paguma larvata,Carnivora,Guangxi,Yulin,Anal swab ,Breeding,Healthy,,2020.07.14,10
+PL-GX-A-8,Paguma larvata,Carnivora,Guangxi,Yulin,Anal swab ,Breeding,Healthy,,2020.07.14,10
+PL-GX-F-1,Paguma larvata,Carnivora,Guangxi,Nanning,Fecal,Breeding,Healthy,,2020.07.01,20
+PL-GX-F-2,Paguma larvata,Carnivora,Guangxi,Nanning,Fecal,Breeding,Healthy,,2020.07.01,20
+PL-GX-F-3,Paguma larvata,Carnivora,Guangxi,Nanning,Fecal,Breeding,Healthy,,2020.07.01,20
+PL-GX-F-4,Paguma larvata,Carnivora,Guangxi,Nanning,Fecal,Breeding,Healthy,,2020.07.01,20
+PL-GX-F-5,Paguma larvata,Carnivora,Guangxi,Nanning,Fecal,Breeding,Healthy,,2020.07.01,20
+PL-GX-F-6,Paguma larvata,Carnivora,Guangxi,Yulin,Fecal,Breeding,Healthy,,2020.07.14,17
+PL-GX-F-7,Paguma larvata,Carnivora,Guangxi,Yulin,Fecal,Breeding,Healthy,,2020.07.14,17
+PL-GX-F-8,Paguma larvata,Carnivora,Guangxi,Yulin,Fecal,Breeding,Healthy,,2020.07.14,16
+PL-GX-T-1,Paguma larvata,Carnivora,Guangxi,Nanning,Throat swab,Breeding,Healthy,,2020.07.01,10
+PL-HaiN-F-1,Paguma larvata,Carnivora,Hainan,Haikou,Fecal,Breeding,Healthy,,2020.06.04,8
+PL-HaiN-NA-1,Paguma larvata,Carnivora,Hainan,Haikou,Nasal swab + Anal swab ,Breeding,Healthy,,2020.06.04,7
+PL-HuN-FA-1,Paguma larvata,Carnivora,Hunan,Zhuzhou,Fecal+ Anal swab ,Breeding,Unhealthy,"Alive, diarrhea",2020.07.24,28
+PL-SC-F-1,Paguma larvata,Carnivora,Sichuan,Yibin,Fecal,Breeding,Healthy,,2020.07.15,20
+PL-SC-F-2,Paguma larvata,Carnivora,Sichuan,Yibin,Fecal,Breeding,Healthy,,2020.07.15,20
+PL-SC-F-3,Paguma larvata,Carnivora,Sichuan,Yibin,Fecal,Breeding,Healthy,,2020.07.15,20
+PL-SC-F-4,Paguma larvata,Carnivora,Sichuan,Yibin,Fecal,Breeding,Healthy,,2020.07.15,20
+PL-YN-NATF-1,Paguma larvata,Carnivora,Yunnan,Honghe,Throat swab + Nasal swab + Anal swab + fecal,Breeding,Healthy,,2020.10.06,10
+PL-ZJ-F-1,Paguma larvata,Carnivora,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.03.06-2020.04.27,6
+PL-ZJ-F-2,Paguma larvata,Carnivora,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.04.28-2020.06.10,
+PL-ZJ-NA-1,Paguma larvata,Carnivora,Zhejiang,Jinhua,Nasal swab + Anal swab ,Zoo,Healthy,,2020.03.06-2020.06.10,
+NP-HeB-MO-1,Nyctereutes procyonoides,Carnivora,Hebei,Baoding,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.12.21,2
+NP-HeB-G-1,Nyctereutes procyonoides,Carnivora,Hebei,Shijiazhuang,Gut,Breeding,Unhealthy,"Death, diarrhea",2021,1
+NP-HeB-MO-2,Nyctereutes procyonoides,Carnivora,Hebei,Shijiazhuang,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021,3
+NP-HeB-MO-3,Nyctereutes procyonoides,Carnivora,Hebei,Shijiazhuang,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021,3
+NP-HeB-MO-4,Nyctereutes procyonoides,Carnivora,Hebei,Shijiazhuang,Mixed organs,Breeding,Unhealthy,"Death, diarrhea",2021,3
+NP-HeB-N-1,Nyctereutes procyonoides,Carnivora,Hebei,Qinhuangdao,Nasal swab,Breeding,Unhealthy,"Alive, runny nose",2021.11.19,8
+NP-HeB-N-2,Nyctereutes procyonoides,Carnivora,Hebei,Qinhuangdao,Nasal swab,Breeding,Unhealthy,"Alive, runny nose",2021.11.19,7
+NP-SD-A-1,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Anal swab ,Breeding,Healthy,,2021.12.03,10
+NP-SD-F-1,Nyctereutes procyonoides,Carnivora,Shandong,Heze,Fecal,Breeding,Healthy,,2021.09.20,10
+NP-SD-F-2,Nyctereutes procyonoides,Carnivora,Shandong,Heze,Fecal,Breeding,Healthy,,2021.09.20,9
+NP-SD-F-3,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Fecal,Breeding,Unhealthy,"Alive, diarrhea",2021.11.27,14
+NP-SD-G-1,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Gut,Breeding,Unhealthy,"Death, diarrhea",2021.11.21,1
+NP-SD-L-1,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Lung,Breeding,Unhealthy,"Death, cough",2021.11.23,1
+NP-SD-MO-1,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021,1
+NP-SD-MO-2,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021,1
+NP-SD-MO-3,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021,1
+NP-SD-MO-4,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021,1
+NP-SD-MO-5,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021,1
+NP-SD-MO-6,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2021,1
+NP-SD-N-1,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Nasal swab,Breeding,Healthy,,2021.11.23,7
+NP-SD-N-2,Nyctereutes procyonoides,Carnivora,Shandong,Weifang,Nasal swab,Breeding,Healthy,,2021.11.23,7
+NP-SD-S-1,Nyctereutes procyonoides,Carnivora,Shandong,Heze,Spleen,Breeding,Healthy,,2021.09.20,3
+AC-ZJ-MO-1,Arctonyx collaris,Carnivora,Zhejiang,Ningbo,Mixed organs,Wild,Unhealthy,"Death, symptoms unknown",2020.07.13,1
+ML-HeB-F-1,Meles leucurus,Carnivora,Hebei,Hengshui,Fecal,Breeding,Unhealthy,"Alive, runny nose",2020.07.25,15
+ML-HeB-F-2,Meles leucurus,Carnivora,Hebei,Hengshui,Fecal,Breeding,Unhealthy,"Alive, runny nose",2020.07.25,16
+ML-HeB-F-3,Meles leucurus,Carnivora,Hebei,Hengshui,Fecal,Breeding,Healthy,,2020.10.20,1
+ML-HeB-F-4,Meles leucurus,Carnivora,Hebei,Hengshui,Fecal,Breeding,Healthy,,2020.10.20,1
+ML-HeB-F-5,Meles leucurus,Carnivora,Hebei,Hengshui,Fecal,Breeding,Healthy,,2020.10.20,1
+ML-HeB-F-6,Meles leucurus,Carnivora,Hebei,Hengshui,Fecal,Breeding,Healthy,,2020.10.20,1
+ML-SD-F-1,Meles leucurus,Carnivora,Shandong,Zibo,Fecal,Breeding,Healthy,,2020.10.17,1
+ML-SD-F-2,Meles leucurus,Carnivora,Shandong,Zibo,Fecal,Breeding,Healthy,,2020.10.17,1
+ML-SD-MO-1,Meles leucurus,Carnivora,Shandong,Zibo,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.11.03,3
+ML-SD-T-1,Meles leucurus,Carnivora,Shandong,Zibo,Throat swab,Breeding,Healthy,,2020.11.03,20
+MM-ZJ-MO-1,Melogale moschata,Carnivora,Zhejiang,Ningbo,Mixed organs,Wild,Unhealthy,"Death, symptoms unknown",2020.07.13,1
+VL-HLJ-L-1,Vulpes lagopus,Carnivora,Heilongjiang,Haerbin,Lung,Breeding,Unhealthy,"Death, symptoms unknown",2021.11.18,5
+VL-JX-MO-1,Vulpes lagopus,Carnivora,Jiangxi,Pingxiang,Mixed organs,Wild,Unhealthy,"Death, symptoms unknown",2021.06.22,1
+VL-SD-G-1,Vulpes lagopus,Carnivora,Shandong,Taian,Gut,Breeding,Healthy,,2021.10.20,9
+VL-ZJ-NA-1,Vulpes lagopus,Carnivora,Zhejiang,Ningbo,Nasal swab + Anal swab,Breeding,Unhealthy,"Death, symptoms unknown",2020.07.13,1
+EA-AH-L-1,Erinaceus amurensis,Eulipotyphla,Anhui,Suzhou,Lung,Wild,Unhealthy,"Death, autopsy: Pulmonary venous pleonaemia",2021.10.14,1
+EA-AH-MO-1,Erinaceus amurensis,Eulipotyphla,Anhui,Suzhou,Mixed organs,Wild,Unhealthy,"Death, autopsy: Scattered calcifications in the lungs",2021.05.11,3
+EA-AH-MO-2,Erinaceus amurensis,Eulipotyphla,Anhui,Fuyang,Mixed organs,Wild,Unhealthy,"Death, autopsy: Scattered calcifications in the lungs",2021.05.02,3
+EA-HeB-MO-1,Erinaceus amurensis,Eulipotyphla,HeBei,Langfang,Mixed organs,Wild,Unhealthy,"Death, autopsy: Scattered calcifications in the lungs",2021.11.21,3
+EA-HeN-F-1,Erinaceus amurensis,Eulipotyphla,Henan,Pingdingshan,Fecal,Breeding,Healthy,,2020.10.22,11
+EA-HeN-F-2,Erinaceus amurensis,Eulipotyphla,Henan,Pingdingshan,Fecal,Breeding,Healthy,,2020.10.22,11
+EA-HeN-F-3,Erinaceus amurensis,Laurasiatheria,Henan,Pingdingshan,Fecal,Breeding,Healthy,,2020.10.22,1
+EA-HeN-F-4,Erinaceus amurensis,Laurasiatheria,Henan,Pingdingshan,Fecal,Breeding,Healthy,,2020.10.22,1
+EA-HeN-G-1,Erinaceus amurensis,Laurasiatheria,Henan,Pingdingshan,Gut,Breeding,Unhealthy,"Death, symptoms unknown",2020.10.22,1
+EA-HeN-L-1,Erinaceus amurensis,Laurasiatheria,Henan,Pingdingshan,Lung,Breeding,Unhealthy,"Death, symptoms unknown",2020.10.22,1
+EA-HeN-L-2,Erinaceus amurensis,Laurasiatheria,Henan,Pingdingshan,Lung,Breeding,Unhealthy,"Death, symptoms unknown",2020.10.22,1
+EA-HeN-Ly-1,Erinaceus amurensis,Laurasiatheria,Henan,Pingdingshan,Lymph,Breeding,Unhealthy,"Death, symptoms unknown",2020.10.22,1
+EA-HeN-T-1,Erinaceus amurensis,Eulipotyphla,Henan,Pingdingshan,Throat swab,Breeding,Healthy,,2020.10.22,6
+EA-SD-MO-1,Erinaceus amurensis,Eulipotyphla,Shandong,Linyi,Mixed organs,Breeding,Unhealthy,"Death, autopsy: Scattered calcifications in the lungs",2020.09.27,3
+EA-SD-MO-2,Erinaceus amurensis,Eulipotyphla,Shandong,Linyi,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.09.27,3
+EA-SX-L-1,Erinaceus amurensis,Eulipotyphla,Shanxi,Lvliang,Lung,Wild,Unhealthy,"Death, symptoms unknown",2020.08.30,1
+EA-SX-MO-1,Erinaceus amurensis,Eulipotyphla,Shanxi,Lvliang,Mixed organs,Breeding,Unhealthy,"Death, autopsy: Scattered calcifications in the lungs",2020.11.10,4
+EA-SX-NA-1,Erinaceus amurensis,Eulipotyphla,Shanxi,Lvliang,Nasal swab + Anal swab,Breeding,Healthy,,2020.11.10,20
+OC-GD-F-1,Oryctolagus cuniculus,Lagomorpha,Guangdong,Guangzhou,Fecal,Breeding,Healthy,,2020.06.28,29
+OC-GD-F-2,Oryctolagus cuniculus,Lagomorpha,Guangdong,Guangzhou,Fecal,Breeding,Healthy,,2020.06.28,21
+OC-JS-NATF-2,Oryctolagus cuniculus,Lagomorpha,Jiangsu,Nanjing,Throat swab + Nasal swab + Anal swab + fecal,Zoo,Healthy,,2020.07.07,9
+OC-JS-TNA-1,Oryctolagus cuniculus,Lagomorpha,Jiangsu,Nanjing,Throat swab + Nasal swab + Anal swab ,Zoo,Healthy,,2020.06.29,9
+OC-ZJ-F-1,Oryctolagus cuniculus,Lagomorpha,Zhejiang,Jinhua,Fecal,Zoo,Healthy,,2020.04.20-2020.06.10,12
+OC-ZJ-MO-1,Oryctolagus cuniculus,Lagomorpha,Zhejiang,Jinhua,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.08.11,3
+OC-ZJ-MO-2,Oryctolagus cuniculus,Lagomorpha,Zhejiang,Jinhua,Mixed organs,Breeding,Unhealthy,"Death, symptoms unknown",2020.08.11,3

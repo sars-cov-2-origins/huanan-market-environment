@@ -1,0 +1,22 @@
+##fileformat=VCFv4.0
+##fileDate=20230602
+##source=lofreq call --max-depth 50 -r NC_012920.1 -f mitochondria_dereplicated93_final.fasta -o Homo_sapiens_SRR23971469_HJ200031-20200112-1_West-8-25_cov51.0.vcf Homo_sapiens_SRR23971469_HJ200031-20200112-1_West-8-25_cov51.0.bam 
+##reference=mitochondria_dereplicated93_final.fasta
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Raw Depth">
+##INFO=<ID=AF,Number=1,Type=Float,Description="Allele Frequency">
+##INFO=<ID=SB,Number=1,Type=Integer,Description="Phred-scaled strand bias at this position">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Counts for ref-forward bases, ref-reverse, alt-forward and alt-reverse bases">
+##INFO=<ID=INDEL,Number=0,Type=Flag,Description="Indicates that the variant is an INDEL.">
+##INFO=<ID=CONSVAR,Number=0,Type=Flag,Description="Indicates that the variant is a consensus variant (as opposed to a low frequency variant).">
+##INFO=<ID=HRUN,Number=1,Type=Integer,Description="Homopolymer length to the right of report indel position">
+##FILTER=<ID=min_dp_10,Description="Minimum Coverage 10">
+##FILTER=<ID=sb_fdr,Description="Strand-Bias Multiple Testing Correction: fdr corr. pvalue > 0.001000">
+##FILTER=<ID=min_snvqual_49,Description="Minimum SNV Quality (Phred) 49">
+##FILTER=<ID=min_indelqual_20,Description="Minimum Indel Quality (Phred) 20">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NC_012920.1	750	.	A	G	1217	PASS	DP=47;AF=0.936170;SB=0;DP4=1,0,42,4
+NC_012920.1	2609	.	T	C	102	PASS	DP=19;AF=0.263158;SB=0;DP4=8,6,3,2
+NC_012920.1	2706	.	A	G	1298	PASS	DP=51;AF=1.000000;SB=0;DP4=0,0,33,18
+NC_012920.1	11914	.	G	A	289	PASS	DP=10;AF=1.000000;SB=0;DP4=0,0,6,4
+NC_012920.1	11969	.	G	A	341	PASS	DP=11;AF=1.000000;SB=0;DP4=0,0,3,8
+NC_012920.1	13928	.	G	A	439	PASS	DP=14;AF=1.000000;SB=0;DP4=0,0,5,9

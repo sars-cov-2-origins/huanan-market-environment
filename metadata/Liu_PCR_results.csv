@@ -1,0 +1,74 @@
+Sample ID,Lab code,Sample type,Sampling date,PCR,CT,PCR target,NGS
+Env_0275,E61,Ground,01/01/2020,+,36.04,ORF1ab/N,Yes
+Env_0101,A101,Surface of the door,01/01/2020,+,36.82,ORF1ab/N,Yes
+Env_0014,A14,Surface of packing bag for hairtail,01/01/2020,+,36.42,ORF1ab/N,Yes
+Env_0015,A15,Surface of the door,01/01/2020,+,35.51,ORF1ab/N,Yes
+Env_0018,A18,Shoe covers and soles,01/01/2020,+,33.79,ORF1ab/N,Yes
+Env_0002,A2,Ground,01/01/2020,+,35.07,ORF1ab/N,Yes
+Env_0020,A20f,Gloves,01/01/2020,+,32.48,ORF1ab/N,Yes
+Env_0033,A33,Garbage truck,01/01/2020,+,34.46,ORF1ab/N,Yes
+Env_0055,A55,Ground,01/01/2020,+,34.84,ORF1ab/N,Yes
+Env_0061,A61,Ground,01/01/2020,+,32.04,ORF1ab/N,Yes
+Env_0063,A63,Ground,01/01/2020,+,34.43,ORF1ab/N,Yes
+Env_0087,A87,Surface of the door,01/01/2020,+,36.94,ORF1ab/N,Yes
+Env_0088,A88,Ground,01/01/2020,+,36.69,ORF1ab/N,Yes
+Env_0090,A90,Ground,01/01/2020,+,33.14,ORF1ab/N,Yes
+Env_0096,A96,Ground,01/01/2020,+,33.97,ORF1ab/N,Yes
+Env_0138,B17,Scale,01/01/2020,+,34.16,ORF1ab/N,Yes
+Env_0126,"B5b, f",Ground,01/01/2020,+,29.32,ORF1ab/N,Yes
+Env_0213,D32,Surface of a cart,01/01/2020,+,33.72,ORF1ab/N,Yes
+Env_0262,E48,Blood on the ground in front of the door,01/01/2020,+,35.93,ORF1ab/N,Yes
+Env_0221,E7,Styrofoam desk in front of the door,01/01/2020,+,36.44,ORF1ab/N,Yes
+Env_0400,F100,Ground,01/01/2020,+,34.72,ORF1ab/N,Yes
+Env_0313,"F13b, f",Surface of the wall ,01/01/2020,+,23.85,ORF1ab/N,Yes
+Env_0333,F33,Roller shutter,01/01/2020,+,34.13,ORF1ab/N,Yes
+Env_0346,F46,Ground,01/01/2020,+,31.8,ORF1ab/N,Yes
+Env_0354,"F54b, f",Ground,01/01/2020,+,25.8,ORF1ab/N,Yes
+Env_0398,F98,Ground,01/01/2020,+,34,ORF1ab/N,Yes
+Env_0509,G93,Sewage,01/01/2020,+,33.23,ORF1ab/N,Yes
+Env_0552,Q37,Inner surface of the freezer,12/01/2020,-,NA,ORF1ab/N,Yes
+Env_0576,Q61,Cart1,12/01/2020,-,NA,ORF1ab/N,Yes
+Env_0579,Q64,Cart2,12/01/2020,+,+,ORF1ab/N,Yes
+Env_0583,Q68,Ground,12/01/2020,+,+,ORF1ab/N,Yes
+Env_0584,Q69,Feather removal machine,12/01/2020,+,+,ORF1ab/N,Yes
+Env_0585,Q70,Iron container in inner room,12/01/2020,-,NA,ORF1ab/N,Yes
+Env_0660,1-27-33,Water drain,27/01/2020,+,36,ORF1ab,No
+Env_0664,1-27-37,Water drain,27/01/2020,+,35,ORF1ab,No
+Env_0682,1-29-4,Water drain,29/01/2020,+,36,ORF1ab,No
+Env_0686,1-29-8,Water drain,29/01/2020,+,37,ORF1ab,Yes
+Env_0717,8-25-D,Ground inside the stalls,03/02/2020,+,35.9,ORF1ab,Yes
+Env_0719,8-25-M1,Ground inside the stalls,03/02/2020,+,36.5,ORF1ab,Yes
+Env_0742,WS-1-1,West sewage well 1,05/02/2020,+,36.00,ORF1ab,Yes
+Env_0743,WS-1-2,West sewage well 2,05/02/2020,+,38.00,ORF1ab,No
+Env_0744,WS-1-3,West sewage well 3,05/02/2020,+,34.01,ORF1ab,No
+Env_0745,WS-1-4,West sewage well 4,05/02/2020,+,38.00,ORF1ab,No
+Env_0746,WS-2-1,West sewage well 1,05/02/2020,+,37.30,ORF1ab,Yes
+Env_0747,WS-2-2,West sewage well 2,05/02/2020,+,37.65,ORF1ab,No
+Env_0748,WS-2-3,West sewage well 2,05/02/2020,+,36.72,ORF1ab,Yes
+Env_0750,WS-3-2,West sewage well 3,05/02/2020,+,37.60,ORF1ab,No
+Env_0752,WS-4-2,West sewage well 4,05/02/2020,+,37.10,ORF1ab,Yes
+Env_0762,zong-1,Water drain,09/02/2020,+,34.94,ORF1ab,No
+Env_0828,w-6-29-33,Water drain,15/02/2020,+,37.97,ORF1ab,Yes
+Env_0829,w-zong-1,Water drain,15/02/2020,+,36.54,ORF1ab,Yes
+Env_0813,EWS-2#-2,East sewage well 2,15/02/2020,+,35.32,ORF1ab,Yes
+Env_0815,EWS-3#-2,West sewage well 3,15/02/2020,+,36.05,ORF1ab,Yes
+Env_0816,WWS-1#,West sewage well 1,15/02/2020,+,34.44,ORF1ab,Yes
+Env_0817,WWS-1#-2,West sewage well 1,15/02/2020,+,33.63,ORF1ab,Yes
+Env_0818,WWS-1#-3,West sewage well 1,15/02/2020,+,33.58,ORF1ab,Yes
+Env_0820,WWS-2#-2,West sewage well 2,15/02/2020,+,37.44,ORF1ab,Yes
+Env_0821,WWS-2#-3,West sewage well 2,15/02/2020,+,36.88,ORF1ab,Yes
+Env_0830,wws-1#-0,West sewage well 1,15/02/2020,+,33.75,ORF1ab,Yes
+Env_0806,W-8-25-D1,Ground inside the stalls,15/02/2020,+,36.77,ORF1ab,Yes
+Env_0807,W-8-25-D2,Ground inside the stalls,15/02/2020,+,33.91,ORF1ab,Yes
+Env_0808,W-8-25-L,Container,15/02/2020,+,34.58,ORF1ab,Yes
+Env_0809,W-8-25-L2,Container,15/02/2020,+,37.16,ORF1ab,Yes
+Env_0838,C8,Wall inside the stalls,20/02/2020,+,32.59/-/37.34e,RdRp/N/E,No
+Env_0862,SJ-D,Storehouse ground,22/02/2020,+,39.39/39.25/35.48,RdRp/N/E,No
+Env_0863,SJ-CS,Storehouse weight scale,22/02/2020,+,40.21/40.1/36.37,RdRp/N/E,No
+Env_0865,SJ-L3,Storehouse wire fence,22/02/2020,+,41.77/41.62/37.61,RdRp/N/E,No
+Env_0867,RLC-4,Storehouse bag surfaces,22/02/2020,+,41.71/41.53/37.31,RdRp/N/E,No
+Env_0868,RLC-3,Storehouse bag surfaces,22/02/2020,+,36.18/36.05/32.36,RdRp/N/E,Yes
+Env_0601,WH-17,floor surface swab collected from Dongxihu Market,22/01/2020,+,33.90,ORF1ab,No
+Env_0790,CSSQ-1-3,sewerage well in   surrounding area,09/02/2020,+,37.23,ORF1ab,Yes
+Env_0797,YCHC2-1-1,sewerage well in   surrounding area,09/02/2020,+,36.42,ORF1ab,No
+Env_0802,HXJC4-1-3,sewerage well in   surrounding area,09/02/2020,+,36.05,ORF1ab,Yes
