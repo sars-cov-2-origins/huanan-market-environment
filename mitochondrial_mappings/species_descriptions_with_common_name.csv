@@ -1,0 +1,193 @@
+Contig,Species,Class,Group,Bases_covered,Common_name,Genus,Xiao_observed,Category
+KX585864.1,Accipiter gularis,Aves,Bird,21186,Japanese sparrowhawk,Accipiter,FALSE,Other
+NC_025580.1,Accipiter nisus,Aves,Bird,824,Eurasian sparrowhawk,Accipiter,FALSE,Other
+NC_026082.1,Accipiter virgatus,Aves,Bird,468,besra,Accipiter,FALSE,Other
+CM045469.1,Aix galericulata,Aves,Bird,3417,mandarin duck,Aix,FALSE,Other
+NC_020585.1,Alectoris chukar,Aves,Bird,1686,chukar partridge,Alectoris,TRUE,Observed Xiao 2021
+NC_022418.1,Anas poecilorhyncha,Aves,Bird,618738,Indian spot-billed duck,Anas,FALSE,Other
+NC_039888.1,Anser albifrons,Aves,Bird,81433,White-fronted goose,Anser,FALSE,Other
+NC_025923.1,Botaurus stellaris,Aves,Bird,1009,Eurasian bittern,Botaurus,FALSE,Other
+NC_038219.1,Bubo bubo,Aves,Bird,2425,Eurasian eagle-owl,Bubo,FALSE,Other
+NC_003128.3,Buteo buteo,Aves,Bird,3069,common buzzard,Buteo,FALSE,Other
+NC_048989.1,Columba hodgsonii,Aves,Bird,448,speckled wood-pigeon,Columba,FALSE,Other
+LC541478.1,Columba janthina,Aves,Bird,522,Japanese wood-pigeon,Columba,FALSE,Other
+NC_013978.1,Columba livia,Aves,Bird,355668,rock pigeon,Columba,FALSE,Other
+NC_030603.1,Copsychus saularis,Aves,Bird,473,Oriental magpie-robin,Copsychus,FALSE,Other
+NC_003408.1,Coturnix japonica,Aves,Bird,129076,Japanese quail,Coturnix,FALSE,Other
+NC_007691.1,Cygnus columbianus,Aves,Bird,2218,tundra swan,Cygnus,FALSE,Other
+NC_025500.1,Fulica atra,Aves,Bird,556,Eurasian coot,Fulica,FALSE,Other
+NC_015236.1,Gallinula chloropus,Aves,Bird,89977,common moorhen,Gallinula,FALSE,Other
+NC_053523.1,Gallus gallus,Aves,Bird,684044,chicken,Gallus,FALSE,Other
+NC_034296.1,Glaucidium cuculoides,Aves,Bird,516,Asian barred owlet,Glaucidium,FALSE,Other
+NC_015526.1,Phasianus colchicus,Aves,Bird,334911,Ring-necked pheasant,Phasianus,TRUE,Observed Xiao 2021
+NC_008140.1,Podiceps cristatus,Aves,Bird,12309,great crested grebe,Podiceps,FALSE,Other
+NC_025521.1,Scolopax rusticola,Aves,Bird,688,Eurasian woodcock,Scolopax,FALSE,Other
+NC_031447.1,Streptopelia orientalis,Aves,Bird,141275,eastern turtle dove,Streptopelia,FALSE,Other
+NC_025637.1,Vanellus vanellus,Aves,Bird,473,northern lapwing,Vanellus,FALSE,Other
+NC_056354.1,Alectryonella plicatula,Bivalvia,Bivalves,5734,fingerprint oyster,Alectryonella,FALSE,Aquatic animals
+NC_024927.1,Anadara sativa,Bivalvia,Bivalves,9697,ark clam,Anadara,FALSE,Aquatic animals
+NC_009687.1,Argopecten irradians,Bivalvia,Bivalves,4240,bay scallop,Argopecten,FALSE,Aquatic animals
+NC_020028.1,Atrina pectinata,Bivalvia,Bivalves,1397,pen shell,Atrina,FALSE,Aquatic animals
+NC_048487.1,Mercenaria mercenaria,Bivalvia,Bivalves,2734,northern quahog,Mercenaria,FALSE,Aquatic animals
+NC_014809.1,Meretrix lusoria,Bivalvia,Bivalves,4253,Asian hard clam,Meretrix,FALSE,Aquatic animals
+NC_056622.1,Mizuhopecten yessoensis,Bivalvia,Bivalves,49356,Yesso scallop,Mizuhopecten,FALSE,Aquatic animals
+NC_030633.1,Mytilus chilensis,Bivalvia,Bivalves,3183,Chilean blue mussel,Mytilus,FALSE,Aquatic animals
+NC_024733.1,Mytilus coruscus,Bivalvia,Bivalves,1695,Korean mussel,Mytilus,FALSE,Aquatic animals
+NC_031332.1,Ruditapes philippinarum,Bivalvia,Bivalves,59841,Manila clam,Ruditapes,FALSE,Aquatic animals
+NC_011075.1,Sinonovacula constricta,Bivalvia,Bivalves,57468,Chinese razor clam,Sinonovacula,FALSE,Aquatic animals
+NC_024751.1,Caridina gracilipes,Malacostraca,Crustacean,1883,freshwater shrimp,Caridina,FALSE,Aquatic animals
+NC_013246.1,Charybdis japonica,Malacostraca,Crustacean,5229,shore swimming crab,Charybdis,FALSE,Aquatic animals
+NC_006992.1,Eriocheir sinensis,Malacostraca,Crustacean,3535,Chinese mitten crab,Eriocheir,FALSE,Aquatic animals
+NC_015073.1,Macrobrachium nipponense,Malacostraca,Crustacean,22705,oriental river prawn,Macrobrachium,FALSE,Aquatic animals
+NC_006880.1,Macrobrachium rosenbergii,Malacostraca,Crustacean,7493,giant freshwater prawn,Macrobrachium,FALSE,Aquatic animals
+NC_029457.1,Metapenaeopsis dalei,Malacostraca,Crustacean,469,kishi velvet shrimp,Metapenaeopsis,FALSE,Aquatic animals
+NC_023823.1,Neocaridina denticulata,Malacostraca,Crustacean,18951,Japanese swamp shrimp,Neocaridina,FALSE,Aquatic animals
+NC_014342.1,Oratosquilla oratoria,Malacostraca,Crustacean,2492,Japanese mantis shrimp,Oratosquilla,FALSE,Aquatic animals
+NC_009626.1,Penaeus vannamei,Malacostraca,Crustacean,27627,Pacific white shrimp,Penaeus,FALSE,Aquatic animals
+NC_005037.1,Portunus trituberculatus,Malacostraca,Crustacean,19189,swimming crab,Portunus,FALSE,Aquatic animals
+NC_012569.1,Scylla olivacea,Malacostraca,Crustacean,16999,orange mud crab,Scylla,FALSE,Aquatic animals
+NC_048988.1,Abbottina binhi,Actinopteri,Fish,11982,cyprinid fish,Abbottina,FALSE,Aquatic animals
+NC_056780.1,Acanthopagrus latus,Actinopteri,Fish,494,yellowfin seabream,Acanthopagrus,FALSE,Aquatic animals
+NC_047480.1,Benthosema pterotum,Actinopteri,Fish,2553,skinnycheek lanternfish,Benthosema,FALSE,Aquatic animals
+NC_035976.1,Carassius auratus,Actinopteri,Fish,59780,goldfish,Carassius,FALSE,Aquatic animals
+JX978723.1,Channa argus,Actinopteri,Fish,49436,northern snakehead,Channa,FALSE,Aquatic animals
+NC_025225.1,Channa asiatica,Actinopteri,Fish,467,small snakehead,Channa,FALSE,Aquatic animals
+NC_036948.1,Channa gachua,Actinopteri,Fish,3013,dwarf snakehead,Channa,FALSE,Aquatic animals
+MF804538.1,Channa lucius,Actinopteri,Fish,433,Forest snakehead,Channa,FALSE,Aquatic animals
+NC_009579.1,Coilia nasus,Actinopteri,Fish,1509,Japanese grenadier anchovy,Coilia,FALSE,Aquatic animals
+NC_018134.1,Ctenopharyngodon idella,Actinopteri,Fish,173233,grass carp,Ctenopharyngodon,FALSE,Aquatic animals
+NC_029771.1,Danio albolineatus,Actinopteri,Fish,509,pearl danio,Danio,FALSE,Aquatic animals
+AP011213.1,Elopichthys bambusa,Actinopteri,Fish,4712,yellowcheek carp,Elopichthys,FALSE,Aquatic animals
+NC_020046.1,Epinephelus fuscoguttatus,Actinopteri,Fish,6990,brown-marbled grouper,Epinephelus,FALSE,Aquatic animals
+JX534239.1,Harpadon nehereus,Actinopteri,Fish,16972,Bombay duck fish,Harpadon,FALSE,Aquatic animals
+NC_008644.1,Hemibarbus barbus,Actinopteri,Fish,7660,barbel steed,Hemibarbus,FALSE,Aquatic animals
+NC_003489.1,Ictalurus punctatus,Actinopteri,Fish,46731,channel catfish,Ictalurus,FALSE,Aquatic animals
+NC_041647.1,Jaydia lineata,Actinopteri,Fish,901,Indian perch,Jaydia,FALSE,Aquatic animals
+NC_011710.1,Larimichthys crocea,Actinopteri,Fish,43708,large yellow croaker,Larimichthys,FALSE,Aquatic animals
+NC_007439.1,Lates calcarifer,Actinopteri,Fish,3709,barramundi perch,Lates,FALSE,Aquatic animals
+NC_023828.1,Lophius litulon,Actinopteri,Fish,548,anglerfish,Lophius,FALSE,Aquatic animals
+NC_020338.1,Luciobarbus capito,Actinopteri,Fish,11203,Bulatmai barbel,Luciobarbus,FALSE,Aquatic animals
+NC_021763.1,Micropercops swinhonis,Actinopteri,Fish,4402,gudgeon,Micropercops,FALSE,Aquatic animals
+NC_066925.1,Micropterus punctulatus,Actinopteri,Fish,113726,spotted bass,Micropterus,FALSE,Aquatic animals
+NC_022854.1,Misgurnus bipartitus,Actinopteri,Fish,478,loach,Misgurnus,FALSE,Aquatic animals
+NC_003192.1,Monopterus albus,Actinopteri,Fish,39406,swamp eel,Monopterus,FALSE,Aquatic animals
+OM736804.1,Monopterus albus,Actinopteri,Fish,5367,swamp eel,Monopterus,FALSE,Aquatic animals
+NC_056403.1,Ophichthys cuchia,Actinopteri,Fish,12669,cuchia,Ophichthys,FALSE,Aquatic animals
+NC_013434.1,Oryzias sinensis,Actinopteri,Fish,1053,Chinese medaka,Oryzias,FALSE,Aquatic animals
+NC_023258.1,Pampus echinogaster,Actinopteri,Fish,5548,pampus,Pampus,FALSE,Aquatic animals
+NC_024430.1,Paracanthobrama guichenoti,Actinopteri,Fish,548,cyprinid fish,Paracanthobrama,FALSE,Aquatic animals
+NC_023803.1,Paramisgurnus dabryanus,Actinopteri,Fish,16820,large-scale loach,Paramisgurnus,FALSE,Aquatic animals
+NC_008449.1,Plectropomus leopardus,Actinopteri,Fish,537,leopard coralgrouper,Plectropomus,FALSE,Aquatic animals
+NC_004419.1,Polyodon spathula,Actinopteri,Fish,5042,Mississippi paddlefish,Polyodon,FALSE,Aquatic animals
+NC_024939.1,Prochilodus lineatus,Actinopteri,Fish,627,curimbata,Prochilodus,FALSE,Aquatic animals
+NC_026712.1,Pseudolaubuca sinensis,Actinopteri,Fish,432,cyprinid fish,Pseudolaubuca,FALSE,Aquatic animals
+NC_015614.1,Pseudorasbora parva,Actinopteri,Fish,61648,stone moroko,Pseudorasbora,FALSE,Aquatic animals
+NC_009711.1,Reinhardtius hippoglossoides,Actinopteri,Fish,749,Greenland flounder,Reinhardtius,FALSE,Aquatic animals
+NC_029252.1,Rhinogobius cliffordpopei,Actinopteri,Fish,1267,goby,Rhinogobius,FALSE,Aquatic animals
+NC_022721.1,Rhodeus sinensis,Actinopteri,Fish,2545,Chinese bitterling,Rhodeus,FALSE,Aquatic animals
+NC_001960.1,Salmo salar,Actinopteri,Fish,45654,Atlantic salmon,Salmo,FALSE,Aquatic animals
+NC_016420.1,Scomberomorus niphonius,Actinopteri,Fish,1301,Japanese Spanish mackerel,Scomberomorus,FALSE,Aquatic animals
+NC_013183.1,Scophthalmus maximus,Actinopteri,Fish,20598,turbot,Scophthalmus,FALSE,Aquatic animals
+NC_016870.1,Seriola dumerili,Actinopteri,Fish,499,greater amberjack,Seriola,FALSE,Aquatic animals
+NC_014866.1,Silurus meridionalis,Actinopteri,Fish,22278,Yangtze catfish,Silurus,FALSE,Aquatic animals
+NC_015987.1,Siniperca knerii,Actinopteri,Fish,110332,big-eye mandarin fish,Siniperca,FALSE,Aquatic animals
+NC_026709.1,Sinobdella sinensis,Actinopteri,Fish,552,spiny eel,Sinobdella,FALSE,Aquatic animals
+NC_015888.1,Tachysurus fulvidraco,Actinopteri,Fish,96100,yellow catfish,Tachysurus,FALSE,Aquatic animals
+NC_011626.1,Takifugu obscurus,Actinopteri,Fish,1029,mefugu,Takifugu,FALSE,Aquatic animals
+NC_022707.1,Trachinotus ovatus,Actinopteri,Fish,3640,derbio,Trachinotus,FALSE,Aquatic animals
+NC_042168.1,Trichiurus haumela,Actinopteri,Fish,1010,largehead hairtail,Trichiurus,FALSE,Aquatic animals
+KX641475.1,Uranoscopus tosae,Actinopteri,Fish,20429,stargazer fish,Uranoscopus,FALSE,Aquatic animals
+NC_020645.1,Arctonyx collaris,Mammalia,Mammal,40645,greater hog badger,Arctonyx,TRUE,Observed Xiao 2021
+NC_006853.1,Bos taurus,Mammalia,Mammal,104772,cattle,Bos,FALSE,Other
+NC_006295.1,Bubalus carabanensis,Mammalia,Mammal,4040,carabao,Bubalus,FALSE,Other
+NC_002008.4,Canis lupus,Mammalia,Mammal,271693,dog,Canis,FALSE,Other
+KR866125.1,Capra hircus,Mammalia,Mammal,50977,goat,Capra,FALSE,Other
+NC_008066.1,Chlorocebus sabaeus,Mammalia,Mammal,23258,green monkey,Chlorocebus,FALSE,Other
+NC_001640.1,Equus caballus,Mammalia,Mammal,5372,horse,Equus,FALSE,Other
+KX964606.1,Erinaceus amurensis,Mammalia,Mammal,165662,Amur hedgehog,Erinaceus,TRUE,Observed Xiao 2021
+NC_001700.1,Felis catus,Mammalia,Mammal,95928,domestic cat,Felis,FALSE,Other
+NC_005033.1,Hemiechinus auritus,Mammalia,Mammal,1167,long-eared hedgehog,Hemiechinus,FALSE,Other
+NC_012920.1,Homo sapiens,Mammalia,Mammal,432900,human,Homo,FALSE,Human
+KR816507.1,Hystrix brachyura,Mammalia,Mammal,28376,Malayan porcupine,Hystrix,TRUE,Observed Xiao 2021
+NC_069637.1,Hystrix indica,Mammalia,Mammal,1509,Indian crested porcupine,Hystrix,TRUE,Observed Xiao 2021
+NC_025316.1,Lepus sinensis,Mammalia,Mammal,69663,Chinese hare,Lepus,TRUE,Observed Xiao 2021
+NC_018367.1,Marmota himalayana,Mammalia,Mammal,34964,Himalayan marmot,Marmota,TRUE,Observed Xiao 2021
+MN400429.1,Melogale moschata,Mammalia,Mammal,12453,Chinese ferret-badger,Melogale,FALSE,Other
+NC_004069.1,Muntiacus reevesi,Mammalia,Mammal,41587,Reeves' muntjac,Muntiacus,TRUE,Observed Xiao 2021
+NC_020637.1,Mustela sibirica,Mammalia,Mammal,8960,Siberian weasel,Mustela,TRUE,Observed Xiao 2021
+NC_035866.1,Myocastor coypus,Mammalia,Mammal,19388,nutria,Myocastor,TRUE,Observed Xiao 2021
+NC_013700.1,Nyctereutes procyonoides,Mammalia,Mammal,339770,raccoon dog,Nyctereutes,TRUE,Observed Xiao 2021
+NC_001913.1,Oryctolagus cuniculus,Mammalia,Mammal,219972,rabbit,Oryctolagus,FALSE,Other
+NC_036369.1,Otocyon megalotis,Mammalia,Mammal,533,bat-eared fox,Otocyon,FALSE,Other
+NC_026063.1,Ovis orientalis,Mammalia,Mammal,180965,sheep,Ovis,FALSE,Other
+NC_029403.1,Paguma larvata,Mammalia,Mammal,13226,masked palm civet,Paguma,TRUE,Observed Xiao 2021
+NC_012389.1,Rattus exulans,Mammalia,Mammal,709,Polynesian rat,Rattus,FALSE,Other
+NC_011638.1,Rattus tanezumi,Mammalia,Mammal,100923,Asian house rat,Rattus,FALSE,Other
+NC_014861.1,Rattus tunneyi,Mammalia,Mammal,713,Tunney's rat,Rattus,FALSE,Other
+NC_021478.1,Rhizomys pruinosus,Mammalia,Mammal,180207,hoary bamboo rat,Rhizomys,TRUE,Observed Xiao 2021
+NC_026124.1,Rhizomys sinensis,Mammalia,Mammal,606,Chinese bamboo rat,Rhizomys,TRUE,Observed Xiao 2021
+NC_039104.1,Rhizomys sumatrensis,Mammalia,Mammal,1004,large bamboo rat,Rhizomys,TRUE,Observed Xiao 2021
+NC_012095.1,Sus scrofa,Mammalia,Mammal,201982,wild boar,Sus,TRUE,Observed Xiao 2021
+NC_026529.1,Vulpes lagopus,Mammalia,Mammal,13275,Arctic fox,Vulpes,TRUE,Observed Xiao 2021
+NC_008434.1,Vulpes vulpes,Mammalia,Mammal,17108,red fox,Vulpes,TRUE,Observed Xiao 2021
+NC_036351.1,Amphioctopus marginatus,Cephalopoda,Other,3520,coconut octopus,Amphioctopus,FALSE,Aquatic animals
+NC_004926.1,Andrias davidianus,Amphibia,Other,38895,Chinese giant salamander,Andrias,FALSE,Other
+NC_014295.1,Apis cerana,Insecta,Other,458,Asiatic honeybee,Apis,FALSE,Other
+NC_021469.1,Ascidiella aspersa,Ascidiacea,Other,665,European sea squirt,Ascidiella,FALSE,Aquatic animals
+NC_023080.1,Babylonia areolata,Gastropoda,Other,875,spotted babylon,Babylonia,FALSE,Aquatic animals
+NC_018549.1,Blattella bisignata,Insecta,Other,9062,double-striped cockroach,Blattella,FALSE,Other
+NC_012901.1,Blattella germanica,Insecta,Other,82897,German cockroach,Blattella,FALSE,Other
+NC_062715.1,Blomia tropicalis,Arachnida,Other,31979,tropical mite,Blomia,FALSE,Other
+NC_002355.1,Bombyx mori,Insecta,Other,1725,domestic silkworm,Bombyx,FALSE,Other
+NC_024103.1,Botrylloides leachii,Ascidiacea,Other,3578,Leach's sea squirt,Botrylloides,FALSE,Aquatic animals
+NC_020048.1,Bufo tibetanus,Amphibia,Other,1537,Tibetan toad,Bufo,FALSE,Other
+NC_010197.1,Bugula neritina,Gymnolaemata,Other,1603,brown bryozoan,Bugula,FALSE,Aquatic animals
+NC_029215.1,Calliphora chinghaiensis,Insecta,Other,26682,blowfly,Calliphora,FALSE,Other
+NC_048990.1,Carpoglyphus lactis,Arachnida,Other,15214,prune mite,Carpoglyphus,FALSE,Other
+NC_046036.1,Carpophilus dimidiatus,Insecta,Other,559,cornsap beetle,Carpophilus,FALSE,Other
+NC_067498.1,Chortoglyphus arcuatus,Arachnida,Other,1926,storage mite,Chortoglyphus,FALSE,Other
+NC_060839.1,Clogmia albipunctata,Insecta,Other,16837,mothmidge,Clogmia,FALSE,Other
+NC_049858.1,Ctenocephalides felis,Insecta,Other,24728,cat flea,Ctenocephalides,FALSE,Other
+NC_041412.1,Dasyhippus barbipes,Insecta,Other,1268,grasshopper,Dasyhippus,FALSE,Other
+NC_013184.1,Dermatophagoides farinae,Arachnida,Other,7376,American house dust mite,Dermatophagoides,FALSE,Other
+NC_035106.1,Diploscapter coronatus,Chromadorea,Other,2044,nematode,Diploscapter,FALSE,Other
+NC_030518.1,Echinochasmus japonicus,Trematoda,Other,1511,fluke,Echinochasmus,FALSE,Other
+NC_065213.1,Eisenia fetida,Clitellata,Other,1653,common brandling worm,Eisenia,FALSE,Other
+NC_059757.1,Eophileurus chinensis,Insecta,Other,1394,scarab beetle,Eophileurus,FALSE,Other
+NC_046756.1,Epophthalmia elegans,Insecta,Other,6459,regal pond cruiser,Epophthalmia,FALSE,Other
+NC_018536.1,Galba pervia,Gastropoda,Other,848,freshwater snail,Galba,FALSE,Aquatic animals
+NC_005292.1,Haemaphysalis flava,Arachnida,Other,7701,tick,Haemaphysalis,FALSE,Other
+NC_031362.1,Haliotis discus,Gastropoda,Other,11147,disc abalone,Haliotis,FALSE,Aquatic animals
+NC_038207.1,Histiostoma feroniarum,Arachnida,Other,4573,mite,Histiostoma,FALSE,Other
+JX181763.1,Hoplobatrachus rugulosus,Amphibia,Other,744,rugose frog,Hoplobatrachus,FALSE,Other
+NC_062716.1,Lepidoglyphus destructor,Arachnida,Other,54931,storage mite,Lepidoglyphus,FALSE,Other
+NC_023839.1,Liposcelis decolor,Insecta,Other,18124,booklouse,Liposcelis,FALSE,Other
+NC_025504.1,Liposcelis entomophila,Insecta,Other,8219,booklouse,Liposcelis,FALSE,Other
+NC_025503.1,Liposcelis entomophila,Insecta,Other,8074,booklouse,Liposcelis,FALSE,Other
+NC_013815.1,Metastrongylus salmi,Chromadorea,Other,859,lungworm,Metastrongylus,FALSE,Other
+NC_000933.1,Metridium senile,Anthozoa,Other,1064,brown sea anemone,Metridium,FALSE,Aquatic animals
+NC_051486.1,Monomorium pharaonis,Insecta,Other,729,pharaoh ant,Monomorium,FALSE,Other
+NC_029755.1,Neoscona nautica,Arachnida,Other,588,brown sailor spider,Neoscona,FALSE,Other
+NC_061975.1,Parasitus fimetorum,Arachnida,Other,473,mite,Parasitus,FALSE,Other
+NC_016956.1,Periplaneta americana,Insecta,Other,9484,American cockroach,Periplaneta,FALSE,Other
+NC_006076.1,Periplaneta fuliginosa,Insecta,Other,519,smokybrown cockroach,Periplaneta,FALSE,Other
+NC_023253.1,Physella acuta,Gastropoda,Other,2432,tadpole snail,Physella,FALSE,Aquatic animals
+NC_027961.1,Plodia interpunctella,Insecta,Other,3863,Indianmeal moth,Plodia,FALSE,Other
+NC_024586.1,Pomacea canaliculata,Gastropoda,Other,12628,apple snail,Pomacea,FALSE,Aquatic animals
+NC_027503.1,Pomacea maculata,Gastropoda,Other,4361,giant apple snail,Pomacea,FALSE,Aquatic animals
+NC_023453.1,Protaetia brevitarsis,Insecta,Other,442,white-spotted flower chafer,Protaetia,FALSE,Other
+NC_013568.1,Rotaria rotatoria,Eurotatoria,Other,1068,bdelloid rotifer,Rotaria,FALSE,Other
+NC_007895.1,Sepia officinalis,Cephalopoda,Other,18333,common cuttlefish,Sepia,FALSE,Aquatic animals
+NC_030764.1,Sitophilus zeamais,Insecta,Other,645,maize weevil,Sitophilus,FALSE,Other
+NC_061250.1,Spirometra ranarum,Cestoda,Other,3007,tapeworm,Spirometra,FALSE,Other
+NC_028229.1,Strongyloides venezuelensis,Chromadorea,Other,13901,threadworm,Strongyloides,FALSE,Other
+NC_010773.1,Toxocara cati,Chromadorea,Other,1893,cat roundworm,Toxocara,FALSE,Other
+NC_028725.1,Tyrophagus longior,Arachnida,Other,1588,storage mite,Tyrophagus,FALSE,Other
+NC_026079.1,Tyrophagus putrescentiae,Arachnida,Other,20564,cheese mite,Tyrophagus,FALSE,Other
+NC_027605.1,Elaphe schrenckii,Lepidosauria,Reptile,1302,Amur rat snake,Elaphe,TRUE,Observed Xiao 2021
+NC_024559.1,Lycodon rufozonatus,Lepidosauria,Reptile,10088,red-banded snake,Lycodon,FALSE,Other
+NC_015101.1,Mauremys megalocephala,Reptilia,Reptile,547,Chinese broad-headed pond turtle,Mauremys,FALSE,Other
+NC_011389.1,Naja atra,Lepidosauria,Reptile,80656,Chinese cobra,Naja,TRUE,Observed Xiao 2021
+NC_068236.1,Pelodiscus sinensis,Reptilia,Reptile,15466,Chinese soft-shelled turtle,Pelodiscus,FALSE,Other
+NC_028049.1,Ptyas dhumnades,Lepidosauria,Reptile,28078,Chinese ratsnake,Ptyas,TRUE,Observed Xiao 2021
+NC_030041.1,Ptyas mucosa,Lepidosauria,Reptile,233027,Dhaman,Ptyas,TRUE,Observed Xiao 2021
